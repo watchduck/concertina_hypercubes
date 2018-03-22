@@ -1,0 +1,347 @@
+# These are the 344 edges of a concertina 4-cube.
+
+
+e2 a4 e1 a3 --> a4 e12 a3
+e2 a4 e1 a3 --> e2 a34 e1
+a23 e1 a4 --> e2 a3 e1 a4
+a23 e1 a4 --> e3 a2 e1 a4
+a23 e1 a4 --> a234 e1
+a12 e3 a4 --> e1 a2 e3 a4
+a12 e3 a4 --> e2 a1 e3 a4
+a12 e3 a4 --> a124 e3
+e123 a4 --> e12 a4 e3
+e123 a4 --> e13 a4 e2
+e123 a4 --> e23 a4 e1
+a24 e1 a3 --> e2 a4 e1 a3
+a24 e1 a3 --> e4 a2 e1 a3
+a24 e1 a3 --> a234 e1
+a3 e24 a1 --> e234 a1
+a3 e24 a1 --> a3 e4 a1 e2
+a3 e24 a1 --> a3 e2 a1 e4
+e1 a4 e3 a2 --> a4 e13 a2
+e1 a4 e3 a2 --> e1 a24 e3
+e4 a3 e1 a2 --> a3 e14 a2
+e4 a3 e1 a2 --> e4 a23 e1
+a1 e23 a4 --> e123 a4
+a1 e23 a4 --> a1 e2 a4 e3
+a1 e23 a4 --> a1 e3 a4 e2
+e4 a123 --> a1 e4 a23
+e4 a123 --> a2 e4 a13
+e4 a123 --> a3 e4 a12
+a3 e12 a4 --> e123 a4
+a3 e12 a4 --> a3 e2 a4 e1
+a3 e12 a4 --> a3 e1 a4 e2
+e4 a2 e3 a1 --> a2 e34 a1
+e4 a2 e3 a1 --> e4 a12 e3
+a4 e2 a13 --> a34 e2 a1
+a4 e2 a13 --> e24 a13
+a4 e2 a13 --> a14 e2 a3
+e2 a3 e1 a4 --> a3 e12 a4
+e2 a3 e1 a4 --> e2 a34 e1
+e1 a4 e2 a3 --> a4 e12 a3
+e1 a4 e2 a3 --> e1 a34 e2
+e1 a234 --> a3 e1 a24
+e1 a234 --> a4 e1 a23
+e1 a234 --> a2 e1 a34
+a1 e4 a23 --> a12 e4 a3
+a1 e4 a23 --> e14 a23
+a1 e4 a23 --> a13 e4 a2
+e2 a3 e4 a1 --> a3 e24 a1
+e2 a3 e4 a1 --> e2 a13 e4
+e23 a14 --> e3 a1 e2 a4
+e23 a14 --> e2 a1 e3 a4
+e23 a14 --> e3 a4 e2 a1
+e23 a14 --> e2 a4 e3 a1
+a3 e14 a2 --> e134 a2
+a3 e14 a2 --> a3 e1 a2 e4
+a3 e14 a2 --> a3 e4 a2 e1
+a2 e14 a3 --> e124 a3
+a2 e14 a3 --> a2 e1 a3 e4
+a2 e14 a3 --> a2 e4 a3 e1
+e1 a2 e4 a3 --> a2 e14 a3
+e1 a2 e4 a3 --> e1 a23 e4
+a2 e34 a1 --> e234 a1
+a2 e34 a1 --> a2 e4 a1 e3
+a2 e34 a1 --> a2 e3 a1 e4
+a1 e34 a2 --> e134 a2
+a1 e34 a2 --> a1 e4 a2 e3
+a1 e34 a2 --> a1 e3 a2 e4
+e4 a2 e1 a3 --> a2 e14 a3
+e4 a2 e1 a3 --> e4 a23 e1
+a2 e13 a4 --> e123 a4
+a2 e13 a4 --> a2 e3 a4 e1
+a2 e13 a4 --> a2 e1 a4 e3
+e12 a34 --> e2 a4 e1 a3
+e12 a34 --> e2 a3 e1 a4
+e12 a34 --> e1 a4 e2 a3
+e12 a34 --> e1 a3 e2 a4
+e3 a1 e2 a4 --> a1 e23 a4
+e3 a1 e2 a4 --> e3 a14 e2
+a1 e3 a24 --> a12 e3 a4
+a1 e3 a24 --> a14 e3 a2
+a1 e3 a24 --> e13 a24
+a12 e4 a3 --> e1 a2 e4 a3
+a12 e4 a3 --> e2 a1 e4 a3
+a12 e4 a3 --> a123 e4
+e234 a1 --> e23 a1 e4
+e234 a1 --> e24 a1 e3
+e234 a1 --> e34 a1 e2
+a24 e3 a1 --> e4 a2 e3 a1
+a24 e3 a1 --> e2 a4 e3 a1
+a24 e3 a1 --> a124 e3
+a34 e2 a1 --> e4 a3 e2 a1
+a34 e2 a1 --> e3 a4 e2 a1
+a34 e2 a1 --> a134 e2
+e4 a3 e2 a1 --> a3 e24 a1
+e4 a3 e2 a1 --> e4 a13 e2
+e3 a2 e4 a1 --> a2 e34 a1
+e3 a2 e4 a1 --> e3 a12 e4
+e3 a4 e1 a2 --> a4 e13 a2
+e3 a4 e1 a2 --> e3 a24 e1
+a13 e2 a4 --> e3 a1 e2 a4
+a13 e2 a4 --> e1 a3 e2 a4
+a13 e2 a4 --> a134 e2
+a4 e23 a1 --> e234 a1
+a4 e23 a1 --> a4 e3 a1 e2
+a4 e23 a1 --> a4 e2 a1 e3
+e1 a2 e3 a4 --> a2 e13 a4
+e1 a2 e3 a4 --> e1 a24 e3
+a14 e3 a2 --> e1 a4 e3 a2
+a14 e3 a2 --> e4 a1 e3 a2
+a14 e3 a2 --> a124 e3
+a3 e2 a14 --> e23 a14
+a3 e2 a14 --> a34 e2 a1
+a3 e2 a14 --> a13 e2 a4
+e1 a3 e2 a4 --> a3 e12 a4
+e1 a3 e2 a4 --> e1 a34 e2
+a1 e24 a3 --> e124 a3
+a1 e24 a3 --> a1 e4 a3 e2
+a1 e24 a3 --> a1 e2 a3 e4
+e4 a1 e2 a3 --> a1 e24 a3
+e4 a1 e2 a3 --> e4 a13 e2
+a4 e13 a2 --> e134 a2
+a4 e13 a2 --> a4 e3 a2 e1
+a4 e13 a2 --> a4 e1 a2 e3
+e124 a3 --> e12 a3 e4
+e124 a3 --> e24 a3 e1
+e124 a3 --> e14 a3 e2
+e24 a13 --> e2 a3 e4 a1
+e24 a13 --> e4 a3 e2 a1
+e24 a13 --> e4 a1 e2 a3
+e24 a13 --> e2 a1 e4 a3
+a4 e3 a12 --> a24 e3 a1
+a4 e3 a12 --> a14 e3 a2
+a4 e3 a12 --> e34 a12
+e14 a23 --> e4 a3 e1 a2
+e14 a23 --> e1 a2 e4 a3
+e14 a23 --> e4 a2 e1 a3
+e14 a23 --> e1 a3 e4 a2
+e34 a12 --> e4 a2 e3 a1
+e34 a12 --> e3 a2 e4 a1
+e34 a12 --> e3 a1 e4 a2
+e34 a12 --> e4 a1 e3 a2
+a3 e1 a24 --> a23 e1 a4
+a3 e1 a24 --> a34 e1 a2
+a3 e1 a24 --> e13 a24
+a2 e4 a13 --> a12 e4 a3
+a2 e4 a13 --> e24 a13
+a2 e4 a13 --> a23 e4 a1
+a4 e1 a23 --> a24 e1 a3
+a4 e1 a23 --> e14 a23
+a4 e1 a23 --> a34 e1 a2
+e2 a134 --> a4 e2 a13
+e2 a134 --> a3 e2 a14
+e2 a134 --> a1 e2 a34
+e134 a2 --> e34 a2 e1
+e134 a2 --> e13 a2 e4
+e134 a2 --> e14 a2 e3
+e1 a3 e4 a2 --> a3 e14 a2
+e1 a3 e4 a2 --> e1 a23 e4
+e2 a1 e3 a4 --> a1 e23 a4
+e2 a1 e3 a4 --> e2 a14 e3
+a13 e4 a2 --> e1 a3 e4 a2
+a13 e4 a2 --> e3 a1 e4 a2
+a13 e4 a2 --> a123 e4
+e3 a4 e2 a1 --> a4 e23 a1
+e3 a4 e2 a1 --> e3 a14 e2
+a1234 --> e4 a123
+a1234 --> e1 a234
+a1234 --> e2 a134
+a1234 --> e3 a124
+a23 e4 a1 --> e2 a3 e4 a1
+a23 e4 a1 --> e3 a2 e4 a1
+a23 e4 a1 --> a123 e4
+a14 e2 a3 --> e1 a4 e2 a3
+a14 e2 a3 --> e4 a1 e2 a3
+a14 e2 a3 --> a134 e2
+a34 e1 a2 --> e4 a3 e1 a2
+a34 e1 a2 --> e3 a4 e1 a2
+a34 e1 a2 --> a234 e1
+a2 e3 a14 --> a12 e3 a4
+a2 e3 a14 --> e23 a14
+a2 e3 a14 --> a24 e3 a1
+e3 a1 e4 a2 --> a1 e34 a2
+e3 a1 e4 a2 --> e3 a12 e4
+e2 a1 e4 a3 --> a1 e24 a3
+e2 a1 e4 a3 --> e2 a13 e4
+e4 a1 e3 a2 --> a1 e34 a2
+e4 a1 e3 a2 --> e4 a12 e3
+a4 e12 a3 --> e124 a3
+a4 e12 a3 --> a4 e2 a3 e1
+a4 e12 a3 --> a4 e1 a3 e2
+e13 a24 --> e1 a4 e3 a2
+e13 a24 --> e3 a4 e1 a2
+e13 a24 --> e1 a2 e3 a4
+e13 a24 --> e3 a2 e1 a4
+a2 e1 a34 --> a23 e1 a4
+a2 e1 a34 --> a24 e1 a3
+a2 e1 a34 --> e12 a34
+e3 a2 e1 a4 --> a2 e13 a4
+e3 a2 e1 a4 --> e3 a24 e1
+a1 e2 a34 --> e12 a34
+a1 e2 a34 --> a13 e2 a4
+a1 e2 a34 --> a14 e2 a3
+e2 a4 e3 a1 --> a4 e23 a1
+e2 a4 e3 a1 --> e2 a14 e3
+a3 e4 a12 --> e34 a12
+a3 e4 a12 --> a13 e4 a2
+a3 e4 a12 --> a23 e4 a1
+e3 a124 --> a1 e3 a24
+e3 a124 --> a4 e3 a12
+e3 a124 --> a2 e3 a14
+a2 e4 a1 e3 --> e24 a1 e3
+a2 e4 a1 e3 --> a12 e34
+e23 a1 e4 --> e3 a1 e24
+e23 a1 e4 --> e2 a1 e34
+e12 a3 e4 --> e1 a3 e24
+e12 a3 e4 --> e2 a3 e14
+a123 e4 --> e1 a23 e4
+a123 e4 --> e3 a12 e4
+a123 e4 --> e2 a13 e4
+e24 a1 e3 --> e4 a1 e23
+e24 a1 e3 --> e2 a1 e34
+e3 a24 e1 --> a2 e3 a4 e1
+e3 a24 e1 --> a4 e3 a2 e1
+a1 e4 a3 e2 --> e14 a3 e2
+a1 e4 a3 e2 --> a13 e24
+a4 e3 a1 e2 --> a14 e23
+a4 e3 a1 e2 --> e34 a1 e2
+e1 a23 e4 --> a3 e1 a2 e4
+e1 a23 e4 --> a2 e1 a3 e4
+a4 e123 --> e1234
+e3 a12 e4 --> a2 e3 a1 e4
+e3 a12 e4 --> a1 e3 a2 e4
+a4 e2 a3 e1 --> e24 a3 e1
+a4 e2 a3 e1 --> a34 e12
+e4 a2 e13 --> a2 e134
+a2 e3 a1 e4 --> e23 a1 e4
+a2 e3 a1 e4 --> a12 e34
+a1 e4 a2 e3 --> a12 e34
+a1 e4 a2 e3 --> e14 a2 e3
+a1 e234 --> e1234
+e1 a4 e23 --> a4 e123
+a2 e3 a4 e1 --> a24 e13
+a2 e3 a4 e1 --> e23 a4 e1
+a23 e14 --> e3 a2 e14
+a23 e14 --> e2 a3 e14
+e3 a14 e2 --> a4 e3 a1 e2
+e3 a14 e2 --> a1 e3 a4 e2
+e2 a14 e3 --> a1 e2 a4 e3
+e2 a14 e3 --> a4 e2 a1 e3
+a1 e2 a4 e3 --> e12 a4 e3
+a1 e2 a4 e3 --> a14 e23
+e2 a34 e1 --> a4 e2 a3 e1
+e2 a34 e1 --> a3 e2 a4 e1
+e1 a34 e2 --> a3 e1 a4 e2
+e1 a34 e2 --> a4 e1 a3 e2
+a4 e2 a1 e3 --> e24 a1 e3
+a4 e2 a1 e3 --> a14 e23
+e2 a13 e4 --> a1 e2 a3 e4
+e2 a13 e4 --> a3 e2 a1 e4
+a12 e34 --> e2 a1 e34
+a12 e34 --> e1 a2 e34
+a3 e1 a2 e4 --> a23 e14
+a3 e1 a2 e4 --> e13 a2 e4
+e1 a3 e24 --> a3 e124
+e12 a4 e3 --> e1 a4 e23
+e12 a4 e3 --> e2 a4 e13
+a234 e1 --> e3 a24 e1
+a234 e1 --> e2 a34 e1
+a234 e1 --> e4 a23 e1
+e24 a3 e1 --> e4 a3 e12
+e24 a3 e1 --> e2 a3 e14
+e34 a2 e1 --> e4 a2 e13
+e34 a2 e1 --> e3 a2 e14
+a4 e3 a2 e1 --> e34 a2 e1
+a4 e3 a2 e1 --> a24 e13
+a3 e2 a4 e1 --> a34 e12
+a3 e2 a4 e1 --> e23 a4 e1
+a3 e4 a1 e2 --> e34 a1 e2
+a3 e4 a1 e2 --> a13 e24
+e13 a2 e4 --> e3 a2 e14
+e13 a2 e4 --> e1 a2 e34
+e4 a23 e1 --> a3 e4 a2 e1
+e4 a23 e1 --> a2 e4 a3 e1
+a1 e2 a3 e4 --> e12 a3 e4
+a1 e2 a3 e4 --> a13 e24
+e14 a3 e2 --> e1 a3 e24
+e14 a3 e2 --> e4 a3 e12
+e3 a2 e14 --> a2 e134
+a1 e3 a2 e4 --> a12 e34
+a1 e3 a2 e4 --> e13 a2 e4
+e1 a24 e3 --> a4 e1 a2 e3
+e1 a24 e3 --> a2 e1 a4 e3
+a4 e1 a2 e3 --> a24 e13
+a4 e1 a2 e3 --> e14 a2 e3
+e4 a13 e2 --> a1 e4 a3 e2
+e4 a13 e2 --> a3 e4 a1 e2
+a124 e3 --> e2 a14 e3
+a124 e3 --> e1 a24 e3
+a124 e3 --> e4 a12 e3
+a24 e13 --> e4 a2 e13
+a24 e13 --> e2 a4 e13
+e4 a3 e12 --> a3 e124
+a14 e23 --> e1 a4 e23
+a14 e23 --> e4 a1 e23
+a34 e12 --> e4 a3 e12
+a34 e12 --> e3 a4 e12
+e3 a1 e24 --> a1 e234
+e2 a4 e13 --> a4 e123
+e4 a1 e23 --> a1 e234
+a2 e134 --> e1234
+a134 e2 --> e3 a14 e2
+a134 e2 --> e1 a34 e2
+a134 e2 --> e4 a13 e2
+a1 e3 a4 e2 --> a14 e23
+a1 e3 a4 e2 --> e13 a4 e2
+a2 e1 a3 e4 --> e12 a3 e4
+a2 e1 a3 e4 --> a23 e14
+e13 a4 e2 --> e1 a4 e23
+e13 a4 e2 --> e3 a4 e12
+a3 e4 a2 e1 --> a23 e14
+a3 e4 a2 e1 --> e34 a2 e1
+e23 a4 e1 --> e2 a4 e13
+e23 a4 e1 --> e3 a4 e12
+e14 a2 e3 --> e4 a2 e13
+e14 a2 e3 --> e1 a2 e34
+e34 a1 e2 --> e3 a1 e24
+e34 a1 e2 --> e4 a1 e23
+e2 a3 e14 --> a3 e124
+a3 e1 a4 e2 --> a34 e12
+a3 e1 a4 e2 --> e13 a4 e2
+a2 e1 a4 e3 --> e12 a4 e3
+a2 e1 a4 e3 --> a24 e13
+a4 e1 a3 e2 --> e14 a3 e2
+a4 e1 a3 e2 --> a34 e12
+e4 a12 e3 --> a2 e4 a1 e3
+e4 a12 e3 --> a1 e4 a2 e3
+a13 e24 --> e1 a3 e24
+a13 e24 --> e3 a1 e24
+e2 a1 e34 --> a1 e234
+a3 e2 a1 e4 --> e23 a1 e4
+a3 e2 a1 e4 --> a13 e24
+e1 a2 e34 --> a2 e134
+a2 e4 a3 e1 --> a23 e14
+a2 e4 a3 e1 --> e24 a3 e1
+e3 a4 e12 --> a4 e123
+a3 e124 --> e1234

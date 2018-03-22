@@ -1,0 +1,16 @@
+# These are the 13 edges of a cocoon concertina 2-cube.
+
+
+a(12) --> e(12)
+a(12) --> a1 e2
+a(12) --> a2 e1
+a12 --> a(12)
+a12 --> e1 a2
+a12 --> e2 a1
+e1 a2 --> e(12)
+e1 a2 --> a2 e1
+e2 a1 --> e(12)
+e2 a1 --> a1 e2
+e(12) --> e12
+a1 e2 --> e12
+a2 e1 --> e12

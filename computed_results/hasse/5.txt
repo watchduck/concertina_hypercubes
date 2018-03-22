@@ -1,0 +1,3233 @@
+# These are the 3230 edges of a concertina 5-cube.
+
+
+e13 a245 --> e1 a4 e3 a25
+e13 a245 --> e1 a2 e3 a45
+e13 a245 --> e1 a5 e3 a24
+e13 a245 --> e3 a5 e1 a24
+e13 a245 --> e3 a4 e1 a25
+e13 a245 --> e3 a2 e1 a45
+a1 e24 a35 --> a1 e4 a3 e2 a5
+a1 e24 a35 --> a1 e4 a5 e2 a3
+a1 e24 a35 --> e124 a35
+a1 e24 a35 --> a1 e2 a5 e4 a3
+a1 e24 a35 --> a1 e2 a3 e4 a5
+e1 a3 e2 a45 --> e1 a35 e2 a4
+e1 a3 e2 a45 --> a3 e12 a45
+e1 a3 e2 a45 --> e1 a34 e2 a5
+e1 a5 e23 a4 --> a5 e123 a4
+e1 a5 e23 a4 --> e1 a5 e3 a4 e2
+e1 a5 e23 a4 --> e1 a5 e2 a4 e3
+a2 e5 a3 e4 a1 --> e25 a3 e4 a1
+a2 e5 a3 e4 a1 --> a23 e45 a1
+a2 e5 a3 e4 a1 --> a2 e5 a13 e4
+a45 e13 a2 --> e4 a5 e13 a2
+a45 e13 a2 --> e5 a4 e13 a2
+a45 e13 a2 --> a45 e1 a2 e3
+a45 e13 a2 --> a45 e3 a2 e1
+e4 a15 e2 a3 --> a1 e4 a5 e2 a3
+e4 a15 e2 a3 --> a5 e4 a1 e2 a3
+e4 a15 e2 a3 --> e4 a135 e2
+e5 a3 e1 a24 --> e5 a23 e1 a4
+e5 a3 e1 a24 --> e5 a34 e1 a2
+e5 a3 e1 a24 --> a3 e15 a24
+a13 e25 a4 --> e1 a3 e25 a4
+a13 e25 a4 --> e3 a1 e25 a4
+a13 e25 a4 --> a13 e2 a4 e5
+a13 e25 a4 --> a13 e5 a4 e2
+a12 e5 a34 --> e2 a1 e5 a34
+a12 e5 a34 --> e1 a2 e5 a34
+a12 e5 a34 --> a123 e5 a4
+a12 e5 a34 --> a124 e5 a3
+e3 a5 e4 a12 --> e3 a15 e4 a2
+e3 a5 e4 a12 --> e3 a25 e4 a1
+e3 a5 e4 a12 --> a5 e34 a12
+a3 e245 a1 --> e2345 a1
+a3 e245 a1 --> a3 e25 a1 e4
+a3 e245 a1 --> a3 e45 a1 e2
+a3 e245 a1 --> a3 e24 a1 e5
+a2 e345 a1 --> e2345 a1
+a2 e345 a1 --> a2 e45 a1 e3
+a2 e345 a1 --> a2 e34 a1 e5
+a2 e345 a1 --> a2 e35 a1 e4
+e4 a2 e3 a15 --> e4 a12 e3 a5
+e4 a2 e3 a15 --> a2 e34 a15
+e4 a2 e3 a15 --> e4 a25 e3 a1
+a4 e1 a3 e2 a5 --> e14 a3 e2 a5
+a4 e1 a3 e2 a5 --> a34 e12 a5
+a4 e1 a3 e2 a5 --> a4 e1 a35 e2
+e4 a5 e13 a2 --> a5 e134 a2
+e4 a5 e13 a2 --> e4 a5 e3 a2 e1
+e4 a5 e13 a2 --> e4 a5 e1 a2 e3
+e1 a35 e4 a2 --> a5 e1 a3 e4 a2
+e1 a35 e4 a2 --> a3 e1 a5 e4 a2
+e1 a35 e4 a2 --> e1 a235 e4
+a3 e2 a5 e1 a4 --> a35 e12 a4
+a3 e2 a5 e1 a4 --> e23 a5 e1 a4
+a3 e2 a5 e1 a4 --> a3 e2 a45 e1
+e1 a2 e34 a5 --> a2 e134 a5
+e1 a2 e34 a5 --> e1 a2 e4 a5 e3
+e1 a2 e34 a5 --> e1 a2 e3 a5 e4
+e3 a5 e2 a14 --> a5 e23 a14
+e3 a5 e2 a14 --> e3 a15 e2 a4
+e3 a5 e2 a14 --> e3 a45 e2 a1
+a15 e34 a2 --> e5 a1 e34 a2
+a15 e34 a2 --> e1 a5 e34 a2
+a15 e34 a2 --> a15 e3 a2 e4
+a15 e34 a2 --> a15 e4 a2 e3
+a5 e4 a1 e3 a2 --> a15 e34 a2
+a5 e4 a1 e3 a2 --> e45 a1 e3 a2
+a5 e4 a1 e3 a2 --> a5 e4 a12 e3
+a5 e2 a4 e1 a3 --> a45 e12 a3
+a5 e2 a4 e1 a3 --> e25 a4 e1 a3
+a5 e2 a4 e1 a3 --> a5 e2 a34 e1
+a5 e14 a23 --> a5 e1 a3 e4 a2
+a5 e14 a23 --> a5 e4 a3 e1 a2
+a5 e14 a23 --> a5 e1 a2 e4 a3
+a5 e14 a23 --> e145 a23
+a5 e14 a23 --> a5 e4 a2 e1 a3
+a14 e23 a5 --> e1 a4 e23 a5
+a14 e23 a5 --> e4 a1 e23 a5
+a14 e23 a5 --> a14 e2 a5 e3
+a14 e23 a5 --> a14 e3 a5 e2
+e35 a4 e2 a1 --> e5 a4 e23 a1
+e35 a4 e2 a1 --> e3 a4 e25 a1
+e35 a4 e2 a1 --> e35 a14 e2
+e5 a2 e14 a3 --> a2 e145 a3
+e5 a2 e14 a3 --> e5 a2 e1 a3 e4
+e5 a2 e14 a3 --> e5 a2 e4 a3 e1
+e15 a4 e3 a2 --> e5 a4 e13 a2
+e15 a4 e3 a2 --> e1 a4 e35 a2
+e15 a4 e3 a2 --> e15 a24 e3
+e4 a1 e25 a3 --> a1 e245 a3
+e4 a1 e25 a3 --> e4 a1 e5 a3 e2
+e4 a1 e25 a3 --> e4 a1 e2 a3 e5
+e5 a1 e34 a2 --> a1 e345 a2
+e5 a1 e34 a2 --> e5 a1 e3 a2 e4
+e5 a1 e34 a2 --> e5 a1 e4 a2 e3
+e1234 a5 --> e234 a5 e1
+e1234 a5 --> e123 a5 e4
+e1234 a5 --> e134 a5 e2
+e1234 a5 --> e124 a5 e3
+a34 e15 a2 --> e3 a4 e15 a2
+a34 e15 a2 --> e4 a3 e15 a2
+a34 e15 a2 --> a34 e5 a2 e1
+a34 e15 a2 --> a34 e1 a2 e5
+a1 e5 a4 e2 a3 --> a14 e25 a3
+a1 e5 a4 e2 a3 --> e15 a4 e2 a3
+a1 e5 a4 e2 a3 --> a1 e5 a34 e2
+e4 a23 e1 a5 --> a2 e4 a3 e1 a5
+e4 a23 e1 a5 --> a3 e4 a2 e1 a5
+e4 a23 e1 a5 --> e4 a235 e1
+a1 e4 a3 e2 a5 --> e14 a3 e2 a5
+a1 e4 a3 e2 a5 --> a13 e24 a5
+a1 e4 a3 e2 a5 --> a1 e4 a35 e2
+e4 a2 e35 a1 --> a2 e345 a1
+e4 a2 e35 a1 --> e4 a2 e5 a1 e3
+e4 a2 e35 a1 --> e4 a2 e3 a1 e5
+a1 e3 a4 e2 a5 --> a14 e23 a5
+a1 e3 a4 e2 a5 --> e13 a4 e2 a5
+a1 e3 a4 e2 a5 --> a1 e3 a45 e2
+a1 e5 a234 --> a12 e5 a34
+a1 e5 a234 --> e15 a234
+a1 e5 a234 --> a14 e5 a23
+a1 e5 a234 --> a13 e5 a24
+e3 a4 e15 a2 --> a4 e135 a2
+e3 a4 e15 a2 --> e3 a4 e5 a2 e1
+e3 a4 e15 a2 --> e3 a4 e1 a2 e5
+e2 a4 e3 a15 --> e2 a14 e3 a5
+e2 a4 e3 a15 --> a4 e23 a15
+e2 a4 e3 a15 --> e2 a45 e3 a1
+e5 a3 e24 a1 --> a3 e245 a1
+e5 a3 e24 a1 --> e5 a3 e4 a1 e2
+e5 a3 e24 a1 --> e5 a3 e2 a1 e4
+a135 e2 a4 --> e1 a35 e2 a4
+a135 e2 a4 --> e5 a13 e2 a4
+a135 e2 a4 --> e3 a15 e2 a4
+a135 e2 a4 --> a1345 e2
+e3 a2 e14 a5 --> a2 e134 a5
+e3 a2 e14 a5 --> e3 a2 e1 a5 e4
+e3 a2 e14 a5 --> e3 a2 e4 a5 e1
+e5 a14 e2 a3 --> a1 e5 a4 e2 a3
+e5 a14 e2 a3 --> a4 e5 a1 e2 a3
+e5 a14 e2 a3 --> e5 a134 e2
+e34 a5 e2 a1 --> e4 a5 e23 a1
+e34 a5 e2 a1 --> e3 a5 e24 a1
+e34 a5 e2 a1 --> e34 a15 e2
+e345 a12 --> e45 a2 e3 a1
+e345 a12 --> e45 a1 e3 a2
+e345 a12 --> e34 a1 e5 a2
+e345 a12 --> e34 a2 e5 a1
+e345 a12 --> e35 a2 e4 a1
+e345 a12 --> e35 a1 e4 a2
+e4 a3 e2 a15 --> e4 a13 e2 a5
+e4 a3 e2 a15 --> a3 e24 a15
+e4 a3 e2 a15 --> e4 a35 e2 a1
+e2 a5 e3 a14 --> a5 e23 a14
+e2 a5 e3 a14 --> e2 a15 e3 a4
+e2 a5 e3 a14 --> e2 a45 e3 a1
+e4 a1 e2 a35 --> a1 e24 a35
+e4 a1 e2 a35 --> e4 a15 e2 a3
+e4 a1 e2 a35 --> e4 a13 e2 a5
+a3 e1 a5 e2 a4 --> a35 e12 a4
+a3 e1 a5 e2 a4 --> e13 a5 e2 a4
+a3 e1 a5 e2 a4 --> a3 e1 a45 e2
+e15 a2 e4 a3 --> e5 a2 e14 a3
+e15 a2 e4 a3 --> e1 a2 e45 a3
+e15 a2 e4 a3 --> e15 a23 e4
+a2 e4 a5 e3 a1 --> e24 a5 e3 a1
+a2 e4 a5 e3 a1 --> a25 e34 a1
+a2 e4 a5 e3 a1 --> a2 e4 a15 e3
+a3 e5 a4 e2 a1 --> e35 a4 e2 a1
+a3 e5 a4 e2 a1 --> a34 e25 a1
+a3 e5 a4 e2 a1 --> a3 e5 a14 e2
+e134 a25 --> e14 a2 e3 a5
+e134 a25 --> e14 a5 e3 a2
+e134 a25 --> e13 a2 e4 a5
+e134 a25 --> e13 a5 e4 a2
+e134 a25 --> e34 a5 e1 a2
+e134 a25 --> e34 a2 e1 a5
+e2 a1 e5 a34 --> e2 a14 e5 a3
+e2 a1 e5 a34 --> e2 a13 e5 a4
+e2 a1 e5 a34 --> a1 e25 a34
+e1 a4 e5 a23 --> e1 a34 e5 a2
+e1 a4 e5 a23 --> a4 e15 a23
+e1 a4 e5 a23 --> e1 a24 e5 a3
+a125 e3 a4 --> e1 a25 e3 a4
+a125 e3 a4 --> e5 a12 e3 a4
+a125 e3 a4 --> e2 a15 e3 a4
+a125 e3 a4 --> a1245 e3
+a35 e24 a1 --> e5 a3 e24 a1
+a35 e24 a1 --> e3 a5 e24 a1
+a35 e24 a1 --> a35 e2 a1 e4
+a35 e24 a1 --> a35 e4 a1 e2
+a45 e23 a1 --> e4 a5 e23 a1
+a45 e23 a1 --> e5 a4 e23 a1
+a45 e23 a1 --> a45 e2 a1 e3
+a45 e23 a1 --> a45 e3 a1 e2
+a2 e135 a4 --> e1235 a4
+a2 e135 a4 --> a2 e15 a4 e3
+a2 e135 a4 --> a2 e35 a4 e1
+a2 e135 a4 --> a2 e13 a4 e5
+a5 e2 a1 e3 a4 --> a15 e23 a4
+a5 e2 a1 e3 a4 --> e25 a1 e3 a4
+a5 e2 a1 e3 a4 --> a5 e2 a14 e3
+a2 e4 a1 e5 a3 --> a12 e45 a3
+a2 e4 a1 e5 a3 --> e24 a1 e5 a3
+a2 e4 a1 e5 a3 --> a2 e4 a13 e5
+a4 e2 a3 e5 a1 --> e24 a3 e5 a1
+a4 e2 a3 e5 a1 --> a34 e25 a1
+a4 e2 a3 e5 a1 --> a4 e2 a13 e5
+e2 a4 e1 a35 --> e2 a45 e1 a3
+e2 a4 e1 a35 --> e2 a34 e1 a5
+e2 a4 e1 a35 --> a4 e12 a35
+e35 a124 --> e5 a1 e3 a24
+e35 a124 --> e3 a4 e5 a12
+e35 a124 --> e3 a2 e5 a14
+e35 a124 --> e3 a1 e5 a24
+e35 a124 --> e5 a4 e3 a12
+e35 a124 --> e5 a2 e3 a14
+a5 e3 a124 --> e35 a124
+a5 e3 a124 --> a45 e3 a12
+a5 e3 a124 --> a25 e3 a14
+a5 e3 a124 --> a15 e3 a24
+e4 a12 e3 a5 --> a1 e4 a2 e3 a5
+e4 a12 e3 a5 --> a2 e4 a1 e3 a5
+e4 a12 e3 a5 --> e4 a125 e3
+a23 e4 a15 --> a123 e4 a5
+a23 e4 a15 --> e2 a3 e4 a15
+a23 e4 a15 --> a235 e4 a1
+a23 e4 a15 --> e3 a2 e4 a15
+a24 e3 a15 --> e4 a2 e3 a15
+a24 e3 a15 --> e2 a4 e3 a15
+a24 e3 a15 --> a245 e3 a1
+a24 e3 a15 --> a124 e3 a5
+e2 a45 e1 a3 --> a5 e2 a4 e1 a3
+e2 a45 e1 a3 --> a4 e2 a5 e1 a3
+e2 a45 e1 a3 --> e2 a345 e1
+a1 e23 a45 --> a1 e3 a4 e2 a5
+a1 e23 a45 --> e123 a45
+a1 e23 a45 --> a1 e2 a5 e3 a4
+a1 e23 a45 --> a1 e3 a5 e2 a4
+a1 e23 a45 --> a1 e2 a4 e3 a5
+a2 e5 a4 e3 a1 --> e25 a4 e3 a1
+a2 e5 a4 e3 a1 --> a24 e35 a1
+a2 e5 a4 e3 a1 --> a2 e5 a14 e3
+e1 a3 e4 a25 --> e1 a35 e4 a2
+e1 a3 e4 a25 --> e1 a23 e4 a5
+e1 a3 e4 a25 --> a3 e14 a25
+a23 e15 a4 --> e2 a3 e15 a4
+a23 e15 a4 --> e3 a2 e15 a4
+a23 e15 a4 --> a23 e5 a4 e1
+a23 e15 a4 --> a23 e1 a4 e5
+e15 a234 --> e5 a3 e1 a24
+e15 a234 --> e1 a4 e5 a23
+e15 a234 --> e5 a4 e1 a23
+e15 a234 --> e1 a2 e5 a34
+e15 a234 --> e5 a2 e1 a34
+e15 a234 --> e1 a3 e5 a24
+a14 e5 a23 --> e1 a4 e5 a23
+a14 e5 a23 --> e4 a1 e5 a23
+a14 e5 a23 --> a134 e5 a2
+a14 e5 a23 --> a124 e5 a3
+a14 e35 a2 --> e4 a1 e35 a2
+a14 e35 a2 --> e1 a4 e35 a2
+a14 e35 a2 --> a14 e3 a2 e5
+a14 e35 a2 --> a14 e5 a2 e3
+e4 a2 e5 a13 --> e4 a12 e5 a3
+e4 a2 e5 a13 --> a2 e45 a13
+e4 a2 e5 a13 --> e4 a23 e5 a1
+e5 a4 e1 a23 --> e5 a24 e1 a3
+e5 a4 e1 a23 --> e5 a34 e1 a2
+e5 a4 e1 a23 --> a4 e15 a23
+a3 e4 a125 --> a23 e4 a15
+a3 e4 a125 --> a35 e4 a12
+a3 e4 a125 --> e34 a125
+a3 e4 a125 --> a13 e4 a25
+e24 a5 e3 a1 --> e4 a5 e23 a1
+e24 a5 e3 a1 --> e2 a5 e34 a1
+e24 a5 e3 a1 --> e24 a15 e3
+e4 a5 e3 a12 --> e4 a15 e3 a2
+e4 a5 e3 a12 --> e4 a25 e3 a1
+e4 a5 e3 a12 --> a5 e34 a12
+a1 e4 a3 e5 a2 --> a13 e45 a2
+a1 e4 a3 e5 a2 --> e14 a3 e5 a2
+a1 e4 a3 e5 a2 --> a1 e4 a23 e5
+e4 a12 e5 a3 --> a2 e4 a1 e5 a3
+e4 a12 e5 a3 --> a1 e4 a2 e5 a3
+e4 a12 e5 a3 --> e4 a123 e5
+e3 a5 e14 a2 --> a5 e134 a2
+e3 a5 e14 a2 --> e3 a5 e4 a2 e1
+e3 a5 e14 a2 --> e3 a5 e1 a2 e4
+e1 a23 e4 a5 --> a3 e1 a2 e4 a5
+e1 a23 e4 a5 --> a2 e1 a3 e4 a5
+e1 a23 e4 a5 --> e1 a235 e4
+a2 e4 a3 e1 a5 --> a23 e14 a5
+a2 e4 a3 e1 a5 --> e24 a3 e1 a5
+a2 e4 a3 e1 a5 --> a2 e4 a35 e1
+e5 a4 e13 a2 --> a4 e135 a2
+e5 a4 e13 a2 --> e5 a4 e3 a2 e1
+e5 a4 e13 a2 --> e5 a4 e1 a2 e3
+a4 e1 a5 e3 a2 --> a45 e13 a2
+a4 e1 a5 e3 a2 --> e14 a5 e3 a2
+a4 e1 a5 e3 a2 --> a4 e1 a25 e3
+a5 e234 a1 --> e2345 a1
+a5 e234 a1 --> a5 e23 a1 e4
+a5 e234 a1 --> a5 e24 a1 e3
+a5 e234 a1 --> a5 e34 a1 e2
+e1 a2 e4 a35 --> e1 a23 e4 a5
+e1 a2 e4 a35 --> e1 a25 e4 a3
+e1 a2 e4 a35 --> a2 e14 a35
+e2 a5 e1 a34 --> e2 a45 e1 a3
+e2 a5 e1 a34 --> e2 a35 e1 a4
+e2 a5 e1 a34 --> a5 e12 a34
+e35 a2 e1 a4 --> e5 a2 e13 a4
+e35 a2 e1 a4 --> e3 a2 e15 a4
+e35 a2 e1 a4 --> e35 a24 e1
+a1 e2 a345 --> a14 e2 a35
+a1 e2 a345 --> a13 e2 a45
+a1 e2 a345 --> a15 e2 a34
+a1 e2 a345 --> e12 a345
+a5 e2 a3 e1 a4 --> e25 a3 e1 a4
+a5 e2 a3 e1 a4 --> a35 e12 a4
+a5 e2 a3 e1 a4 --> a5 e2 a34 e1
+e5 a23 e1 a4 --> a3 e5 a2 e1 a4
+e5 a23 e1 a4 --> a2 e5 a3 e1 a4
+e5 a23 e1 a4 --> e5 a234 e1
+a23 e5 a14 --> a234 e5 a1
+a23 e5 a14 --> e3 a2 e5 a14
+a23 e5 a14 --> a123 e5 a4
+a23 e5 a14 --> e2 a3 e5 a14
+a1 e3 a2 e5 a4 --> e13 a2 e5 a4
+a1 e3 a2 e5 a4 --> a12 e35 a4
+a1 e3 a2 e5 a4 --> a1 e3 a24 e5
+e4 a13 e5 a2 --> a1 e4 a3 e5 a2
+e4 a13 e5 a2 --> a3 e4 a1 e5 a2
+e4 a13 e5 a2 --> e4 a123 e5
+a2 e5 a1 e4 a3 --> a12 e45 a3
+a2 e5 a1 e4 a3 --> e25 a1 e4 a3
+a2 e5 a1 e4 a3 --> a2 e5 a13 e4
+a345 e2 a1 --> e3 a45 e2 a1
+a345 e2 a1 --> e5 a34 e2 a1
+a345 e2 a1 --> e4 a35 e2 a1
+a345 e2 a1 --> a1345 e2
+e35 a1 e2 a4 --> e3 a1 e25 a4
+e35 a1 e2 a4 --> e5 a1 e23 a4
+e35 a1 e2 a4 --> e35 a14 e2
+a2 e35 a14 --> a2 e5 a4 e3 a1
+a2 e35 a14 --> a2 e3 a1 e5 a4
+a2 e35 a14 --> a2 e3 a4 e5 a1
+a2 e35 a14 --> a2 e5 a1 e3 a4
+a2 e35 a14 --> e235 a14
+a234 e5 a1 --> e3 a24 e5 a1
+a234 e5 a1 --> e2 a34 e5 a1
+a234 e5 a1 --> e4 a23 e5 a1
+a234 e5 a1 --> a1234 e5
+e4 a5 e23 a1 --> a5 e234 a1
+e4 a5 e23 a1 --> e4 a5 e3 a1 e2
+e4 a5 e23 a1 --> e4 a5 e2 a1 e3
+a5 e3 a1 e2 a4 --> e35 a1 e2 a4
+a5 e3 a1 e2 a4 --> a15 e23 a4
+a5 e3 a1 e2 a4 --> a5 e3 a14 e2
+a35 e4 a12 --> e3 a5 e4 a12
+a35 e4 a12 --> a135 e4 a2
+a35 e4 a12 --> a235 e4 a1
+a35 e4 a12 --> e5 a3 e4 a12
+a45 e3 a12 --> e4 a5 e3 a12
+a45 e3 a12 --> a245 e3 a1
+a45 e3 a12 --> a145 e3 a2
+a45 e3 a12 --> e5 a4 e3 a12
+a25 e3 a14 --> e2 a5 e3 a14
+a25 e3 a14 --> a125 e3 a4
+a25 e3 a14 --> a245 e3 a1
+a25 e3 a14 --> e5 a2 e3 a14
+e4 a2 e13 a5 --> a2 e134 a5
+e4 a2 e13 a5 --> e4 a2 e3 a5 e1
+e4 a2 e13 a5 --> e4 a2 e1 a5 e3
+a5 e3 a2 e4 a1 --> a25 e34 a1
+a5 e3 a2 e4 a1 --> e35 a2 e4 a1
+a5 e3 a2 e4 a1 --> a5 e3 a12 e4
+a3 e2 a5 e4 a1 --> a35 e24 a1
+a3 e2 a5 e4 a1 --> e23 a5 e4 a1
+a3 e2 a5 e4 a1 --> a3 e2 a15 e4
+e5 a1 e4 a23 --> e5 a12 e4 a3
+e5 a1 e4 a23 --> e5 a13 e4 a2
+e5 a1 e4 a23 --> a1 e45 a23
+a5 e24 a13 --> e245 a13
+a5 e24 a13 --> a5 e2 a1 e4 a3
+a5 e24 a13 --> a5 e4 a3 e2 a1
+a5 e24 a13 --> a5 e2 a3 e4 a1
+a5 e24 a13 --> a5 e4 a1 e2 a3
+a14 e3 a25 --> e4 a1 e3 a25
+a14 e3 a25 --> a124 e3 a5
+a14 e3 a25 --> e1 a4 e3 a25
+a14 e3 a25 --> a145 e3 a2
+e1 a34 e5 a2 --> a4 e1 a3 e5 a2
+e1 a34 e5 a2 --> a3 e1 a4 e5 a2
+e1 a34 e5 a2 --> e1 a234 e5
+a245 e3 a1 --> e5 a24 e3 a1
+a245 e3 a1 --> e4 a25 e3 a1
+a245 e3 a1 --> e2 a45 e3 a1
+a245 e3 a1 --> a1245 e3
+e45 a2 e3 a1 --> e4 a2 e35 a1
+e45 a2 e3 a1 --> e5 a2 e34 a1
+e45 a2 e3 a1 --> e45 a12 e3
+e1 a25 e3 a4 --> a5 e1 a2 e3 a4
+e1 a25 e3 a4 --> a2 e1 a5 e3 a4
+e1 a25 e3 a4 --> e1 a245 e3
+a4 e5 a3 e2 a1 --> a34 e25 a1
+a4 e5 a3 e2 a1 --> e45 a3 e2 a1
+a4 e5 a3 e2 a1 --> a4 e5 a13 e2
+e2 a15 e4 a3 --> a5 e2 a1 e4 a3
+e2 a15 e4 a3 --> a1 e2 a5 e4 a3
+e2 a15 e4 a3 --> e2 a135 e4
+a134 e2 a5 --> e3 a14 e2 a5
+a134 e2 a5 --> e4 a13 e2 a5
+a134 e2 a5 --> e1 a34 e2 a5
+a134 e2 a5 --> a1345 e2
+a3 e4 a2 e1 a5 --> a23 e14 a5
+a3 e4 a2 e1 a5 --> e34 a2 e1 a5
+a3 e4 a2 e1 a5 --> a3 e4 a25 e1
+e4 a2 e15 a3 --> a2 e145 a3
+e4 a2 e15 a3 --> e4 a2 e5 a3 e1
+e4 a2 e15 a3 --> e4 a2 e1 a3 e5
+e2 a3 e1 a45 --> e2 a34 e1 a5
+e2 a3 e1 a45 --> a3 e12 a45
+e2 a3 e1 a45 --> e2 a35 e1 a4
+a245 e1 a3 --> e2 a45 e1 a3
+a245 e1 a3 --> e5 a24 e1 a3
+a245 e1 a3 --> e4 a25 e1 a3
+a245 e1 a3 --> a2345 e1
+e12 a4 e5 a3 --> e1 a4 e25 a3
+e12 a4 e5 a3 --> e2 a4 e15 a3
+e12 a4 e5 a3 --> e12 a34 e5
+e123 a45 --> e13 a4 e2 a5
+e123 a45 --> e13 a5 e2 a4
+e123 a45 --> e12 a4 e3 a5
+e123 a45 --> e23 a5 e1 a4
+e123 a45 --> e23 a4 e1 a5
+e123 a45 --> e12 a5 e3 a4
+a15 e3 a24 --> a125 e3 a4
+a15 e3 a24 --> e5 a1 e3 a24
+a15 e3 a24 --> a145 e3 a2
+a15 e3 a24 --> e1 a5 e3 a24
+a15 e23 a4 --> e1 a5 e23 a4
+a15 e23 a4 --> e5 a1 e23 a4
+a15 e23 a4 --> a15 e2 a4 e3
+a15 e23 a4 --> a15 e3 a4 e2
+e14 a2 e3 a5 --> e1 a2 e34 a5
+e14 a2 e3 a5 --> e4 a2 e13 a5
+e14 a2 e3 a5 --> e14 a25 e3
+e14 a235 --> e1 a3 e4 a25
+e14 a235 --> e1 a2 e4 a35
+e14 a235 --> e4 a5 e1 a23
+e14 a235 --> e1 a5 e4 a23
+e14 a235 --> e4 a2 e1 a35
+e14 a235 --> e4 a3 e1 a25
+e14 a3 e2 a5 --> e4 a3 e12 a5
+e14 a3 e2 a5 --> e1 a3 e24 a5
+e14 a3 e2 a5 --> e14 a35 e2
+a4 e1 a235 --> e14 a235
+a4 e1 a235 --> a34 e1 a25
+a4 e1 a235 --> a45 e1 a23
+a4 e1 a235 --> a24 e1 a35
+e5 a12 e4 a3 --> a2 e5 a1 e4 a3
+e5 a12 e4 a3 --> a1 e5 a2 e4 a3
+e5 a12 e4 a3 --> e5 a123 e4
+a13 e5 a24 --> e3 a1 e5 a24
+a13 e5 a24 --> a123 e5 a4
+a13 e5 a24 --> a134 e5 a2
+a13 e5 a24 --> e1 a3 e5 a24
+e4 a1 e3 a25 --> e4 a12 e3 a5
+e4 a1 e3 a25 --> a1 e34 a25
+e4 a1 e3 a25 --> e4 a15 e3 a2
+a1 e2 a4 e5 a3 --> e12 a4 e5 a3
+a1 e2 a4 e5 a3 --> a14 e25 a3
+a1 e2 a4 e5 a3 --> a1 e2 a34 e5
+a24 e13 a5 --> e4 a2 e13 a5
+a24 e13 a5 --> e2 a4 e13 a5
+a24 e13 a5 --> a24 e1 a5 e3
+a24 e13 a5 --> a24 e3 a5 e1
+a4 e3 a125 --> a24 e3 a15
+a4 e3 a125 --> a45 e3 a12
+a4 e3 a125 --> a14 e3 a25
+a4 e3 a125 --> e34 a125
+e23 a5 e4 a1 --> e3 a5 e24 a1
+e23 a5 e4 a1 --> e2 a5 e34 a1
+e23 a5 e4 a1 --> e23 a15 e4
+a1 e4 a235 --> e14 a235
+a1 e4 a235 --> a12 e4 a35
+a1 e4 a235 --> a15 e4 a23
+a1 e4 a235 --> a13 e4 a25
+a124 e3 a5 --> e4 a12 e3 a5
+a124 e3 a5 --> e2 a14 e3 a5
+a124 e3 a5 --> e1 a24 e3 a5
+a124 e3 a5 --> a1245 e3
+a3 e2 a145 --> a35 e2 a14
+a3 e2 a145 --> e23 a145
+a3 e2 a145 --> a34 e2 a15
+a3 e2 a145 --> a13 e2 a45
+a4 e2 a5 e1 a3 --> a45 e12 a3
+a4 e2 a5 e1 a3 --> e24 a5 e1 a3
+a4 e2 a5 e1 a3 --> a4 e2 a35 e1
+a5 e1 a4 e3 a2 --> a45 e13 a2
+a5 e1 a4 e3 a2 --> e15 a4 e3 a2
+a5 e1 a4 e3 a2 --> a5 e1 a24 e3
+e5 a24 e1 a3 --> a2 e5 a4 e1 a3
+e5 a24 e1 a3 --> a4 e5 a2 e1 a3
+e5 a24 e1 a3 --> e5 a234 e1
+e2 a14 e3 a5 --> a1 e2 a4 e3 a5
+e2 a14 e3 a5 --> a4 e2 a1 e3 a5
+e2 a14 e3 a5 --> e2 a145 e3
+a13 e24 a5 --> e3 a1 e24 a5
+a13 e24 a5 --> e1 a3 e24 a5
+a13 e24 a5 --> a13 e2 a5 e4
+a13 e24 a5 --> a13 e4 a5 e2
+a35 e1 a24 --> e5 a3 e1 a24
+a35 e1 a24 --> a345 e1 a2
+a35 e1 a24 --> a235 e1 a4
+a35 e1 a24 --> e3 a5 e1 a24
+e3 a24 e5 a1 --> a4 e3 a2 e5 a1
+e3 a24 e5 a1 --> a2 e3 a4 e5 a1
+e3 a24 e5 a1 --> e3 a124 e5
+a1 e5 a3 e4 a2 --> a13 e45 a2
+a1 e5 a3 e4 a2 --> e15 a3 e4 a2
+a1 e5 a3 e4 a2 --> a1 e5 a23 e4
+e3 a14 e5 a2 --> a1 e3 a4 e5 a2
+e3 a14 e5 a2 --> a4 e3 a1 e5 a2
+e3 a14 e5 a2 --> e3 a124 e5
+a1 e5 a2 e4 a3 --> e15 a2 e4 a3
+a1 e5 a2 e4 a3 --> a12 e45 a3
+a1 e5 a2 e4 a3 --> a1 e5 a23 e4
+a2 e4 a5 e1 a3 --> a25 e14 a3
+a2 e4 a5 e1 a3 --> e24 a5 e1 a3
+a2 e4 a5 e1 a3 --> a2 e4 a35 e1
+e13 a2 e5 a4 --> e3 a2 e15 a4
+e13 a2 e5 a4 --> e1 a2 e35 a4
+e13 a2 e5 a4 --> e13 a24 e5
+a5 e1 a2 e3 a4 --> a25 e13 a4
+a5 e1 a2 e3 a4 --> e15 a2 e3 a4
+a5 e1 a2 e3 a4 --> a5 e1 a24 e3
+e1 a2 e5 a34 --> a2 e15 a34
+e1 a2 e5 a34 --> e1 a23 e5 a4
+e1 a2 e5 a34 --> e1 a24 e5 a3
+e25 a3 e1 a4 --> e2 a3 e15 a4
+e25 a3 e1 a4 --> e5 a3 e12 a4
+e25 a3 e1 a4 --> e25 a34 e1
+e25 a3 e4 a1 --> e5 a3 e24 a1
+e25 a3 e4 a1 --> e2 a3 e45 a1
+e25 a3 e4 a1 --> e25 a13 e4
+e3 a5 e24 a1 --> a5 e234 a1
+e3 a5 e24 a1 --> e3 a5 e4 a1 e2
+e3 a5 e24 a1 --> e3 a5 e2 a1 e4
+e1245 a3 --> e125 a3 e4
+e1245 a3 --> e245 a3 e1
+e1245 a3 --> e124 a3 e5
+e1245 a3 --> e145 a3 e2
+a4 e5 a1 e2 a3 --> a14 e25 a3
+a4 e5 a1 e2 a3 --> e45 a1 e2 a3
+a4 e5 a1 e2 a3 --> a4 e5 a13 e2
+a4 e3 a1 e2 a5 --> a14 e23 a5
+a4 e3 a1 e2 a5 --> e34 a1 e2 a5
+a4 e3 a1 e2 a5 --> a4 e3 a15 e2
+a1 e3 a5 e4 a2 --> a15 e34 a2
+a1 e3 a5 e4 a2 --> e13 a5 e4 a2
+a1 e3 a5 e4 a2 --> a1 e3 a25 e4
+a4 e1 a2 e3 a5 --> e14 a2 e3 a5
+a4 e1 a2 e3 a5 --> a24 e13 a5
+a4 e1 a2 e3 a5 --> a4 e1 a25 e3
+a4 e1 a3 e5 a2 --> a34 e15 a2
+a4 e1 a3 e5 a2 --> e14 a3 e5 a2
+a4 e1 a3 e5 a2 --> a4 e1 a23 e5
+e5 a4 e23 a1 --> a4 e235 a1
+e5 a4 e23 a1 --> e5 a4 e3 a1 e2
+e5 a4 e23 a1 --> e5 a4 e2 a1 e3
+e5 a1 e3 a24 --> e5 a14 e3 a2
+e5 a1 e3 a24 --> a1 e35 a24
+e5 a1 e3 a24 --> e5 a12 e3 a4
+e5 a1 e2 a34 --> e5 a14 e2 a3
+e5 a1 e2 a34 --> e5 a13 e2 a4
+e5 a1 e2 a34 --> a1 e25 a34
+a2 e4 a3 e5 a1 --> e24 a3 e5 a1
+a2 e4 a3 e5 a1 --> a23 e45 a1
+a2 e4 a3 e5 a1 --> a2 e4 a13 e5
+a1 e4 a5 e2 a3 --> e14 a5 e2 a3
+a1 e4 a5 e2 a3 --> a15 e24 a3
+a1 e4 a5 e2 a3 --> a1 e4 a35 e2
+a2 e1 a4 e5 a3 --> e12 a4 e5 a3
+a2 e1 a4 e5 a3 --> a24 e15 a3
+a2 e1 a4 e5 a3 --> a2 e1 a34 e5
+e1 a3 e25 a4 --> a3 e125 a4
+e1 a3 e25 a4 --> e1 a3 e5 a4 e2
+e1 a3 e25 a4 --> e1 a3 e2 a4 e5
+a3 e145 a2 --> e1345 a2
+a3 e145 a2 --> a3 e14 a2 e5
+a3 e145 a2 --> a3 e15 a2 e4
+a3 e145 a2 --> a3 e45 a2 e1
+a234 e1 a5 --> e4 a23 e1 a5
+a234 e1 a5 --> e2 a34 e1 a5
+a234 e1 a5 --> e3 a24 e1 a5
+a234 e1 a5 --> a2345 e1
+a3 e2 a4 e1 a5 --> a34 e12 a5
+a3 e2 a4 e1 a5 --> e23 a4 e1 a5
+a3 e2 a4 e1 a5 --> a3 e2 a45 e1
+a2 e34 a15 --> a2 e4 a5 e3 a1
+a2 e34 a15 --> e234 a15
+a2 e34 a15 --> a2 e4 a1 e3 a5
+a2 e34 a15 --> a2 e3 a1 e4 a5
+a2 e34 a15 --> a2 e3 a5 e4 a1
+e3 a4 e5 a12 --> e3 a24 e5 a1
+e3 a4 e5 a12 --> e3 a14 e5 a2
+e3 a4 e5 a12 --> a4 e35 a12
+e3 a1 e2 a45 --> a1 e23 a45
+e3 a1 e2 a45 --> e3 a14 e2 a5
+e3 a1 e2 a45 --> e3 a15 e2 a4
+e3 a4 e25 a1 --> a4 e235 a1
+e3 a4 e25 a1 --> e3 a4 e2 a1 e5
+e3 a4 e25 a1 --> e3 a4 e5 a1 e2
+e5 a14 e3 a2 --> a4 e5 a1 e3 a2
+e5 a14 e3 a2 --> a1 e5 a4 e3 a2
+e5 a14 e3 a2 --> e5 a124 e3
+a4 e1 a5 e2 a3 --> a45 e12 a3
+a4 e1 a5 e2 a3 --> e14 a5 e2 a3
+a4 e1 a5 e2 a3 --> a4 e1 a35 e2
+a135 e4 a2 --> e1 a35 e4 a2
+a135 e4 a2 --> e3 a15 e4 a2
+a135 e4 a2 --> e5 a13 e4 a2
+a135 e4 a2 --> a1235 e4
+a3 e4 a5 e2 a1 --> e34 a5 e2 a1
+a3 e4 a5 e2 a1 --> a35 e24 a1
+a3 e4 a5 e2 a1 --> a3 e4 a15 e2
+a1 e34 a25 --> e134 a25
+a1 e34 a25 --> a1 e3 a5 e4 a2
+a1 e34 a25 --> a1 e4 a2 e3 a5
+a1 e34 a25 --> a1 e3 a2 e4 a5
+a1 e34 a25 --> a1 e4 a5 e3 a2
+e2 a35 e4 a1 --> a3 e2 a5 e4 a1
+e2 a35 e4 a1 --> a5 e2 a3 e4 a1
+e2 a35 e4 a1 --> e2 a135 e4
+a35 e2 a14 --> e3 a5 e2 a14
+a35 e2 a14 --> a135 e2 a4
+a35 e2 a14 --> a345 e2 a1
+a35 e2 a14 --> e5 a3 e2 a14
+a12 e45 a3 --> e2 a1 e45 a3
+a12 e45 a3 --> e1 a2 e45 a3
+a12 e45 a3 --> a12 e4 a3 e5
+a12 e45 a3 --> a12 e5 a3 e4
+a12 e35 a4 --> e2 a1 e35 a4
+a12 e35 a4 --> e1 a2 e35 a4
+a12 e35 a4 --> a12 e3 a4 e5
+a12 e35 a4 --> a12 e5 a4 e3
+a1 e235 a4 --> e1235 a4
+a1 e235 a4 --> a1 e35 a4 e2
+a1 e235 a4 --> a1 e23 a4 e5
+a1 e235 a4 --> a1 e25 a4 e3
+a1 e35 a24 --> a1 e3 a2 e5 a4
+a1 e35 a24 --> a1 e3 a4 e5 a2
+a1 e35 a24 --> a1 e5 a4 e3 a2
+a1 e35 a24 --> a1 e5 a2 e3 a4
+a1 e35 a24 --> e135 a24
+e35 a4 e1 a2 --> e3 a4 e15 a2
+e35 a4 e1 a2 --> e5 a4 e13 a2
+e35 a4 e1 a2 --> e35 a24 e1
+e45 a123 --> e4 a2 e5 a13
+e45 a123 --> e5 a1 e4 a23
+e45 a123 --> e4 a1 e5 a23
+e45 a123 --> e5 a3 e4 a12
+e45 a123 --> e5 a2 e4 a13
+e45 a123 --> e4 a3 e5 a12
+a45 e12 a3 --> e4 a5 e12 a3
+a45 e12 a3 --> e5 a4 e12 a3
+a45 e12 a3 --> a45 e2 a3 e1
+a45 e12 a3 --> a45 e1 a3 e2
+a35 e12 a4 --> e5 a3 e12 a4
+a35 e12 a4 --> e3 a5 e12 a4
+a35 e12 a4 --> a35 e2 a4 e1
+a35 e12 a4 --> a35 e1 a4 e2
+e23 a145 --> e3 a5 e2 a14
+e23 a145 --> e2 a4 e3 a15
+e23 a145 --> e2 a5 e3 a14
+e23 a145 --> e3 a1 e2 a45
+e23 a145 --> e2 a1 e3 a45
+e23 a145 --> e3 a4 e2 a15
+e1 a4 e2 a35 --> a4 e12 a35
+e1 a4 e2 a35 --> e1 a45 e2 a3
+e1 a4 e2 a35 --> e1 a34 e2 a5
+e1 a4 e3 a25 --> e1 a24 e3 a5
+e1 a4 e3 a25 --> a4 e13 a25
+e1 a4 e3 a25 --> e1 a45 e3 a2
+e14 a5 e2 a3 --> e4 a5 e12 a3
+e14 a5 e2 a3 --> e1 a5 e24 a3
+e14 a5 e2 a3 --> e14 a35 e2
+a13 e45 a2 --> e1 a3 e45 a2
+a13 e45 a2 --> e3 a1 e45 a2
+a13 e45 a2 --> a13 e4 a2 e5
+a13 e45 a2 --> a13 e5 a2 e4
+a2 e1 a5 e3 a4 --> a25 e13 a4
+a2 e1 a5 e3 a4 --> e12 a5 e3 a4
+a2 e1 a5 e3 a4 --> a2 e1 a45 e3
+e3 a2 e5 a14 --> a2 e35 a14
+e3 a2 e5 a14 --> e3 a24 e5 a1
+e3 a2 e5 a14 --> e3 a12 e5 a4
+e23 a4 e5 a1 --> e3 a4 e25 a1
+e23 a4 e5 a1 --> e2 a4 e35 a1
+e23 a4 e5 a1 --> e23 a14 e5
+a5 e1 a3 e2 a4 --> a35 e12 a4
+a5 e1 a3 e2 a4 --> e15 a3 e2 a4
+a5 e1 a3 e2 a4 --> a5 e1 a34 e2
+a34 e2 a15 --> e4 a3 e2 a15
+a34 e2 a15 --> a345 e2 a1
+a34 e2 a15 --> a134 e2 a5
+a34 e2 a15 --> e3 a4 e2 a15
+e3 a14 e2 a5 --> a1 e3 a4 e2 a5
+e3 a14 e2 a5 --> a4 e3 a1 e2 a5
+e3 a14 e2 a5 --> e3 a145 e2
+a5 e124 a3 --> e1245 a3
+a5 e124 a3 --> a5 e14 a3 e2
+a5 e124 a3 --> a5 e12 a3 e4
+a5 e124 a3 --> a5 e24 a3 e1
+e3 a12 e5 a4 --> a1 e3 a2 e5 a4
+e3 a12 e5 a4 --> a2 e3 a1 e5 a4
+e3 a12 e5 a4 --> e3 a124 e5
+a1 e3 a4 e5 a2 --> a14 e35 a2
+a1 e3 a4 e5 a2 --> e13 a4 e5 a2
+a1 e3 a4 e5 a2 --> a1 e3 a24 e5
+a4 e235 a1 --> e2345 a1
+a4 e235 a1 --> a4 e23 a1 e5
+a4 e235 a1 --> a4 e25 a1 e3
+a4 e235 a1 --> a4 e35 a1 e2
+a5 e1 a234 --> e15 a234
+a5 e1 a234 --> a35 e1 a24
+a5 e1 a234 --> a25 e1 a34
+a5 e1 a234 --> a45 e1 a23
+a123 e4 a5 --> e1 a23 e4 a5
+a123 e4 a5 --> e2 a13 e4 a5
+a123 e4 a5 --> e3 a12 e4 a5
+a123 e4 a5 --> a1235 e4
+e2 a1 e3 a45 --> a1 e23 a45
+e2 a1 e3 a45 --> e2 a14 e3 a5
+e2 a1 e3 a45 --> e2 a15 e3 a4
+a4 e5 a1 e3 a2 --> a14 e35 a2
+a4 e5 a1 e3 a2 --> e45 a1 e3 a2
+a4 e5 a1 e3 a2 --> a4 e5 a12 e3
+a5 e1 a3 e4 a2 --> e15 a3 e4 a2
+a5 e1 a3 e4 a2 --> a35 e14 a2
+a5 e1 a3 e4 a2 --> a5 e1 a23 e4
+a12345 --> e4 a1235
+a12345 --> e2 a1345
+a12345 --> e5 a1234
+a12345 --> e3 a1245
+a12345 --> e1 a2345
+a4 e2 a1 e5 a3 --> a14 e25 a3
+a4 e2 a1 e5 a3 --> e24 a1 e5 a3
+a4 e2 a1 e5 a3 --> a4 e2 a13 e5
+a3 e2 a1 e4 a5 --> a13 e24 a5
+a3 e2 a1 e4 a5 --> e23 a1 e4 a5
+a3 e2 a1 e4 a5 --> a3 e2 a15 e4
+e2 a13 e4 a5 --> a3 e2 a1 e4 a5
+e2 a13 e4 a5 --> a1 e2 a3 e4 a5
+e2 a13 e4 a5 --> e2 a135 e4
+a2 e15 a34 --> a2 e1 a4 e5 a3
+a2 e15 a34 --> e125 a34
+a2 e15 a34 --> a2 e5 a4 e1 a3
+a2 e15 a34 --> a2 e5 a3 e1 a4
+a2 e15 a34 --> a2 e1 a3 e5 a4
+a1 e5 a4 e3 a2 --> e15 a4 e3 a2
+a1 e5 a4 e3 a2 --> a14 e35 a2
+a1 e5 a4 e3 a2 --> a1 e5 a24 e3
+e3 a1 e24 a5 --> a1 e234 a5
+e3 a1 e24 a5 --> e3 a1 e2 a5 e4
+e3 a1 e24 a5 --> e3 a1 e4 a5 e2
+e1 a35 e2 a4 --> a3 e1 a5 e2 a4
+e1 a35 e2 a4 --> a5 e1 a3 e2 a4
+e1 a35 e2 a4 --> e1 a345 e2
+e3 a1 e25 a4 --> a1 e235 a4
+e3 a1 e25 a4 --> e3 a1 e2 a4 e5
+e3 a1 e25 a4 --> e3 a1 e5 a4 e2
+e1 a3 e45 a2 --> a3 e145 a2
+e1 a3 e45 a2 --> e1 a3 e4 a2 e5
+e1 a3 e45 a2 --> e1 a3 e5 a2 e4
+e25 a4 e1 a3 --> e5 a4 e12 a3
+e25 a4 e1 a3 --> e2 a4 e15 a3
+e25 a4 e1 a3 --> e25 a34 e1
+e25 a4 e3 a1 --> e5 a4 e23 a1
+e25 a4 e3 a1 --> e2 a4 e35 a1
+e25 a4 e3 a1 --> e25 a14 e3
+e4 a25 e1 a3 --> a2 e4 a5 e1 a3
+e4 a25 e1 a3 --> a5 e4 a2 e1 a3
+e4 a25 e1 a3 --> e4 a235 e1
+e3 a25 e1 a4 --> a5 e3 a2 e1 a4
+e3 a25 e1 a4 --> a2 e3 a5 e1 a4
+e3 a25 e1 a4 --> e3 a245 e1
+e125 a34 --> e12 a4 e5 a3
+e125 a34 --> e25 a3 e1 a4
+e125 a34 --> e25 a4 e1 a3
+e125 a34 --> e15 a3 e2 a4
+e125 a34 --> e15 a4 e2 a3
+e125 a34 --> e12 a3 e5 a4
+e3 a2 e45 a1 --> a2 e345 a1
+e3 a2 e45 a1 --> e3 a2 e5 a1 e4
+e3 a2 e45 a1 --> e3 a2 e4 a1 e5
+e13 a4 e5 a2 --> e3 a4 e15 a2
+e13 a4 e5 a2 --> e1 a4 e35 a2
+e13 a4 e5 a2 --> e13 a24 e5
+a12 e4 a35 --> e1 a2 e4 a35
+a12 e4 a35 --> a123 e4 a5
+a12 e4 a35 --> e2 a1 e4 a35
+a12 e4 a35 --> a125 e4 a3
+a145 e2 a3 --> e4 a15 e2 a3
+a145 e2 a3 --> e5 a14 e2 a3
+a145 e2 a3 --> e1 a45 e2 a3
+a145 e2 a3 --> a1345 e2
+e2 a1 e45 a3 --> a1 e245 a3
+e2 a1 e45 a3 --> e2 a1 e5 a3 e4
+e2 a1 e45 a3 --> e2 a1 e4 a3 e5
+a25 e34 a1 --> e2 a5 e34 a1
+a25 e34 a1 --> e5 a2 e34 a1
+a25 e34 a1 --> a25 e3 a1 e4
+a25 e34 a1 --> a25 e4 a1 e3
+e2 a1 e35 a4 --> a1 e235 a4
+e2 a1 e35 a4 --> e2 a1 e5 a4 e3
+e2 a1 e35 a4 --> e2 a1 e3 a4 e5
+e2 a3 e15 a4 --> a3 e125 a4
+e2 a3 e15 a4 --> e2 a3 e1 a4 e5
+e2 a3 e15 a4 --> e2 a3 e5 a4 e1
+e5 a13 e2 a4 --> a3 e5 a1 e2 a4
+e5 a13 e2 a4 --> a1 e5 a3 e2 a4
+e5 a13 e2 a4 --> e5 a134 e2
+e3 a45 e1 a2 --> a5 e3 a4 e1 a2
+e3 a45 e1 a2 --> a4 e3 a5 e1 a2
+e3 a45 e1 a2 --> e3 a245 e1
+e4 a1235 --> a3 e4 a125
+e4 a1235 --> a1 e4 a235
+e4 a1235 --> a2 e4 a135
+e4 a1235 --> a5 e4 a123
+e2 a5 e4 a13 --> a5 e24 a13
+e2 a5 e4 a13 --> e2 a15 e4 a3
+e2 a5 e4 a13 --> e2 a35 e4 a1
+e1 a25 e4 a3 --> a5 e1 a2 e4 a3
+e1 a25 e4 a3 --> a2 e1 a5 e4 a3
+e1 a25 e4 a3 --> e1 a235 e4
+e4 a3 e25 a1 --> a3 e245 a1
+e4 a3 e25 a1 --> e4 a3 e5 a1 e2
+e4 a3 e25 a1 --> e4 a3 e2 a1 e5
+a145 e3 a2 --> e5 a14 e3 a2
+a145 e3 a2 --> e4 a15 e3 a2
+a145 e3 a2 --> e1 a45 e3 a2
+a145 e3 a2 --> a1245 e3
+e234 a15 --> e34 a5 e2 a1
+e234 a15 --> e24 a5 e3 a1
+e234 a15 --> e23 a5 e4 a1
+e234 a15 --> e34 a1 e2 a5
+e234 a15 --> e23 a1 e4 a5
+e234 a15 --> e24 a1 e3 a5
+e25 a1 e3 a4 --> e2 a1 e35 a4
+e25 a1 e3 a4 --> e5 a1 e23 a4
+e25 a1 e3 a4 --> e25 a14 e3
+a3 e5 a4 e1 a2 --> a34 e15 a2
+a3 e5 a4 e1 a2 --> e35 a4 e1 a2
+a3 e5 a4 e1 a2 --> a3 e5 a24 e1
+a25 e1 a34 --> e2 a5 e1 a34
+a25 e1 a34 --> a245 e1 a3
+a25 e1 a34 --> a235 e1 a4
+a25 e1 a34 --> e5 a2 e1 a34
+a5 e3 a4 e2 a1 --> e35 a4 e2 a1
+a5 e3 a4 e2 a1 --> a45 e23 a1
+a5 e3 a4 e2 a1 --> a5 e3 a14 e2
+e1345 a2 --> e135 a2 e4
+e1345 a2 --> e345 a2 e1
+e1345 a2 --> e134 a2 e5
+e1345 a2 --> e145 a2 e3
+a2 e5 a4 e1 a3 --> e25 a4 e1 a3
+a2 e5 a4 e1 a3 --> a24 e15 a3
+a2 e5 a4 e1 a3 --> a2 e5 a34 e1
+e23 a1 e5 a4 --> e3 a1 e25 a4
+e23 a1 e5 a4 --> e2 a1 e35 a4
+e23 a1 e5 a4 --> e23 a14 e5
+a5 e3 a4 e1 a2 --> a45 e13 a2
+a5 e3 a4 e1 a2 --> e35 a4 e1 a2
+a5 e3 a4 e1 a2 --> a5 e3 a24 e1
+a5 e4 a3 e1 a2 --> e45 a3 e1 a2
+a5 e4 a3 e1 a2 --> a35 e14 a2
+a5 e4 a3 e1 a2 --> a5 e4 a23 e1
+e2 a5 e34 a1 --> a5 e234 a1
+e2 a5 e34 a1 --> e2 a5 e4 a1 e3
+e2 a5 e34 a1 --> e2 a5 e3 a1 e4
+e13 a4 e2 a5 --> e1 a4 e23 a5
+e13 a4 e2 a5 --> e3 a4 e12 a5
+e13 a4 e2 a5 --> e13 a45 e2
+e2 a1345 --> a1 e2 a345
+e2 a1345 --> a3 e2 a145
+e2 a1345 --> a4 e2 a135
+e2 a1345 --> a5 e2 a134
+a5 e3 a2 e1 a4 --> e35 a2 e1 a4
+a5 e3 a2 e1 a4 --> a25 e13 a4
+a5 e3 a2 e1 a4 --> a5 e3 a24 e1
+e5 a12 e3 a4 --> a1 e5 a2 e3 a4
+e5 a12 e3 a4 --> a2 e5 a1 e3 a4
+e5 a12 e3 a4 --> e5 a124 e3
+e13 a5 e2 a4 --> e1 a5 e23 a4
+e13 a5 e2 a4 --> e3 a5 e12 a4
+e13 a5 e2 a4 --> e13 a45 e2
+a23 e14 a5 --> e3 a2 e14 a5
+a23 e14 a5 --> e2 a3 e14 a5
+a23 e14 a5 --> a23 e4 a5 e1
+a23 e14 a5 --> a23 e1 a5 e4
+a14 e25 a3 --> e4 a1 e25 a3
+a14 e25 a3 --> e1 a4 e25 a3
+a14 e25 a3 --> a14 e2 a3 e5
+a14 e25 a3 --> a14 e5 a3 e2
+a345 e1 a2 --> e3 a45 e1 a2
+a345 e1 a2 --> e4 a35 e1 a2
+a345 e1 a2 --> e5 a34 e1 a2
+a345 e1 a2 --> a2345 e1
+a4 e23 a15 --> a4 e3 a1 e2 a5
+a4 e23 a15 --> e234 a15
+a4 e23 a15 --> a4 e2 a5 e3 a1
+a4 e23 a15 --> a4 e3 a5 e2 a1
+a4 e23 a15 --> a4 e2 a1 e3 a5
+a5 e1 a4 e2 a3 --> a45 e12 a3
+a5 e1 a4 e2 a3 --> e15 a4 e2 a3
+a5 e1 a4 e2 a3 --> a5 e1 a34 e2
+a3 e4 a1 e5 a2 --> a13 e45 a2
+a3 e4 a1 e5 a2 --> e34 a1 e5 a2
+a3 e4 a1 e5 a2 --> a3 e4 a12 e5
+e5 a1234 --> a1 e5 a234
+e5 a1234 --> a4 e5 a123
+e5 a1234 --> a3 e5 a124
+e5 a1234 --> a2 e5 a134
+e24 a3 e1 a5 --> e4 a3 e12 a5
+e24 a3 e1 a5 --> e2 a3 e14 a5
+e24 a3 e1 a5 --> e24 a35 e1
+e2 a1 e4 a35 --> a1 e24 a35
+e2 a1 e4 a35 --> e2 a15 e4 a3
+e2 a1 e4 a35 --> e2 a13 e4 a5
+e1 a24 e3 a5 --> a4 e1 a2 e3 a5
+e1 a24 e3 a5 --> a2 e1 a4 e3 a5
+e1 a24 e3 a5 --> e1 a245 e3
+e4 a5 e2 a13 --> e4 a15 e2 a3
+e4 a5 e2 a13 --> a5 e24 a13
+e4 a5 e2 a13 --> e4 a35 e2 a1
+e4 a3 e12 a5 --> a3 e124 a5
+e4 a3 e12 a5 --> e4 a3 e2 a5 e1
+e4 a3 e12 a5 --> e4 a3 e1 a5 e2
+a4 e1 a2 e5 a3 --> a24 e15 a3
+a4 e1 a2 e5 a3 --> e14 a2 e5 a3
+a4 e1 a2 e5 a3 --> a4 e1 a23 e5
+a2 e13 a45 --> e123 a45
+a2 e13 a45 --> a2 e1 a5 e3 a4
+a2 e13 a45 --> a2 e3 a4 e1 a5
+a2 e13 a45 --> a2 e3 a5 e1 a4
+a2 e13 a45 --> a2 e1 a4 e3 a5
+e4 a1 e5 a23 --> e4 a12 e5 a3
+e4 a1 e5 a23 --> e4 a13 e5 a2
+e4 a1 e5 a23 --> a1 e45 a23
+e3 a1 e5 a24 --> e3 a14 e5 a2
+e3 a1 e5 a24 --> a1 e35 a24
+e3 a1 e5 a24 --> e3 a12 e5 a4
+e1 a2 e3 a45 --> e1 a25 e3 a4
+e1 a2 e3 a45 --> e1 a24 e3 a5
+e1 a2 e3 a45 --> a2 e13 a45
+a4 e3 a5 e1 a2 --> a45 e13 a2
+a4 e3 a5 e1 a2 --> e34 a5 e1 a2
+a4 e3 a5 e1 a2 --> a4 e3 a25 e1
+e45 a2 e1 a3 --> e5 a2 e14 a3
+e45 a2 e1 a3 --> e4 a2 e15 a3
+e45 a2 e1 a3 --> e45 a23 e1
+a14 e2 a35 --> e4 a1 e2 a35
+a14 e2 a35 --> a134 e2 a5
+a14 e2 a35 --> e1 a4 e2 a35
+a14 e2 a35 --> a145 e2 a3
+a24 e5 a13 --> e4 a2 e5 a13
+a24 e5 a13 --> a234 e5 a1
+a24 e5 a13 --> e2 a4 e5 a13
+a24 e5 a13 --> a124 e5 a3
+a1 e5 a2 e3 a4 --> a12 e35 a4
+a1 e5 a2 e3 a4 --> e15 a2 e3 a4
+a1 e5 a2 e3 a4 --> a1 e5 a24 e3
+a25 e14 a3 --> e5 a2 e14 a3
+a25 e14 a3 --> e2 a5 e14 a3
+a25 e14 a3 --> a25 e4 a3 e1
+a25 e14 a3 --> a25 e1 a3 e4
+e15 a3 e2 a4 --> e1 a3 e25 a4
+e15 a3 e2 a4 --> e5 a3 e12 a4
+e15 a3 e2 a4 --> e15 a34 e2
+a25 e13 a4 --> e5 a2 e13 a4
+a25 e13 a4 --> e2 a5 e13 a4
+a25 e13 a4 --> a25 e3 a4 e1
+a25 e13 a4 --> a25 e1 a4 e3
+e45 a1 e2 a3 --> e4 a1 e25 a3
+e45 a1 e2 a3 --> e5 a1 e24 a3
+e45 a1 e2 a3 --> e45 a13 e2
+a2 e45 a13 --> a2 e5 a3 e4 a1
+a2 e45 a13 --> a2 e4 a1 e5 a3
+a2 e45 a13 --> a2 e5 a1 e4 a3
+a2 e45 a13 --> a2 e4 a3 e5 a1
+a2 e45 a13 --> e245 a13
+e1 a23 e5 a4 --> a3 e1 a2 e5 a4
+e1 a23 e5 a4 --> a2 e1 a3 e5 a4
+e1 a23 e5 a4 --> e1 a234 e5
+a5 e1 a2 e4 a3 --> e15 a2 e4 a3
+a5 e1 a2 e4 a3 --> a25 e14 a3
+a5 e1 a2 e4 a3 --> a5 e1 a23 e4
+e1235 a4 --> e135 a4 e2
+e1235 a4 --> e123 a4 e5
+e1235 a4 --> e235 a4 e1
+e1235 a4 --> e125 a4 e3
+e245 a13 --> e25 a3 e4 a1
+e245 a13 --> e45 a1 e2 a3
+e245 a13 --> e24 a1 e5 a3
+e245 a13 --> e24 a3 e5 a1
+e245 a13 --> e25 a1 e4 a3
+e245 a13 --> e45 a3 e2 a1
+a3 e5 a2 e1 a4 --> a23 e15 a4
+a3 e5 a2 e1 a4 --> e35 a2 e1 a4
+a3 e5 a2 e1 a4 --> a3 e5 a24 e1
+a3 e5 a1 e2 a4 --> a13 e25 a4
+a3 e5 a1 e2 a4 --> e35 a1 e2 a4
+a3 e5 a1 e2 a4 --> a3 e5 a14 e2
+a123 e5 a4 --> e3 a12 e5 a4
+a123 e5 a4 --> e1 a23 e5 a4
+a123 e5 a4 --> e2 a13 e5 a4
+a123 e5 a4 --> a1234 e5
+a3 e1 a2 e4 a5 --> a23 e14 a5
+a3 e1 a2 e4 a5 --> e13 a2 e4 a5
+a3 e1 a2 e4 a5 --> a3 e1 a25 e4
+a25 e4 a13 --> e2 a5 e4 a13
+a25 e4 a13 --> a235 e4 a1
+a25 e4 a13 --> a125 e4 a3
+a25 e4 a13 --> e5 a2 e4 a13
+e1 a5 e3 a24 --> e1 a25 e3 a4
+e1 a5 e3 a24 --> a5 e13 a24
+e1 a5 e3 a24 --> e1 a45 e3 a2
+e2 a3 e4 a15 --> e2 a35 e4 a1
+e2 a3 e4 a15 --> e2 a13 e4 a5
+e2 a3 e4 a15 --> a3 e24 a15
+e45 a1 e3 a2 --> e5 a1 e34 a2
+e45 a1 e3 a2 --> e4 a1 e35 a2
+e45 a1 e3 a2 --> e45 a12 e3
+a5 e4 a2 e3 a1 --> e45 a2 e3 a1
+a5 e4 a2 e3 a1 --> a25 e34 a1
+a5 e4 a2 e3 a1 --> a5 e4 a12 e3
+e5 a4 e3 a12 --> e5 a14 e3 a2
+e5 a4 e3 a12 --> a4 e35 a12
+e5 a4 e3 a12 --> e5 a24 e3 a1
+a5 e23 a14 --> a5 e2 a1 e3 a4
+a5 e23 a14 --> a5 e3 a1 e2 a4
+a5 e23 a14 --> a5 e3 a4 e2 a1
+a5 e23 a14 --> a5 e2 a4 e3 a1
+a5 e23 a14 --> e235 a14
+e4 a35 e1 a2 --> a5 e4 a3 e1 a2
+e4 a35 e1 a2 --> a3 e4 a5 e1 a2
+e4 a35 e1 a2 --> e4 a235 e1
+a235 e4 a1 --> e2 a35 e4 a1
+a235 e4 a1 --> e3 a25 e4 a1
+a235 e4 a1 --> e5 a23 e4 a1
+a235 e4 a1 --> a1235 e4
+e2 a14 e5 a3 --> a1 e2 a4 e5 a3
+e2 a14 e5 a3 --> a4 e2 a1 e5 a3
+e2 a14 e5 a3 --> e2 a134 e5
+e34 a1 e5 a2 --> e4 a1 e35 a2
+e34 a1 e5 a2 --> e3 a1 e45 a2
+e34 a1 e5 a2 --> e34 a12 e5
+a4 e5 a3 e1 a2 --> a34 e15 a2
+a4 e5 a3 e1 a2 --> e45 a3 e1 a2
+a4 e5 a3 e1 a2 --> a4 e5 a23 e1
+e4 a15 e3 a2 --> a5 e4 a1 e3 a2
+e4 a15 e3 a2 --> a1 e4 a5 e3 a2
+e4 a15 e3 a2 --> e4 a125 e3
+e3 a15 e4 a2 --> a1 e3 a5 e4 a2
+e3 a15 e4 a2 --> a5 e3 a1 e4 a2
+e3 a15 e4 a2 --> e3 a125 e4
+e5 a1 e23 a4 --> a1 e235 a4
+e5 a1 e23 a4 --> e5 a1 e3 a4 e2
+e5 a1 e23 a4 --> e5 a1 e2 a4 e3
+e34 a1 e2 a5 --> e3 a1 e24 a5
+e34 a1 e2 a5 --> e4 a1 e23 a5
+e34 a1 e2 a5 --> e34 a15 e2
+e14 a5 e3 a2 --> e4 a5 e13 a2
+e14 a5 e3 a2 --> e1 a5 e34 a2
+e14 a5 e3 a2 --> e14 a25 e3
+a125 e4 a3 --> e2 a15 e4 a3
+a125 e4 a3 --> e5 a12 e4 a3
+a125 e4 a3 --> e1 a25 e4 a3
+a125 e4 a3 --> a1235 e4
+e24 a1 e5 a3 --> e4 a1 e25 a3
+e24 a1 e5 a3 --> e2 a1 e45 a3
+e24 a1 e5 a3 --> e24 a13 e5
+a4 e3 a2 e5 a1 --> e34 a2 e5 a1
+a4 e3 a2 e5 a1 --> a24 e35 a1
+a4 e3 a2 e5 a1 --> a4 e3 a12 e5
+a34 e1 a25 --> a234 e1 a5
+a34 e1 a25 --> a345 e1 a2
+a34 e1 a25 --> e3 a4 e1 a25
+a34 e1 a25 --> e4 a3 e1 a25
+e34 a2 e5 a1 --> e4 a2 e35 a1
+e34 a2 e5 a1 --> e3 a2 e45 a1
+e34 a2 e5 a1 --> e34 a12 e5
+a5 e2 a1 e4 a3 --> e25 a1 e4 a3
+a5 e2 a1 e4 a3 --> a15 e24 a3
+a5 e2 a1 e4 a3 --> a5 e2 a13 e4
+e4 a5 e12 a3 --> a5 e124 a3
+e4 a5 e12 a3 --> e4 a5 e1 a3 e2
+e4 a5 e12 a3 --> e4 a5 e2 a3 e1
+e2 a34 e1 a5 --> a3 e2 a4 e1 a5
+e2 a34 e1 a5 --> a4 e2 a3 e1 a5
+e2 a34 e1 a5 --> e2 a345 e1
+a235 e1 a4 --> e5 a23 e1 a4
+a235 e1 a4 --> e3 a25 e1 a4
+a235 e1 a4 --> e2 a35 e1 a4
+a235 e1 a4 --> a2345 e1
+e24 a5 e1 a3 --> e4 a5 e12 a3
+e24 a5 e1 a3 --> e2 a5 e14 a3
+e24 a5 e1 a3 --> e24 a35 e1
+e45 a3 e1 a2 --> e5 a3 e14 a2
+e45 a3 e1 a2 --> e4 a3 e15 a2
+e45 a3 e1 a2 --> e45 a23 e1
+e3 a12 e4 a5 --> a1 e3 a2 e4 a5
+e3 a12 e4 a5 --> a2 e3 a1 e4 a5
+e3 a12 e4 a5 --> e3 a125 e4
+e124 a35 --> e14 a3 e2 a5
+e124 a35 --> e14 a5 e2 a3
+e124 a35 --> e24 a3 e1 a5
+e124 a35 --> e24 a5 e1 a3
+e124 a35 --> e12 a3 e4 a5
+e124 a35 --> e12 a5 e4 a3
+a15 e4 a23 --> e5 a1 e4 a23
+a15 e4 a23 --> a135 e4 a2
+a15 e4 a23 --> a125 e4 a3
+a15 e4 a23 --> e1 a5 e4 a23
+e13 a2 e4 a5 --> e1 a2 e34 a5
+e13 a2 e4 a5 --> e3 a2 e14 a5
+e13 a2 e4 a5 --> e13 a25 e4
+e5 a34 e1 a2 --> a3 e5 a4 e1 a2
+e5 a34 e1 a2 --> a4 e5 a3 e1 a2
+e5 a34 e1 a2 --> e5 a234 e1
+a3 e12 a45 --> a3 e2 a5 e1 a4
+a3 e12 a45 --> a3 e1 a5 e2 a4
+a3 e12 a45 --> e123 a45
+a3 e12 a45 --> a3 e2 a4 e1 a5
+a3 e12 a45 --> a3 e1 a4 e2 a5
+a4 e12 a35 --> a4 e1 a3 e2 a5
+a4 e12 a35 --> a4 e2 a5 e1 a3
+a4 e12 a35 --> a4 e1 a5 e2 a3
+a4 e12 a35 --> e124 a35
+a4 e12 a35 --> a4 e2 a3 e1 a5
+e5 a2 e34 a1 --> a2 e345 a1
+e5 a2 e34 a1 --> e5 a2 e4 a1 e3
+e5 a2 e34 a1 --> e5 a2 e3 a1 e4
+e2 a4 e13 a5 --> a4 e123 a5
+e2 a4 e13 a5 --> e2 a4 e1 a5 e3
+e2 a4 e13 a5 --> e2 a4 e3 a5 e1
+a24 e15 a3 --> e4 a2 e15 a3
+a24 e15 a3 --> e2 a4 e15 a3
+a24 e15 a3 --> a24 e5 a3 e1
+a24 e15 a3 --> a24 e1 a3 e5
+a4 e123 a5 --> e1234 a5
+a4 e123 a5 --> a4 e12 a5 e3
+a4 e123 a5 --> a4 e13 a5 e2
+a4 e123 a5 --> a4 e23 a5 e1
+e3 a1 e4 a25 --> a1 e34 a25
+e3 a1 e4 a25 --> e3 a15 e4 a2
+e3 a1 e4 a25 --> e3 a12 e4 a5
+a2 e1 a5 e4 a3 --> a25 e14 a3
+a2 e1 a5 e4 a3 --> e12 a5 e4 a3
+a2 e1 a5 e4 a3 --> a2 e1 a35 e4
+e4 a1 e35 a2 --> a1 e345 a2
+e4 a1 e35 a2 --> e4 a1 e3 a2 e5
+e4 a1 e35 a2 --> e4 a1 e5 a2 e3
+a2 e4 a135 --> a23 e4 a15
+a2 e4 a135 --> a12 e4 a35
+a2 e4 a135 --> a25 e4 a13
+a2 e4 a135 --> e24 a135
+e24 a3 e5 a1 --> e4 a3 e25 a1
+e24 a3 e5 a1 --> e2 a3 e45 a1
+e24 a3 e5 a1 --> e24 a13 e5
+a34 e25 a1 --> e3 a4 e25 a1
+a34 e25 a1 --> e4 a3 e25 a1
+a34 e25 a1 --> a34 e5 a1 e2
+a34 e25 a1 --> a34 e2 a1 e5
+e3 a2 e4 a15 --> a2 e34 a15
+e3 a2 e4 a15 --> e3 a12 e4 a5
+e3 a2 e4 a15 --> e3 a25 e4 a1
+e5 a3 e2 a14 --> e5 a13 e2 a4
+e5 a3 e2 a14 --> a3 e25 a14
+e5 a3 e2 a14 --> e5 a34 e2 a1
+a4 e2 a135 --> a34 e2 a15
+a4 e2 a135 --> a14 e2 a35
+a4 e2 a135 --> a45 e2 a13
+a4 e2 a135 --> e24 a135
+a2 e3 a4 e1 a5 --> a24 e13 a5
+a2 e3 a4 e1 a5 --> e23 a4 e1 a5
+a2 e3 a4 e1 a5 --> a2 e3 a45 e1
+a3 e1 a5 e4 a2 --> e13 a5 e4 a2
+a3 e1 a5 e4 a2 --> a35 e14 a2
+a3 e1 a5 e4 a2 --> a3 e1 a25 e4
+e23 a1 e4 a5 --> e3 a1 e24 a5
+e23 a1 e4 a5 --> e2 a1 e34 a5
+e23 a1 e4 a5 --> e23 a15 e4
+a1 e4 a2 e3 a5 --> e14 a2 e3 a5
+a1 e4 a2 e3 a5 --> a12 e34 a5
+a1 e4 a2 e3 a5 --> a1 e4 a25 e3
+a3 e2 a1 e5 a4 --> a13 e25 a4
+a3 e2 a1 e5 a4 --> e23 a1 e5 a4
+a3 e2 a1 e5 a4 --> a3 e2 a14 e5
+a5 e3 a1 e4 a2 --> a15 e34 a2
+a5 e3 a1 e4 a2 --> e35 a1 e4 a2
+a5 e3 a1 e4 a2 --> a5 e3 a12 e4
+a13 e2 a45 --> e1 a3 e2 a45
+a13 e2 a45 --> a135 e2 a4
+a13 e2 a45 --> a134 e2 a5
+a13 e2 a45 --> e3 a1 e2 a45
+a5 e13 a24 --> a5 e1 a4 e3 a2
+a5 e13 a24 --> a5 e1 a2 e3 a4
+a5 e13 a24 --> a5 e3 a4 e1 a2
+a5 e13 a24 --> a5 e3 a2 e1 a4
+a5 e13 a24 --> e135 a24
+a45 e1 a23 --> e5 a4 e1 a23
+a45 e1 a23 --> a245 e1 a3
+a45 e1 a23 --> a345 e1 a2
+a45 e1 a23 --> e4 a5 e1 a23
+a2 e3 a5 e1 a4 --> a25 e13 a4
+a2 e3 a5 e1 a4 --> e23 a5 e1 a4
+a2 e3 a5 e1 a4 --> a2 e3 a45 e1
+e15 a4 e2 a3 --> e1 a4 e25 a3
+e15 a4 e2 a3 --> e5 a4 e12 a3
+e15 a4 e2 a3 --> e15 a34 e2
+e15 a3 e4 a2 --> e1 a3 e45 a2
+e15 a3 e4 a2 --> e5 a3 e14 a2
+e15 a3 e4 a2 --> e15 a23 e4
+a23 e45 a1 --> e3 a2 e45 a1
+a23 e45 a1 --> e2 a3 e45 a1
+a23 e45 a1 --> a23 e5 a1 e4
+a23 e45 a1 --> a23 e4 a1 e5
+a24 e35 a1 --> e4 a2 e35 a1
+a24 e35 a1 --> e2 a4 e35 a1
+a24 e35 a1 --> a24 e3 a1 e5
+a24 e35 a1 --> a24 e5 a1 e3
+e1 a4 e23 a5 --> a4 e123 a5
+e1 a4 e23 a5 --> e1 a4 e3 a5 e2
+e1 a4 e23 a5 --> e1 a4 e2 a5 e3
+e1 a3 e24 a5 --> a3 e124 a5
+e1 a3 e24 a5 --> e1 a3 e2 a5 e4
+e1 a3 e24 a5 --> e1 a3 e4 a5 e2
+e14 a2 e5 a3 --> e4 a2 e15 a3
+e14 a2 e5 a3 --> e1 a2 e45 a3
+e14 a2 e5 a3 --> e14 a23 e5
+e3 a5 e1 a24 --> e3 a25 e1 a4
+e3 a5 e1 a24 --> e3 a45 e1 a2
+e3 a5 e1 a24 --> a5 e13 a24
+e4 a5 e1 a23 --> a5 e14 a23
+e4 a5 e1 a23 --> e4 a25 e1 a3
+e4 a5 e1 a23 --> e4 a35 e1 a2
+a15 e2 a34 --> a135 e2 a4
+a15 e2 a34 --> e5 a1 e2 a34
+a15 e2 a34 --> a145 e2 a3
+a15 e2 a34 --> e1 a5 e2 a34
+a1 e2 a5 e4 a3 --> a15 e24 a3
+a1 e2 a5 e4 a3 --> e12 a5 e4 a3
+a1 e2 a5 e4 a3 --> a1 e2 a35 e4
+a1 e2 a5 e3 a4 --> a15 e23 a4
+a1 e2 a5 e3 a4 --> e12 a5 e3 a4
+a1 e2 a5 e3 a4 --> a1 e2 a45 e3
+e14 a3 e5 a2 --> e1 a3 e45 a2
+e14 a3 e5 a2 --> e4 a3 e15 a2
+e14 a3 e5 a2 --> e14 a23 e5
+e2 a1 e34 a5 --> a1 e234 a5
+e2 a1 e34 a5 --> e2 a1 e4 a5 e3
+e2 a1 e34 a5 --> e2 a1 e3 a5 e4
+a4 e35 a12 --> e345 a12
+a4 e35 a12 --> a4 e5 a1 e3 a2
+a4 e35 a12 --> a4 e3 a2 e5 a1
+a4 e35 a12 --> a4 e3 a1 e5 a2
+a4 e35 a12 --> a4 e5 a2 e3 a1
+e1 a5 e4 a23 --> e1 a35 e4 a2
+e1 a5 e4 a23 --> a5 e14 a23
+e1 a5 e4 a23 --> e1 a25 e4 a3
+e34 a125 --> e3 a5 e4 a12
+e34 a125 --> e4 a2 e3 a15
+e34 a125 --> e4 a5 e3 a12
+e34 a125 --> e4 a1 e3 a25
+e34 a125 --> e3 a1 e4 a25
+e34 a125 --> e3 a2 e4 a15
+a4 e2 a5 e3 a1 --> a45 e23 a1
+a4 e2 a5 e3 a1 --> e24 a5 e3 a1
+a4 e2 a5 e3 a1 --> a4 e2 a15 e3
+a1 e3 a5 e2 a4 --> a15 e23 a4
+a1 e3 a5 e2 a4 --> e13 a5 e2 a4
+a1 e3 a5 e2 a4 --> a1 e3 a45 e2
+a13 e4 a25 --> e1 a3 e4 a25
+a13 e4 a25 --> a135 e4 a2
+a13 e4 a25 --> a123 e4 a5
+a13 e4 a25 --> e3 a1 e4 a25
+e12 a4 e3 a5 --> e2 a4 e13 a5
+e12 a4 e3 a5 --> e1 a4 e23 a5
+e12 a4 e3 a5 --> e12 a45 e3
+e2 a13 e5 a4 --> a3 e2 a1 e5 a4
+e2 a13 e5 a4 --> a1 e2 a3 e5 a4
+e2 a13 e5 a4 --> e2 a134 e5
+a4 e5 a123 --> a14 e5 a23
+a4 e5 a123 --> e45 a123
+a4 e5 a123 --> a24 e5 a13
+a4 e5 a123 --> a34 e5 a12
+a4 e135 a2 --> e1345 a2
+a4 e135 a2 --> a4 e15 a2 e3
+a4 e135 a2 --> a4 e13 a2 e5
+a4 e135 a2 --> a4 e35 a2 e1
+e3 a4 e2 a15 --> e3 a14 e2 a5
+e3 a4 e2 a15 --> a4 e23 a15
+e3 a4 e2 a15 --> e3 a45 e2 a1
+a4 e2 a3 e1 a5 --> e24 a3 e1 a5
+a4 e2 a3 e1 a5 --> a34 e12 a5
+a4 e2 a3 e1 a5 --> a4 e2 a35 e1
+e3 a4 e1 a25 --> e3 a45 e1 a2
+e3 a4 e1 a25 --> a4 e13 a25
+e3 a4 e1 a25 --> e3 a24 e1 a5
+a3 e14 a25 --> e134 a25
+a3 e14 a25 --> a3 e4 a2 e1 a5
+a3 e14 a25 --> a3 e1 a2 e4 a5
+a3 e14 a25 --> a3 e1 a5 e4 a2
+a3 e14 a25 --> a3 e4 a5 e1 a2
+a34 e12 a5 --> e4 a3 e12 a5
+a34 e12 a5 --> e3 a4 e12 a5
+a34 e12 a5 --> a34 e1 a5 e2
+a34 e12 a5 --> a34 e2 a5 e1
+a2 e1 a345 --> a25 e1 a34
+a2 e1 a345 --> e12 a345
+a2 e1 a345 --> a24 e1 a35
+a2 e1 a345 --> a23 e1 a45
+e5 a13 e4 a2 --> a1 e5 a3 e4 a2
+e5 a13 e4 a2 --> a3 e5 a1 e4 a2
+e5 a13 e4 a2 --> e5 a123 e4
+e25 a1 e4 a3 --> e2 a1 e45 a3
+e25 a1 e4 a3 --> e5 a1 e24 a3
+e25 a1 e4 a3 --> e25 a13 e4
+a4 e3 a5 e2 a1 --> e34 a5 e2 a1
+a4 e3 a5 e2 a1 --> a45 e23 a1
+a4 e3 a5 e2 a1 --> a4 e3 a15 e2
+e2 a15 e3 a4 --> a5 e2 a1 e3 a4
+e2 a15 e3 a4 --> a1 e2 a5 e3 a4
+e2 a15 e3 a4 --> e2 a145 e3
+a5 e4 a3 e2 a1 --> a35 e24 a1
+a5 e4 a3 e2 a1 --> e45 a3 e2 a1
+a5 e4 a3 e2 a1 --> a5 e4 a13 e2
+a134 e5 a2 --> e4 a13 e5 a2
+a134 e5 a2 --> e1 a34 e5 a2
+a134 e5 a2 --> e3 a14 e5 a2
+a134 e5 a2 --> a1234 e5
+a45 e2 a13 --> a345 e2 a1
+a45 e2 a13 --> a145 e2 a3
+a45 e2 a13 --> e4 a5 e2 a13
+a45 e2 a13 --> e5 a4 e2 a13
+e25 a134 --> e2 a1 e5 a34
+e25 a134 --> e5 a1 e2 a34
+e25 a134 --> e5 a3 e2 a14
+e25 a134 --> e2 a4 e5 a13
+e25 a134 --> e5 a4 e2 a13
+e25 a134 --> e2 a3 e5 a14
+e13 a5 e4 a2 --> e3 a5 e14 a2
+e13 a5 e4 a2 --> e1 a5 e34 a2
+e13 a5 e4 a2 --> e13 a25 e4
+a1 e234 a5 --> e1234 a5
+a1 e234 a5 --> a1 e34 a5 e2
+a1 e234 a5 --> a1 e23 a5 e4
+a1 e234 a5 --> a1 e24 a5 e3
+a2 e3 a1 e5 a4 --> a12 e35 a4
+a2 e3 a1 e5 a4 --> e23 a1 e5 a4
+a2 e3 a1 e5 a4 --> a2 e3 a14 e5
+e23 a5 e1 a4 --> e2 a5 e13 a4
+e23 a5 e1 a4 --> e3 a5 e12 a4
+e23 a5 e1 a4 --> e23 a45 e1
+e12 a345 --> e1 a3 e2 a45
+e12 a345 --> e2 a4 e1 a35
+e12 a345 --> e2 a5 e1 a34
+e12 a345 --> e2 a3 e1 a45
+e12 a345 --> e1 a4 e2 a35
+e12 a345 --> e1 a5 e2 a34
+a15 e24 a3 --> e1 a5 e24 a3
+a15 e24 a3 --> e5 a1 e24 a3
+a15 e24 a3 --> a15 e4 a3 e2
+a15 e24 a3 --> a15 e2 a3 e4
+e2 a35 e1 a4 --> a3 e2 a5 e1 a4
+e2 a35 e1 a4 --> a5 e2 a3 e1 a4
+e2 a35 e1 a4 --> e2 a345 e1
+e1 a5 e24 a3 --> a5 e124 a3
+e1 a5 e24 a3 --> e1 a5 e4 a3 e2
+e1 a5 e24 a3 --> e1 a5 e2 a3 e4
+a35 e14 a2 --> e3 a5 e14 a2
+a35 e14 a2 --> e5 a3 e14 a2
+a35 e14 a2 --> a35 e4 a2 e1
+a35 e14 a2 --> a35 e1 a2 e4
+e2345 a1 --> e245 a1 e3
+e2345 a1 --> e234 a1 e5
+e2345 a1 --> e345 a1 e2
+e2345 a1 --> e235 a1 e4
+e3 a15 e2 a4 --> a5 e3 a1 e2 a4
+e3 a15 e2 a4 --> a1 e3 a5 e2 a4
+e3 a15 e2 a4 --> e3 a145 e2
+a3 e124 a5 --> e1234 a5
+a3 e124 a5 --> a3 e24 a5 e1
+a3 e124 a5 --> a3 e14 a5 e2
+a3 e124 a5 --> a3 e12 a5 e4
+a5 e2 a3 e4 a1 --> a35 e24 a1
+a5 e2 a3 e4 a1 --> e25 a3 e4 a1
+a5 e2 a3 e4 a1 --> a5 e2 a13 e4
+e3 a1 e45 a2 --> a1 e345 a2
+e3 a1 e45 a2 --> e3 a1 e5 a2 e4
+e3 a1 e45 a2 --> e3 a1 e4 a2 e5
+a4 e25 a13 --> a4 e2 a3 e5 a1
+a4 e25 a13 --> a4 e5 a3 e2 a1
+a4 e25 a13 --> a4 e5 a1 e2 a3
+a4 e25 a13 --> a4 e2 a1 e5 a3
+a4 e25 a13 --> e245 a13
+a3 e25 a14 --> a3 e5 a4 e2 a1
+a3 e25 a14 --> a3 e5 a1 e2 a4
+a3 e25 a14 --> a3 e2 a1 e5 a4
+a3 e25 a14 --> e235 a14
+a3 e25 a14 --> a3 e2 a4 e5 a1
+e2 a4 e5 a13 --> e2 a14 e5 a3
+e2 a4 e5 a13 --> a4 e25 a13
+e2 a4 e5 a13 --> e2 a34 e5 a1
+a12 e34 a5 --> e1 a2 e34 a5
+a12 e34 a5 --> e2 a1 e34 a5
+a12 e34 a5 --> a12 e4 a5 e3
+a12 e34 a5 --> a12 e3 a5 e4
+e4 a13 e2 a5 --> a1 e4 a3 e2 a5
+e4 a13 e2 a5 --> a3 e4 a1 e2 a5
+e4 a13 e2 a5 --> e4 a135 e2
+a1 e3 a245 --> e13 a245
+a1 e3 a245 --> a14 e3 a25
+a1 e3 a245 --> a15 e3 a24
+a1 e3 a245 --> a12 e3 a45
+e5 a4 e2 a13 --> e5 a14 e2 a3
+e5 a4 e2 a13 --> a4 e25 a13
+e5 a4 e2 a13 --> e5 a34 e2 a1
+e23 a4 e1 a5 --> e2 a4 e13 a5
+e23 a4 e1 a5 --> e3 a4 e12 a5
+e23 a4 e1 a5 --> e23 a45 e1
+a3 e1 a2 e5 a4 --> a23 e15 a4
+a3 e1 a2 e5 a4 --> e13 a2 e5 a4
+a3 e1 a2 e5 a4 --> a3 e1 a24 e5
+e24 a1 e3 a5 --> e2 a1 e34 a5
+e24 a1 e3 a5 --> e4 a1 e23 a5
+e24 a1 e3 a5 --> e24 a15 e3
+a1 e3 a2 e4 a5 --> e13 a2 e4 a5
+a1 e3 a2 e4 a5 --> a12 e34 a5
+a1 e3 a2 e4 a5 --> a1 e3 a25 e4
+a4 e125 a3 --> e1245 a3
+a4 e125 a3 --> a4 e12 a3 e5
+a4 e125 a3 --> a4 e15 a3 e2
+a4 e125 a3 --> a4 e25 a3 e1
+a1 e2 a4 e3 a5 --> a14 e23 a5
+a1 e2 a4 e3 a5 --> e12 a4 e3 a5
+a1 e2 a4 e3 a5 --> a1 e2 a45 e3
+e1 a5 e34 a2 --> a5 e134 a2
+e1 a5 e34 a2 --> e1 a5 e4 a2 e3
+e1 a5 e34 a2 --> e1 a5 e3 a2 e4
+e45 a3 e2 a1 --> e5 a3 e24 a1
+e45 a3 e2 a1 --> e4 a3 e25 a1
+e45 a3 e2 a1 --> e45 a13 e2
+e5 a2 e13 a4 --> a2 e135 a4
+e5 a2 e13 a4 --> e5 a2 e1 a4 e3
+e5 a2 e13 a4 --> e5 a2 e3 a4 e1
+a1 e4 a2 e5 a3 --> a12 e45 a3
+a1 e4 a2 e5 a3 --> e14 a2 e5 a3
+a1 e4 a2 e5 a3 --> a1 e4 a23 e5
+e4 a1 e23 a5 --> a1 e234 a5
+e4 a1 e23 a5 --> e4 a1 e3 a5 e2
+e4 a1 e23 a5 --> e4 a1 e2 a5 e3
+e1 a45 e2 a3 --> a4 e1 a5 e2 a3
+e1 a45 e2 a3 --> a5 e1 a4 e2 a3
+e1 a45 e2 a3 --> e1 a345 e2
+a5 e12 a34 --> a5 e2 a4 e1 a3
+a5 e12 a34 --> a5 e2 a3 e1 a4
+a5 e12 a34 --> a5 e1 a3 e2 a4
+a5 e12 a34 --> e125 a34
+a5 e12 a34 --> a5 e1 a4 e2 a3
+e5 a2 e3 a14 --> a2 e35 a14
+e5 a2 e3 a14 --> e5 a12 e3 a4
+e5 a2 e3 a14 --> e5 a24 e3 a1
+e4 a2 e1 a35 --> e4 a23 e1 a5
+e4 a2 e1 a35 --> e4 a25 e1 a3
+e4 a2 e1 a35 --> a2 e14 a35
+e3 a2 e1 a45 --> e3 a25 e1 a4
+e3 a2 e1 a45 --> a2 e13 a45
+e3 a2 e1 a45 --> e3 a24 e1 a5
+a5 e4 a1 e2 a3 --> e45 a1 e2 a3
+a5 e4 a1 e2 a3 --> a15 e24 a3
+a5 e4 a1 e2 a3 --> a5 e4 a13 e2
+a4 e5 a2 e1 a3 --> e45 a2 e1 a3
+a4 e5 a2 e1 a3 --> a24 e15 a3
+a4 e5 a2 e1 a3 --> a4 e5 a23 e1
+a2 e1 a3 e4 a5 --> a23 e14 a5
+a2 e1 a3 e4 a5 --> e12 a3 e4 a5
+a2 e1 a3 e4 a5 --> a2 e1 a35 e4
+e2 a34 e5 a1 --> a4 e2 a3 e5 a1
+e2 a34 e5 a1 --> a3 e2 a4 e5 a1
+e2 a34 e5 a1 --> e2 a134 e5
+a12 e3 a45 --> a125 e3 a4
+a12 e3 a45 --> a124 e3 a5
+a12 e3 a45 --> e2 a1 e3 a45
+a12 e3 a45 --> e1 a2 e3 a45
+a3 e45 a12 --> e345 a12
+a3 e45 a12 --> a3 e4 a1 e5 a2
+a3 e45 a12 --> a3 e5 a1 e4 a2
+a3 e45 a12 --> a3 e5 a2 e4 a1
+a3 e45 a12 --> a3 e4 a2 e5 a1
+a2 e4 a1 e3 a5 --> a12 e34 a5
+a2 e4 a1 e3 a5 --> e24 a1 e3 a5
+a2 e4 a1 e3 a5 --> a2 e4 a15 e3
+e5 a3 e4 a12 --> e5 a13 e4 a2
+e5 a3 e4 a12 --> a3 e45 a12
+e5 a3 e4 a12 --> e5 a23 e4 a1
+a2 e3 a4 e5 a1 --> e23 a4 e5 a1
+a2 e3 a4 e5 a1 --> a24 e35 a1
+a2 e3 a4 e5 a1 --> a2 e3 a14 e5
+e12 a3 e4 a5 --> e1 a3 e24 a5
+e12 a3 e4 a5 --> e2 a3 e14 a5
+e12 a3 e4 a5 --> e12 a35 e4
+e35 a2 e4 a1 --> e3 a2 e45 a1
+e35 a2 e4 a1 --> e5 a2 e34 a1
+e35 a2 e4 a1 --> e35 a12 e4
+e1 a4 e25 a3 --> a4 e125 a3
+e1 a4 e25 a3 --> e1 a4 e2 a3 e5
+e1 a4 e25 a3 --> e1 a4 e5 a3 e2
+e3 a1245 --> a5 e3 a124
+e3 a1245 --> a4 e3 a125
+e3 a1245 --> a1 e3 a245
+e3 a1245 --> a2 e3 a145
+a3 e5 a124 --> e35 a124
+a3 e5 a124 --> a23 e5 a14
+a3 e5 a124 --> a13 e5 a24
+a3 e5 a124 --> a34 e5 a12
+e5 a24 e3 a1 --> a2 e5 a4 e3 a1
+e5 a24 e3 a1 --> a4 e5 a2 e3 a1
+e5 a24 e3 a1 --> e5 a124 e3
+e4 a3 e1 a25 --> e4 a23 e1 a5
+e4 a3 e1 a25 --> e4 a35 e1 a2
+e4 a3 e1 a25 --> a3 e14 a25
+e145 a23 --> e15 a2 e4 a3
+e145 a23 --> e45 a2 e1 a3
+e145 a23 --> e45 a3 e1 a2
+e145 a23 --> e15 a3 e4 a2
+e145 a23 --> e14 a2 e5 a3
+e145 a23 --> e14 a3 e5 a2
+a4 e13 a25 --> e134 a25
+a4 e13 a25 --> a4 e1 a5 e3 a2
+a4 e13 a25 --> a4 e1 a2 e3 a5
+a4 e13 a25 --> a4 e3 a5 e1 a2
+a4 e13 a25 --> a4 e3 a2 e1 a5
+e15 a2 e3 a4 --> e5 a2 e13 a4
+e15 a2 e3 a4 --> e1 a2 e35 a4
+e15 a2 e3 a4 --> e15 a24 e3
+a1 e25 a34 --> a1 e5 a4 e2 a3
+a1 e25 a34 --> a1 e2 a4 e5 a3
+a1 e25 a34 --> e125 a34
+a1 e25 a34 --> a1 e2 a3 e5 a4
+a1 e25 a34 --> a1 e5 a3 e2 a4
+a5 e134 a2 --> e1345 a2
+a5 e134 a2 --> a5 e14 a2 e3
+a5 e134 a2 --> a5 e13 a2 e4
+a5 e134 a2 --> a5 e34 a2 e1
+e3 a45 e2 a1 --> a5 e3 a4 e2 a1
+e3 a45 e2 a1 --> a4 e3 a5 e2 a1
+e3 a45 e2 a1 --> e3 a145 e2
+e5 a1 e24 a3 --> a1 e245 a3
+e5 a1 e24 a3 --> e5 a1 e4 a3 e2
+e5 a1 e24 a3 --> e5 a1 e2 a3 e4
+a24 e1 a35 --> e2 a4 e1 a35
+a24 e1 a35 --> a245 e1 a3
+a24 e1 a35 --> a234 e1 a5
+a24 e1 a35 --> e4 a2 e1 a35
+a2 e5 a3 e1 a4 --> a23 e15 a4
+a2 e5 a3 e1 a4 --> e25 a3 e1 a4
+a2 e5 a3 e1 a4 --> a2 e5 a34 e1
+e5 a2 e1 a34 --> e5 a23 e1 a4
+e5 a2 e1 a34 --> e5 a24 e1 a3
+e5 a2 e1 a34 --> a2 e15 a34
+a4 e3 a2 e1 a5 --> a24 e13 a5
+a4 e3 a2 e1 a5 --> e34 a2 e1 a5
+a4 e3 a2 e1 a5 --> a4 e3 a25 e1
+a2 e145 a3 --> e1245 a3
+a2 e145 a3 --> a2 e14 a3 e5
+a2 e145 a3 --> a2 e15 a3 e4
+a2 e145 a3 --> a2 e45 a3 e1
+a1 e245 a3 --> e1245 a3
+a1 e245 a3 --> a1 e25 a3 e4
+a1 e245 a3 --> a1 e24 a3 e5
+a1 e245 a3 --> a1 e45 a3 e2
+e3 a2 e15 a4 --> a2 e135 a4
+e3 a2 e15 a4 --> e3 a2 e5 a4 e1
+e3 a2 e15 a4 --> e3 a2 e1 a4 e5
+a5 e2 a134 --> a35 e2 a14
+a5 e2 a134 --> a15 e2 a34
+a5 e2 a134 --> a45 e2 a13
+a5 e2 a134 --> e25 a134
+e2 a4 e35 a1 --> a4 e235 a1
+e2 a4 e35 a1 --> e2 a4 e3 a1 e5
+e2 a4 e35 a1 --> e2 a4 e5 a1 e3
+e2 a3 e45 a1 --> a3 e245 a1
+e2 a3 e45 a1 --> e2 a3 e4 a1 e5
+e2 a3 e45 a1 --> e2 a3 e5 a1 e4
+a5 e4 a123 --> a35 e4 a12
+a5 e4 a123 --> e45 a123
+a5 e4 a123 --> a25 e4 a13
+a5 e4 a123 --> a15 e4 a23
+e12 a3 e5 a4 --> e1 a3 e25 a4
+e12 a3 e5 a4 --> e2 a3 e15 a4
+e12 a3 e5 a4 --> e12 a34 e5
+e2 a5 e14 a3 --> a5 e124 a3
+e2 a5 e14 a3 --> e2 a5 e4 a3 e1
+e2 a5 e14 a3 --> e2 a5 e1 a3 e4
+e2 a5 e13 a4 --> a5 e123 a4
+e2 a5 e13 a4 --> e2 a5 e3 a4 e1
+e2 a5 e13 a4 --> e2 a5 e1 a4 e3
+e24 a135 --> e4 a3 e2 a15
+e24 a135 --> e4 a1 e2 a35
+e24 a135 --> e2 a5 e4 a13
+e24 a135 --> e2 a1 e4 a35
+e24 a135 --> e4 a5 e2 a13
+e24 a135 --> e2 a3 e4 a15
+a3 e1 a245 --> e13 a245
+a3 e1 a245 --> a35 e1 a24
+a3 e1 a245 --> a34 e1 a25
+a3 e1 a245 --> a23 e1 a45
+e2 a3 e14 a5 --> a3 e124 a5
+e2 a3 e14 a5 --> e2 a3 e1 a5 e4
+e2 a3 e14 a5 --> e2 a3 e4 a5 e1
+a5 e4 a2 e1 a3 --> e45 a2 e1 a3
+a5 e4 a2 e1 a3 --> a25 e14 a3
+a5 e4 a2 e1 a3 --> a5 e4 a23 e1
+a1 e2 a3 e5 a4 --> a13 e25 a4
+a1 e2 a3 e5 a4 --> e12 a3 e5 a4
+a1 e2 a3 e5 a4 --> a1 e2 a34 e5
+a5 e2 a4 e3 a1 --> a45 e23 a1
+a5 e2 a4 e3 a1 --> e25 a4 e3 a1
+a5 e2 a4 e3 a1 --> a5 e2 a14 e3
+a2 e3 a145 --> a24 e3 a15
+a2 e3 a145 --> a25 e3 a14
+a2 e3 a145 --> e23 a145
+a2 e3 a145 --> a12 e3 a45
+a3 e24 a15 --> a3 e2 a5 e4 a1
+a3 e24 a15 --> a3 e4 a5 e2 a1
+a3 e24 a15 --> a3 e2 a1 e4 a5
+a3 e24 a15 --> e234 a15
+a3 e24 a15 --> a3 e4 a1 e2 a5
+e2 a3 e5 a14 --> e2 a13 e5 a4
+e2 a3 e5 a14 --> a3 e25 a14
+e2 a3 e5 a14 --> e2 a34 e5 a1
+a4 e3 a1 e5 a2 --> a14 e35 a2
+a4 e3 a1 e5 a2 --> e34 a1 e5 a2
+a4 e3 a1 e5 a2 --> a4 e3 a12 e5
+e1 a34 e2 a5 --> a4 e1 a3 e2 a5
+e1 a34 e2 a5 --> a3 e1 a4 e2 a5
+e1 a34 e2 a5 --> e1 a345 e2
+a5 e123 a4 --> e1235 a4
+a5 e123 a4 --> a5 e12 a4 e3
+a5 e123 a4 --> a5 e13 a4 e2
+a5 e123 a4 --> a5 e23 a4 e1
+a3 e1 a4 e2 a5 --> e13 a4 e2 a5
+a3 e1 a4 e2 a5 --> a34 e12 a5
+a3 e1 a4 e2 a5 --> a3 e1 a45 e2
+a4 e15 a23 --> a4 e1 a3 e5 a2
+a4 e15 a23 --> a4 e1 a2 e5 a3
+a4 e15 a23 --> a4 e5 a3 e1 a2
+a4 e15 a23 --> a4 e5 a2 e1 a3
+a4 e15 a23 --> e145 a23
+a3 e15 a24 --> a3 e5 a4 e1 a2
+a3 e15 a24 --> a3 e5 a2 e1 a4
+a3 e15 a24 --> a3 e1 a2 e5 a4
+a3 e15 a24 --> a3 e1 a4 e5 a2
+a3 e15 a24 --> e135 a24
+a3 e5 a1 e4 a2 --> a13 e45 a2
+a3 e5 a1 e4 a2 --> e35 a1 e4 a2
+a3 e5 a1 e4 a2 --> a3 e5 a12 e4
+e1 a45 e3 a2 --> a4 e1 a5 e3 a2
+e1 a45 e3 a2 --> a5 e1 a4 e3 a2
+e1 a45 e3 a2 --> e1 a245 e3
+a34 e5 a12 --> a234 e5 a1
+a34 e5 a12 --> e3 a4 e5 a12
+a34 e5 a12 --> a134 e5 a2
+a34 e5 a12 --> e4 a3 e5 a12
+e5 a4 e12 a3 --> a4 e125 a3
+e5 a4 e12 a3 --> e5 a4 e1 a3 e2
+e5 a4 e12 a3 --> e5 a4 e2 a3 e1
+e5 a3 e12 a4 --> a3 e125 a4
+e5 a3 e12 a4 --> e5 a3 e2 a4 e1
+e5 a3 e12 a4 --> e5 a3 e1 a4 e2
+e3 a4 e12 a5 --> a4 e123 a5
+e3 a4 e12 a5 --> e3 a4 e1 a5 e2
+e3 a4 e12 a5 --> e3 a4 e2 a5 e1
+e5 a3 e14 a2 --> a3 e145 a2
+e5 a3 e14 a2 --> e5 a3 e1 a2 e4
+e5 a3 e14 a2 --> e5 a3 e4 a2 e1
+a2 e14 a35 --> a2 e4 a3 e1 a5
+a2 e14 a35 --> a2 e4 a5 e1 a3
+a2 e14 a35 --> e124 a35
+a2 e14 a35 --> a2 e1 a5 e4 a3
+a2 e14 a35 --> a2 e1 a3 e4 a5
+a3 e4 a5 e1 a2 --> a35 e14 a2
+a3 e4 a5 e1 a2 --> e34 a5 e1 a2
+a3 e4 a5 e1 a2 --> a3 e4 a25 e1
+a4 e2 a1 e3 a5 --> a14 e23 a5
+a4 e2 a1 e3 a5 --> e24 a1 e3 a5
+a4 e2 a1 e3 a5 --> a4 e2 a15 e3
+a3 e125 a4 --> e1235 a4
+a3 e125 a4 --> a3 e15 a4 e2
+a3 e125 a4 --> a3 e12 a4 e5
+a3 e125 a4 --> a3 e25 a4 e1
+a1 e2 a3 e4 a5 --> a13 e24 a5
+a1 e2 a3 e4 a5 --> e12 a3 e4 a5
+a1 e2 a3 e4 a5 --> a1 e2 a35 e4
+e4 a23 e5 a1 --> a2 e4 a3 e5 a1
+e4 a23 e5 a1 --> a3 e4 a2 e5 a1
+e4 a23 e5 a1 --> e4 a123 e5
+a2 e5 a1 e3 a4 --> a12 e35 a4
+a2 e5 a1 e3 a4 --> e25 a1 e3 a4
+a2 e5 a1 e3 a4 --> a2 e5 a14 e3
+e1 a24 e5 a3 --> a2 e1 a4 e5 a3
+e1 a24 e5 a3 --> a4 e1 a2 e5 a3
+e1 a24 e5 a3 --> e1 a234 e5
+e1 a4 e35 a2 --> a4 e135 a2
+e1 a4 e35 a2 --> e1 a4 e3 a2 e5
+e1 a4 e35 a2 --> e1 a4 e5 a2 e3
+e5 a2 e4 a13 --> e5 a12 e4 a3
+e5 a2 e4 a13 --> a2 e45 a13
+e5 a2 e4 a13 --> e5 a23 e4 a1
+e4 a25 e3 a1 --> a2 e4 a5 e3 a1
+e4 a25 e3 a1 --> a5 e4 a2 e3 a1
+e4 a25 e3 a1 --> e4 a125 e3
+e3 a25 e4 a1 --> a5 e3 a2 e4 a1
+e3 a25 e4 a1 --> a2 e3 a5 e4 a1
+e3 a25 e4 a1 --> e3 a125 e4
+e235 a14 --> e35 a4 e2 a1
+e235 a14 --> e35 a1 e2 a4
+e235 a14 --> e23 a4 e5 a1
+e235 a14 --> e25 a4 e3 a1
+e235 a14 --> e25 a1 e3 a4
+e235 a14 --> e23 a1 e5 a4
+e3 a24 e1 a5 --> a2 e3 a4 e1 a5
+e3 a24 e1 a5 --> a4 e3 a2 e1 a5
+e3 a24 e1 a5 --> e3 a245 e1
+a1 e5 a3 e2 a4 --> a13 e25 a4
+a1 e5 a3 e2 a4 --> e15 a3 e2 a4
+a1 e5 a3 e2 a4 --> a1 e5 a34 e2
+e1 a2 e45 a3 --> a2 e145 a3
+e1 a2 e45 a3 --> e1 a2 e5 a3 e4
+e1 a2 e45 a3 --> e1 a2 e4 a3 e5
+e1 a5 e2 a34 --> e1 a35 e2 a4
+e1 a5 e2 a34 --> e1 a45 e2 a3
+e1 a5 e2 a34 --> a5 e12 a34
+a124 e5 a3 --> e4 a12 e5 a3
+a124 e5 a3 --> e2 a14 e5 a3
+a124 e5 a3 --> e1 a24 e5 a3
+a124 e5 a3 --> a1234 e5
+e1 a2 e35 a4 --> a2 e135 a4
+e1 a2 e35 a4 --> e1 a2 e5 a4 e3
+e1 a2 e35 a4 --> e1 a2 e3 a4 e5
+a3 e4 a1 e2 a5 --> a13 e24 a5
+a3 e4 a1 e2 a5 --> e34 a1 e2 a5
+a3 e4 a1 e2 a5 --> a3 e4 a15 e2
+a1 e4 a5 e3 a2 --> a15 e34 a2
+a1 e4 a5 e3 a2 --> e14 a5 e3 a2
+a1 e4 a5 e3 a2 --> a1 e4 a25 e3
+e12 a5 e4 a3 --> e1 a5 e24 a3
+e12 a5 e4 a3 --> e2 a5 e14 a3
+e12 a5 e4 a3 --> e12 a35 e4
+e12 a5 e3 a4 --> e1 a5 e23 a4
+e12 a5 e3 a4 --> e2 a5 e13 a4
+e12 a5 e3 a4 --> e12 a45 e3
+e4 a3 e15 a2 --> a3 e145 a2
+e4 a3 e15 a2 --> e4 a3 e1 a2 e5
+e4 a3 e15 a2 --> e4 a3 e5 a2 e1
+a3 e1 a4 e5 a2 --> a34 e15 a2
+a3 e1 a4 e5 a2 --> e13 a4 e5 a2
+a3 e1 a4 e5 a2 --> a3 e1 a24 e5
+a2 e1 a4 e3 a5 --> a24 e13 a5
+a2 e1 a4 e3 a5 --> e12 a4 e3 a5
+a2 e1 a4 e3 a5 --> a2 e1 a45 e3
+e1 a2345 --> a4 e1 a235
+e1 a2345 --> a5 e1 a234
+e1 a2345 --> a2 e1 a345
+e1 a2345 --> a3 e1 a245
+e35 a1 e4 a2 --> e5 a1 e34 a2
+e35 a1 e4 a2 --> e3 a1 e45 a2
+e35 a1 e4 a2 --> e35 a12 e4
+a2 e3 a1 e4 a5 --> e23 a1 e4 a5
+a2 e3 a1 e4 a5 --> a12 e34 a5
+a2 e3 a1 e4 a5 --> a2 e3 a15 e4
+e2 a4 e15 a3 --> a4 e125 a3
+e2 a4 e15 a3 --> e2 a4 e5 a3 e1
+e2 a4 e15 a3 --> e2 a4 e1 a3 e5
+a2 e1 a3 e5 a4 --> a23 e15 a4
+a2 e1 a3 e5 a4 --> e12 a3 e5 a4
+a2 e1 a3 e5 a4 --> a2 e1 a34 e5
+e5 a34 e2 a1 --> a3 e5 a4 e2 a1
+e5 a34 e2 a1 --> a4 e5 a3 e2 a1
+e5 a34 e2 a1 --> e5 a134 e2
+a5 e34 a12 --> a5 e4 a1 e3 a2
+a5 e34 a12 --> e345 a12
+a5 e34 a12 --> a5 e3 a2 e4 a1
+a5 e34 a12 --> a5 e4 a2 e3 a1
+a5 e34 a12 --> a5 e3 a1 e4 a2
+e5 a23 e4 a1 --> a2 e5 a3 e4 a1
+e5 a23 e4 a1 --> a3 e5 a2 e4 a1
+e5 a23 e4 a1 --> e5 a123 e4
+a2 e134 a5 --> e1234 a5
+a2 e134 a5 --> a2 e14 a5 e3
+a2 e134 a5 --> a2 e13 a5 e4
+a2 e134 a5 --> a2 e34 a5 e1
+e4 a3 e5 a12 --> e4 a13 e5 a2
+e4 a3 e5 a12 --> a3 e45 a12
+e4 a3 e5 a12 --> e4 a23 e5 a1
+e135 a24 --> e15 a4 e3 a2
+e135 a24 --> e35 a2 e1 a4
+e135 a24 --> e13 a2 e5 a4
+e135 a24 --> e35 a4 e1 a2
+e135 a24 --> e13 a4 e5 a2
+e135 a24 --> e15 a2 e3 a4
+e34 a5 e1 a2 --> e4 a5 e13 a2
+e34 a5 e1 a2 --> e3 a5 e14 a2
+e34 a5 e1 a2 --> e34 a25 e1
+a1 e345 a2 --> e1345 a2
+a1 e345 a2 --> a1 e35 a2 e4
+a1 e345 a2 --> a1 e45 a2 e3
+a1 e345 a2 --> a1 e34 a2 e5
+a2 e3 a5 e4 a1 --> e23 a5 e4 a1
+a2 e3 a5 e4 a1 --> a25 e34 a1
+a2 e3 a5 e4 a1 --> a2 e3 a15 e4
+e4 a35 e2 a1 --> a3 e4 a5 e2 a1
+e4 a35 e2 a1 --> a5 e4 a3 e2 a1
+e4 a35 e2 a1 --> e4 a135 e2
+a3 e5 a2 e4 a1 --> a23 e45 a1
+a3 e5 a2 e4 a1 --> e35 a2 e4 a1
+a3 e5 a2 e4 a1 --> a3 e5 a12 e4
+a4 e5 a2 e3 a1 --> e45 a2 e3 a1
+a4 e5 a2 e3 a1 --> a24 e35 a1
+a4 e5 a2 e3 a1 --> a4 e5 a12 e3
+e2 a45 e3 a1 --> a4 e2 a5 e3 a1
+e2 a45 e3 a1 --> a5 e2 a4 e3 a1
+e2 a45 e3 a1 --> e2 a145 e3
+e1 a3 e5 a24 --> e1 a34 e5 a2
+e1 a3 e5 a24 --> e1 a23 e5 a4
+e1 a3 e5 a24 --> a3 e15 a24
+a23 e1 a45 --> e2 a3 e1 a45
+a23 e1 a45 --> a234 e1 a5
+a23 e1 a45 --> a235 e1 a4
+a23 e1 a45 --> e3 a2 e1 a45
+e34 a2 e1 a5 --> e3 a2 e14 a5
+e34 a2 e1 a5 --> e4 a2 e13 a5
+e34 a2 e1 a5 --> e34 a25 e1
+a3 e4 a2 e5 a1 --> e34 a2 e5 a1
+a3 e4 a2 e5 a1 --> a23 e45 a1
+a3 e4 a2 e5 a1 --> a3 e4 a12 e5
+e3 a5 e12 a4 --> a5 e123 a4
+e3 a5 e12 a4 --> e3 a5 e1 a4 e2
+e3 a5 e12 a4 --> e3 a5 e2 a4 e1
+a3 e2 a4 e5 a1 --> e23 a4 e5 a1
+a3 e2 a4 e5 a1 --> a34 e25 a1
+a3 e2 a4 e5 a1 --> a3 e2 a14 e5
+a1 e45 a23 --> a1 e4 a3 e5 a2
+a1 e45 a23 --> a1 e5 a3 e4 a2
+a1 e45 a23 --> a1 e5 a2 e4 a3
+a1 e45 a23 --> a1 e4 a2 e5 a3
+a1 e45 a23 --> e145 a23
+a2 e5 a134 --> a12 e5 a34
+a2 e5 a134 --> a23 e5 a14
+a2 e5 a134 --> a24 e5 a13
+a2 e5 a134 --> e25 a134
+a13 e245 --> e1 a3 e245
+a13 e245 --> e3 a1 e245
+e1 a24 e35 --> a4 e1 a2 e35
+e1 a24 e35 --> a2 e1 a4 e35
+a1 e3 a2 e45 --> e13 a2 e45
+a1 e3 a2 e45 --> a12 e345
+a1 e5 a23 e4 --> e15 a23 e4
+a1 e5 a23 e4 --> a13 e5 a2 e4
+a1 e5 a23 e4 --> a12 e5 a3 e4
+e2 a5 e3 a4 e1 --> e2 a45 e13
+e2 a5 e3 a4 e1 --> a5 e23 a4 e1
+e45 a13 e2 --> e4 a1 e5 a3 e2
+e45 a13 e2 --> e5 a1 e4 a3 e2
+e45 a13 e2 --> e5 a3 e4 a1 e2
+e45 a13 e2 --> e4 a3 e5 a1 e2
+a4 e15 a2 e3 --> a4 e1 a2 e35
+a4 e15 a2 e3 --> e145 a2 e3
+a4 e15 a2 e3 --> a4 e5 a2 e13
+a5 e3 a1 e24 --> a15 e234
+a5 e3 a1 e24 --> e35 a1 e24
+e13 a25 e4 --> e3 a5 e1 a2 e4
+e13 a25 e4 --> e3 a2 e1 a5 e4
+e13 a25 e4 --> e1 a2 e3 a5 e4
+e13 a25 e4 --> e1 a5 e3 a2 e4
+e12 a5 e34 --> e1 a5 e234
+e12 a5 e34 --> e2 a5 e134
+a3 e5 a4 e12 --> e35 a4 e12
+a3 e5 a4 e12 --> a34 e125
+e3 a245 e1 --> a5 e3 a24 e1
+e3 a245 e1 --> a4 e3 a25 e1
+e3 a245 e1 --> a2 e3 a45 e1
+e2 a345 e1 --> a4 e2 a35 e1
+e2 a345 e1 --> a3 e2 a45 e1
+e2 a345 e1 --> a5 e2 a34 e1
+a4 e2 a3 e15 --> e24 a3 e15
+a4 e2 a3 e15 --> a34 e125
+e4 a1 e3 a2 e5 --> e4 a12 e35
+e4 a1 e3 a2 e5 --> a1 e34 a2 e5
+a4 e5 a13 e2 --> e45 a13 e2
+a4 e5 a13 e2 --> a14 e5 a3 e2
+a4 e5 a13 e2 --> a34 e5 a1 e2
+a1 e35 a4 e2 --> a1 e3 a4 e25
+a1 e35 a4 e2 --> e135 a4 e2
+a1 e35 a4 e2 --> a1 e5 a4 e23
+e3 a2 e5 a1 e4 --> e3 a12 e45
+e3 a2 e5 a1 e4 --> a2 e35 a1 e4
+a1 e2 a34 e5 --> a14 e2 a3 e5
+a1 e2 a34 e5 --> a13 e2 a4 e5
+a1 e2 a34 e5 --> e12 a34 e5
+a3 e5 a2 e14 --> e35 a2 e14
+a3 e5 a2 e14 --> a23 e145
+e15 a34 e2 --> e5 a4 e1 a3 e2
+e15 a34 e2 --> e1 a3 e5 a4 e2
+e15 a34 e2 --> e5 a3 e1 a4 e2
+e15 a34 e2 --> e1 a4 e5 a3 e2
+e5 a4 e1 a3 e2 --> a4 e15 a3 e2
+e5 a4 e1 a3 e2 --> e5 a34 e12
+e5 a2 e4 a1 e3 --> a2 e45 a1 e3
+e5 a2 e4 a1 e3 --> e5 a12 e34
+e5 a14 e23 --> a4 e5 a1 e23
+e5 a14 e23 --> a1 e5 a4 e23
+e14 a23 e5 --> e1 a3 e4 a2 e5
+e14 a23 e5 --> e4 a3 e1 a2 e5
+e14 a23 e5 --> e1 a2 e4 a3 e5
+e14 a23 e5 --> e4 a2 e1 a3 e5
+a35 e4 a2 e1 --> e3 a5 e4 a2 e1
+a35 e4 a2 e1 --> e5 a3 e4 a2 e1
+a35 e4 a2 e1 --> a235 e14
+a5 e2 a14 e3 --> a15 e2 a4 e3
+a5 e2 a14 e3 --> a45 e2 a1 e3
+a5 e2 a14 e3 --> e25 a14 e3
+a15 e4 a3 e2 --> e5 a1 e4 a3 e2
+a15 e4 a3 e2 --> e1 a5 e4 a3 e2
+a15 e4 a3 e2 --> a135 e24
+a4 e1 a25 e3 --> e14 a25 e3
+a4 e1 a25 e3 --> a45 e1 a2 e3
+a4 e1 a25 e3 --> a24 e1 a5 e3
+a5 e1 a34 e2 --> e15 a34 e2
+a5 e1 a34 e2 --> a45 e1 a3 e2
+a5 e1 a34 e2 --> a35 e1 a4 e2
+a1234 e5 --> e4 a123 e5
+a1234 e5 --> e1 a234 e5
+a1234 e5 --> e3 a124 e5
+a1234 e5 --> e2 a134 e5
+e34 a15 e2 --> e4 a1 e3 a5 e2
+e34 a15 e2 --> e3 a5 e4 a1 e2
+e34 a15 e2 --> e4 a5 e3 a1 e2
+e34 a15 e2 --> e3 a1 e4 a5 e2
+e1 a5 e4 a2 e3 --> a5 e14 a2 e3
+e1 a5 e4 a2 e3 --> e1 a25 e34
+a4 e23 a1 e5 --> e234 a1 e5
+a4 e23 a1 e5 --> a4 e2 a1 e35
+a4 e23 a1 e5 --> a4 e3 a1 e25
+e1 a4 e3 a2 e5 --> e1 a24 e35
+e1 a4 e3 a2 e5 --> a4 e13 a2 e5
+a4 e2 a35 e1 --> a45 e2 a3 e1
+a4 e2 a35 e1 --> a34 e2 a5 e1
+a4 e2 a35 e1 --> e24 a35 e1
+e1 a3 e4 a2 e5 --> e1 a23 e45
+e1 a3 e4 a2 e5 --> a3 e14 a2 e5
+e1 a5 e234 --> a5 e1234
+a3 e4 a15 e2 --> e34 a15 e2
+a3 e4 a15 e2 --> a35 e4 a1 e2
+a3 e4 a15 e2 --> a13 e4 a5 e2
+a2 e4 a3 e15 --> e24 a3 e15
+a2 e4 a3 e15 --> a23 e145
+a5 e3 a24 e1 --> e35 a24 e1
+a5 e3 a24 e1 --> a25 e3 a4 e1
+a5 e3 a24 e1 --> a45 e3 a2 e1
+e135 a2 e4 --> e35 a2 e14
+e135 a2 e4 --> e13 a2 e45
+e135 a2 e4 --> e15 a2 e34
+a3 e2 a14 e5 --> e23 a14 e5
+a3 e2 a14 e5 --> a13 e2 a4 e5
+a3 e2 a14 e5 --> a34 e2 a1 e5
+a5 e14 a2 e3 --> a5 e1 a2 e34
+a5 e14 a2 e3 --> e145 a2 e3
+a5 e14 a2 e3 --> a5 e4 a2 e13
+a34 e5 a2 e1 --> e3 a4 e5 a2 e1
+a34 e5 a2 e1 --> a234 e15
+a34 e5 a2 e1 --> e4 a3 e5 a2 e1
+a345 e12 --> e4 a35 e12
+a345 e12 --> e3 a45 e12
+a345 e12 --> e5 a34 e12
+a4 e3 a2 e15 --> e34 a2 e15
+a4 e3 a2 e15 --> a24 e135
+a2 e5 a3 e14 --> e25 a3 e14
+a2 e5 a3 e14 --> a23 e145
+a4 e1 a2 e35 --> e14 a2 e35
+a4 e1 a2 e35 --> a24 e135
+e3 a1 e5 a2 e4 --> a1 e35 a2 e4
+e3 a1 e5 a2 e4 --> e3 a12 e45
+a15 e2 a4 e3 --> e1 a5 e2 a4 e3
+a15 e2 a4 e3 --> e5 a1 e2 a4 e3
+a15 e2 a4 e3 --> a145 e23
+e2 a4 e5 a3 e1 --> e2 a34 e15
+e2 a4 e5 a3 e1 --> a4 e25 a3 e1
+e3 a5 e4 a2 e1 --> e3 a25 e14
+e3 a5 e4 a2 e1 --> a5 e34 a2 e1
+a134 e25 --> e1 a34 e25
+a134 e25 --> e3 a14 e25
+a134 e25 --> e4 a13 e25
+a2 e1 a5 e34 --> e12 a5 e34
+a2 e1 a5 e34 --> a25 e134
+a1 e4 a5 e23 --> a15 e234
+a1 e4 a5 e23 --> e14 a5 e23
+e125 a3 e4 --> e25 a3 e14
+e125 a3 e4 --> e15 a3 e24
+e125 a3 e4 --> e12 a3 e45
+e35 a24 e1 --> e3 a2 e5 a4 e1
+e35 a24 e1 --> e3 a4 e5 a2 e1
+e35 a24 e1 --> e5 a4 e3 a2 e1
+e35 a24 e1 --> e5 a2 e3 a4 e1
+e45 a23 e1 --> e5 a3 e4 a2 e1
+e45 a23 e1 --> e4 a2 e5 a3 e1
+e45 a23 e1 --> e4 a3 e5 a2 e1
+e45 a23 e1 --> e5 a2 e4 a3 e1
+e2 a135 e4 --> a5 e2 a13 e4
+e2 a135 e4 --> a3 e2 a15 e4
+e2 a135 e4 --> a1 e2 a35 e4
+e5 a2 e1 a3 e4 --> e5 a23 e14
+e5 a2 e1 a3 e4 --> a2 e15 a3 e4
+e2 a4 e1 a5 e3 --> a4 e12 a5 e3
+e2 a4 e1 a5 e3 --> e2 a45 e13
+e4 a2 e3 a5 e1 --> e4 a25 e13
+e4 a2 e3 a5 e1 --> a2 e34 a5 e1
+a2 e4 a1 e35 --> a12 e345
+a2 e4 a1 e35 --> e24 a1 e35
+a35 e124 --> e5 a3 e124
+a35 e124 --> e3 a5 e124
+e5 a3 e124 --> a3 e1245
+a4 e12 a3 e5 --> a4 e2 a3 e15
+a4 e12 a3 e5 --> a4 e1 a3 e25
+a4 e12 a3 e5 --> e124 a3 e5
+e23 a4 e15 --> e3 a4 e125
+e23 a4 e15 --> e2 a4 e135
+e24 a3 e15 --> e4 a3 e125
+e24 a3 e15 --> e2 a3 e145
+a2 e45 a1 e3 --> a2 e4 a1 e35
+a2 e45 a1 e3 --> a2 e5 a1 e34
+a2 e45 a1 e3 --> e245 a1 e3
+e1 a23 e45 --> a3 e1 a2 e45
+e1 a23 e45 --> a2 e1 a3 e45
+e2 a5 e4 a3 e1 --> e2 a35 e14
+e2 a5 e4 a3 e1 --> a5 e24 a3 e1
+a1 e3 a4 e25 --> a14 e235
+a1 e3 a4 e25 --> e13 a4 e25
+e23 a15 e4 --> e3 a5 e2 a1 e4
+e23 a15 e4 --> e3 a1 e2 a5 e4
+e23 a15 e4 --> e2 a5 e3 a1 e4
+e23 a15 e4 --> e2 a1 e3 a5 e4
+a15 e234 --> e1 a5 e234
+a15 e234 --> e5 a1 e234
+e14 a5 e23 --> e1 a5 e234
+e14 a5 e23 --> e4 a5 e123
+e14 a35 e2 --> e1 a3 e4 a5 e2
+e14 a35 e2 --> e4 a5 e1 a3 e2
+e14 a35 e2 --> e1 a5 e4 a3 e2
+e14 a35 e2 --> e4 a3 e1 a5 e2
+a4 e2 a5 e13 --> a45 e123
+a4 e2 a5 e13 --> e24 a5 e13
+a5 e4 a1 e23 --> a15 e234
+a5 e4 a1 e23 --> e45 a1 e23
+e3 a4 e125 --> a4 e1235
+a24 e5 a3 e1 --> e2 a4 e5 a3 e1
+a24 e5 a3 e1 --> a234 e15
+a24 e5 a3 e1 --> e4 a2 e5 a3 e1
+a4 e5 a3 e12 --> e45 a3 e12
+a4 e5 a3 e12 --> a34 e125
+e1 a4 e3 a5 e2 --> a4 e13 a5 e2
+e1 a4 e3 a5 e2 --> e1 a45 e23
+a4 e12 a5 e3 --> a4 e2 a5 e13
+a4 e12 a5 e3 --> a4 e1 a5 e23
+a4 e12 a5 e3 --> e124 a5 e3
+a3 e5 a14 e2 --> a13 e5 a4 e2
+a3 e5 a14 e2 --> e35 a14 e2
+a3 e5 a14 e2 --> a34 e5 a1 e2
+a1 e23 a4 e5 --> a1 e3 a4 e25
+a1 e23 a4 e5 --> a1 e2 a4 e35
+a1 e23 a4 e5 --> e123 a4 e5
+e2 a4 e3 a1 e5 --> a4 e23 a1 e5
+e2 a4 e3 a1 e5 --> e2 a14 e35
+a5 e4 a13 e2 --> e45 a13 e2
+a5 e4 a13 e2 --> a15 e4 a3 e2
+a5 e4 a13 e2 --> a35 e4 a1 e2
+e4 a1 e5 a3 e2 --> e4 a13 e25
+e4 a1 e5 a3 e2 --> a1 e45 a3 e2
+e5 a234 e1 --> a4 e5 a23 e1
+e5 a234 e1 --> a3 e5 a24 e1
+e5 a234 e1 --> a2 e5 a34 e1
+a1 e2 a4 e35 --> a14 e235
+a1 e2 a4 e35 --> e12 a4 e35
+a2 e5 a1 e34 --> e25 a1 e34
+a2 e5 a1 e34 --> a12 e345
+a35 e2 a1 e4 --> e5 a3 e2 a1 e4
+a35 e2 a1 e4 --> e3 a5 e2 a1 e4
+a35 e2 a1 e4 --> a135 e24
+e1 a2 e345 --> a2 e1345
+e5 a2 e3 a1 e4 --> a2 e35 a1 e4
+e5 a2 e3 a1 e4 --> e5 a12 e34
+a5 e23 a1 e4 --> a5 e3 a1 e24
+a5 e23 a1 e4 --> e235 a1 e4
+a5 e23 a1 e4 --> a5 e2 a1 e34
+e23 a5 e14 --> e3 a5 e124
+e23 a5 e14 --> e2 a5 e134
+e1 a3 e2 a5 e4 --> e1 a35 e24
+e1 a3 e2 a5 e4 --> a3 e12 a5 e4
+a4 e13 a5 e2 --> a4 e1 a5 e23
+a4 e13 a5 e2 --> e134 a5 e2
+a4 e13 a5 e2 --> a4 e3 a5 e12
+e2 a5 e1 a4 e3 --> a5 e12 a4 e3
+e2 a5 e1 a4 e3 --> e2 a45 e13
+e345 a2 e1 --> e35 a2 e14
+e345 a2 e1 --> e34 a2 e15
+e345 a2 e1 --> e45 a2 e13
+a35 e1 a2 e4 --> e5 a3 e1 a2 e4
+a35 e1 a2 e4 --> e3 a5 e1 a2 e4
+a35 e1 a2 e4 --> a235 e14
+e2 a35 e14 --> a3 e2 a5 e14
+e2 a35 e14 --> a5 e2 a3 e14
+e234 a5 e1 --> e23 a5 e14
+e234 a5 e1 --> e24 a5 e13
+e234 a5 e1 --> e34 a5 e12
+a4 e5 a23 e1 --> a34 e5 a2 e1
+a4 e5 a23 e1 --> e45 a23 e1
+a4 e5 a23 e1 --> a24 e5 a3 e1
+e5 a3 e1 a2 e4 --> e5 a23 e14
+e5 a3 e1 a2 e4 --> a3 e15 a2 e4
+e35 a4 e12 --> e3 a4 e125
+e35 a4 e12 --> e5 a4 e123
+e45 a3 e12 --> e5 a3 e124
+e45 a3 e12 --> e4 a3 e125
+e25 a3 e14 --> e5 a3 e124
+e25 a3 e14 --> e2 a3 e145
+a4 e2 a13 e5 --> a14 e2 a3 e5
+a4 e2 a13 e5 --> e24 a13 e5
+a4 e2 a13 e5 --> a34 e2 a1 e5
+e5 a3 e2 a4 e1 --> a3 e25 a4 e1
+e5 a3 e2 a4 e1 --> e5 a34 e12
+e3 a2 e5 a4 e1 --> a2 e35 a4 e1
+e3 a2 e5 a4 e1 --> e3 a24 e15
+a5 e1 a4 e23 --> a45 e123
+a5 e1 a4 e23 --> e15 a4 e23
+e5 a24 e13 --> a2 e5 a4 e13
+e5 a24 e13 --> a4 e5 a2 e13
+e14 a3 e25 --> e4 a3 e125
+e14 a3 e25 --> e1 a3 e245
+a1 e34 a5 e2 --> a1 e4 a5 e23
+a1 e34 a5 e2 --> e134 a5 e2
+a1 e34 a5 e2 --> a1 e3 a5 e24
+e245 a3 e1 --> e24 a3 e15
+e245 a3 e1 --> e45 a3 e12
+e245 a3 e1 --> e25 a3 e14
+a45 e2 a3 e1 --> a345 e12
+a45 e2 a3 e1 --> e5 a4 e2 a3 e1
+a45 e2 a3 e1 --> e4 a5 e2 a3 e1
+a1 e25 a3 e4 --> e125 a3 e4
+a1 e25 a3 e4 --> a1 e2 a3 e45
+a1 e25 a3 e4 --> a1 e5 a3 e24
+e4 a5 e3 a2 e1 --> e4 a25 e13
+e4 a5 e3 a2 e1 --> a5 e34 a2 e1
+a2 e15 a4 e3 --> a2 e5 a4 e13
+a2 e15 a4 e3 --> a2 e1 a4 e35
+a2 e15 a4 e3 --> e125 a4 e3
+e134 a2 e5 --> e34 a2 e15
+e134 a2 e5 --> e14 a2 e35
+e134 a2 e5 --> e13 a2 e45
+e3 a4 e2 a1 e5 --> a4 e23 a1 e5
+e3 a4 e2 a1 e5 --> e3 a14 e25
+a4 e2 a15 e3 --> a45 e2 a1 e3
+a4 e2 a15 e3 --> e24 a15 e3
+a4 e2 a15 e3 --> a14 e2 a5 e3
+a2 e3 a1 e45 --> a12 e345
+a2 e3 a1 e45 --> e23 a1 e45
+e245 a1 e3 --> e25 a1 e34
+e245 a1 e3 --> e45 a1 e23
+e245 a1 e3 --> e24 a1 e35
+a12 e4 a5 e3 --> e1 a2 e4 a5 e3
+a12 e4 a5 e3 --> e2 a1 e4 a5 e3
+a12 e4 a5 e3 --> a125 e34
+a123 e45 --> e1 a23 e45
+a123 e45 --> e2 a13 e45
+a123 e45 --> e3 a12 e45
+e15 a3 e24 --> e5 a3 e124
+e15 a3 e24 --> e1 a3 e245
+e15 a23 e4 --> e5 a2 e1 a3 e4
+e15 a23 e4 --> e5 a3 e1 a2 e4
+e15 a23 e4 --> e1 a2 e5 a3 e4
+e15 a23 e4 --> e1 a3 e5 a2 e4
+a14 e2 a3 e5 --> a134 e25
+a14 e2 a3 e5 --> e4 a1 e2 a3 e5
+a14 e2 a3 e5 --> e1 a4 e2 a3 e5
+a14 e235 --> e4 a1 e235
+a14 e235 --> e1 a4 e235
+a14 e3 a2 e5 --> e4 a1 e3 a2 e5
+a14 e3 a2 e5 --> e1 a4 e3 a2 e5
+a14 e3 a2 e5 --> a124 e35
+e4 a1 e235 --> a1 e2345
+a5 e12 a4 e3 --> a5 e1 a4 e23
+a5 e12 a4 e3 --> e125 a4 e3
+a5 e12 a4 e3 --> a5 e2 a4 e13
+e13 a5 e24 --> e1 a5 e234
+e13 a5 e24 --> e3 a5 e124
+a4 e1 a3 e25 --> e14 a3 e25
+a4 e1 a3 e25 --> a34 e125
+e1 a2 e4 a5 e3 --> a2 e14 a5 e3
+e1 a2 e4 a5 e3 --> e1 a25 e34
+e24 a13 e5 --> e4 a1 e2 a3 e5
+e24 a13 e5 --> e2 a3 e4 a1 e5
+e24 a13 e5 --> e4 a3 e2 a1 e5
+e24 a13 e5 --> e2 a1 e4 a3 e5
+e4 a3 e125 --> a3 e1245
+a23 e5 a4 e1 --> e3 a2 e5 a4 e1
+a23 e5 a4 e1 --> a234 e15
+a23 e5 a4 e1 --> e2 a3 e5 a4 e1
+e1 a4 e235 --> a4 e1235
+e124 a3 e5 --> e24 a3 e15
+e124 a3 e5 --> e14 a3 e25
+e124 a3 e5 --> e12 a3 e45
+e3 a2 e145 --> a2 e1345
+e4 a2 e5 a1 e3 --> a2 e45 a1 e3
+e4 a2 e5 a1 e3 --> e4 a12 e35
+e5 a1 e4 a3 e2 --> e5 a13 e24
+e5 a1 e4 a3 e2 --> a1 e45 a3 e2
+a5 e24 a1 e3 --> a5 e4 a1 e23
+a5 e24 a1 e3 --> e245 a1 e3
+a5 e24 a1 e3 --> a5 e2 a1 e34
+a2 e14 a3 e5 --> a2 e4 a3 e15
+a2 e14 a3 e5 --> e124 a3 e5
+a2 e14 a3 e5 --> a2 e1 a3 e45
+e13 a24 e5 --> e1 a4 e3 a2 e5
+e13 a24 e5 --> e3 a2 e1 a4 e5
+e13 a24 e5 --> e1 a2 e3 a4 e5
+e13 a24 e5 --> e3 a4 e1 a2 e5
+e35 a1 e24 --> e5 a1 e234
+e35 a1 e24 --> e3 a1 e245
+a3 e24 a5 e1 --> e234 a5 e1
+a3 e24 a5 e1 --> a3 e4 a5 e12
+a3 e24 a5 e1 --> a3 e2 a5 e14
+e1 a5 e3 a4 e2 --> a5 e13 a4 e2
+e1 a5 e3 a4 e2 --> e1 a45 e23
+a3 e14 a5 e2 --> a3 e4 a5 e12
+a3 e14 a5 e2 --> a3 e1 a5 e24
+a3 e14 a5 e2 --> e134 a5 e2
+e1 a5 e2 a4 e3 --> a5 e12 a4 e3
+e1 a5 e2 a4 e3 --> e1 a45 e23
+e2 a4 e5 a1 e3 --> a4 e25 a1 e3
+e2 a4 e5 a1 e3 --> e2 a14 e35
+a13 e2 a5 e4 --> e1 a3 e2 a5 e4
+a13 e2 a5 e4 --> e3 a1 e2 a5 e4
+a13 e2 a5 e4 --> a135 e24
+e5 a1 e2 a3 e4 --> a1 e25 a3 e4
+e5 a1 e2 a3 e4 --> e5 a13 e24
+a1 e2 a5 e34 --> e12 a5 e34
+a1 e2 a5 e34 --> a15 e234
+a25 e3 a1 e4 --> e5 a2 e3 a1 e4
+a25 e3 a1 e4 --> a125 e34
+a25 e3 a1 e4 --> e2 a5 e3 a1 e4
+a25 e3 a4 e1 --> e2 a5 e3 a4 e1
+a25 e3 a4 e1 --> a245 e13
+a25 e3 a4 e1 --> e5 a2 e3 a4 e1
+a3 e5 a24 e1 --> a34 e5 a2 e1
+a3 e5 a24 e1 --> e35 a24 e1
+a3 e5 a24 e1 --> a23 e5 a4 e1
+a1245 e3 --> e5 a124 e3
+a1245 e3 --> e4 a125 e3
+a1245 e3 --> e2 a145 e3
+a1245 e3 --> e1 a245 e3
+e4 a5 e1 a2 e3 --> a5 e14 a2 e3
+e4 a5 e1 a2 e3 --> e4 a25 e13
+e4 a3 e1 a2 e5 --> a3 e14 a2 e5
+e4 a3 e1 a2 e5 --> e4 a23 e15
+e1 a3 e5 a4 e2 --> e1 a34 e25
+e1 a3 e5 a4 e2 --> a3 e15 a4 e2
+e4 a1 e2 a3 e5 --> a1 e24 a3 e5
+e4 a1 e2 a3 e5 --> e4 a13 e25
+e4 a1 e3 a5 e2 --> a1 e34 a5 e2
+e4 a1 e3 a5 e2 --> e4 a15 e23
+a5 e4 a23 e1 --> a35 e4 a2 e1
+a5 e4 a23 e1 --> e45 a23 e1
+a5 e4 a23 e1 --> a25 e4 a3 e1
+a5 e1 a3 e24 --> a35 e124
+a5 e1 a3 e24 --> e15 a3 e24
+a5 e1 a2 e34 --> e15 a2 e34
+a5 e1 a2 e34 --> a25 e134
+e2 a4 e3 a5 e1 --> e2 a45 e13
+e2 a4 e3 a5 e1 --> a4 e23 a5 e1
+e1 a4 e5 a2 e3 --> e1 a24 e35
+e1 a4 e5 a2 e3 --> a4 e15 a2 e3
+e2 a1 e4 a5 e3 --> e2 a15 e34
+e2 a1 e4 a5 e3 --> a1 e24 a5 e3
+a1 e3 a25 e4 --> e13 a25 e4
+a1 e3 a25 e4 --> a15 e3 a2 e4
+a1 e3 a25 e4 --> a12 e3 a5 e4
+e3 a145 e2 --> a1 e3 a45 e2
+e3 a145 e2 --> a5 e3 a14 e2
+e3 a145 e2 --> a4 e3 a15 e2
+e234 a1 e5 --> e34 a1 e25
+e234 a1 e5 --> e24 a1 e35
+e234 a1 e5 --> e23 a1 e45
+e3 a2 e4 a1 e5 --> a2 e34 a1 e5
+e3 a2 e4 a1 e5 --> e3 a12 e45
+e2 a34 e15 --> a4 e2 a3 e15
+e2 a34 e15 --> a3 e2 a4 e15
+a3 e4 a5 e12 --> a35 e124
+a3 e4 a5 e12 --> e34 a5 e12
+a3 e1 a2 e45 --> a23 e145
+a3 e1 a2 e45 --> e13 a2 e45
+a3 e4 a25 e1 --> a35 e4 a2 e1
+a3 e4 a25 e1 --> a23 e4 a5 e1
+a3 e4 a25 e1 --> e34 a25 e1
+a5 e14 a3 e2 --> a5 e1 a3 e24
+a5 e14 a3 e2 --> e145 a3 e2
+a5 e14 a3 e2 --> a5 e4 a3 e12
+e4 a1 e5 a2 e3 --> e4 a12 e35
+e4 a1 e5 a2 e3 --> a1 e45 a2 e3
+e135 a4 e2 --> e35 a4 e12
+e135 a4 e2 --> e15 a4 e23
+e135 a4 e2 --> e13 a4 e25
+e3 a4 e5 a2 e1 --> e3 a24 e15
+e3 a4 e5 a2 e1 --> a4 e35 a2 e1
+e1 a34 e25 --> a4 e1 a3 e25
+e1 a34 e25 --> a3 e1 a4 e25
+a2 e35 a4 e1 --> a2 e5 a4 e13
+a2 e35 a4 e1 --> a2 e3 a4 e15
+a2 e35 a4 e1 --> e235 a4 e1
+e35 a2 e14 --> e3 a2 e145
+e35 a2 e14 --> e5 a2 e134
+e12 a45 e3 --> e2 a4 e1 a5 e3
+e12 a45 e3 --> e2 a5 e1 a4 e3
+e12 a45 e3 --> e1 a5 e2 a4 e3
+e12 a45 e3 --> e1 a4 e2 a5 e3
+e12 a35 e4 --> e1 a3 e2 a5 e4
+e12 a35 e4 --> e1 a5 e2 a3 e4
+e12 a35 e4 --> e2 a3 e1 a5 e4
+e12 a35 e4 --> e2 a5 e1 a3 e4
+e1 a235 e4 --> a3 e1 a25 e4
+e1 a235 e4 --> a2 e1 a35 e4
+e1 a235 e4 --> a5 e1 a23 e4
+e1 a35 e24 --> a5 e1 a3 e24
+e1 a35 e24 --> a3 e1 a5 e24
+a35 e4 a1 e2 --> e3 a5 e4 a1 e2
+a35 e4 a1 e2 --> e5 a3 e4 a1 e2
+a35 e4 a1 e2 --> a135 e24
+a45 e123 --> e4 a5 e123
+a45 e123 --> e5 a4 e123
+e45 a12 e3 --> e5 a2 e4 a1 e3
+e45 a12 e3 --> e4 a2 e5 a1 e3
+e45 a12 e3 --> e4 a1 e5 a2 e3
+e45 a12 e3 --> e5 a1 e4 a2 e3
+e35 a12 e4 --> e3 a2 e5 a1 e4
+e35 a12 e4 --> e3 a1 e5 a2 e4
+e35 a12 e4 --> e5 a2 e3 a1 e4
+e35 a12 e4 --> e5 a1 e3 a2 e4
+a23 e145 --> e3 a2 e145
+a23 e145 --> e2 a3 e145
+a1 e4 a2 e35 --> e14 a2 e35
+a1 e4 a2 e35 --> a12 e345
+a1 e4 a3 e25 --> a13 e245
+a1 e4 a3 e25 --> e14 a3 e25
+a14 e5 a2 e3 --> e1 a4 e5 a2 e3
+a14 e5 a2 e3 --> e4 a1 e5 a2 e3
+a14 e5 a2 e3 --> a124 e35
+e13 a45 e2 --> e1 a4 e3 a5 e2
+e13 a45 e2 --> e1 a5 e3 a4 e2
+e13 a45 e2 --> e3 a4 e1 a5 e2
+e13 a45 e2 --> e3 a5 e1 a4 e2
+e2 a1 e5 a3 e4 --> a1 e25 a3 e4
+e2 a1 e5 a3 e4 --> e2 a13 e45
+a3 e2 a5 e14 --> a35 e124
+a3 e2 a5 e14 --> e23 a5 e14
+a23 e4 a5 e1 --> e2 a3 e4 a5 e1
+a23 e4 a5 e1 --> a235 e14
+a23 e4 a5 e1 --> e3 a2 e4 a5 e1
+e5 a1 e3 a2 e4 --> a1 e35 a2 e4
+e5 a1 e3 a2 e4 --> e5 a12 e34
+e34 a2 e15 --> e3 a2 e145
+e34 a2 e15 --> e4 a2 e135
+a3 e14 a2 e5 --> e134 a2 e5
+a3 e14 a2 e5 --> a3 e1 a2 e45
+a3 e14 a2 e5 --> a3 e4 a2 e15
+e5 a124 e3 --> a4 e5 a12 e3
+e5 a124 e3 --> a1 e5 a24 e3
+e5 a124 e3 --> a2 e5 a14 e3
+a3 e12 a5 e4 --> a3 e2 a5 e14
+a3 e12 a5 e4 --> a3 e1 a5 e24
+a3 e12 a5 e4 --> e123 a5 e4
+e1 a3 e4 a5 e2 --> a3 e14 a5 e2
+e1 a3 e4 a5 e2 --> e1 a35 e24
+e4 a235 e1 --> a5 e4 a23 e1
+e4 a235 e1 --> a3 e4 a25 e1
+e4 a235 e1 --> a2 e4 a35 e1
+e5 a1 e234 --> a1 e2345
+e123 a4 e5 --> e23 a4 e15
+e123 a4 e5 --> e12 a4 e35
+e123 a4 e5 --> e13 a4 e25
+a2 e1 a3 e45 --> a23 e145
+a2 e1 a3 e45 --> e12 a3 e45
+e4 a5 e1 a3 e2 --> a5 e14 a3 e2
+e4 a5 e1 a3 e2 --> e4 a35 e12
+e5 a1 e3 a4 e2 --> a1 e35 a4 e2
+e5 a1 e3 a4 e2 --> e5 a14 e23
+e4 a2 e1 a5 e3 --> a2 e14 a5 e3
+e4 a2 e1 a5 e3 --> e4 a25 e13
+e3 a2 e1 a4 e5 --> a2 e13 a4 e5
+e3 a2 e1 a4 e5 --> e3 a24 e15
+a2 e13 a4 e5 --> e123 a4 e5
+a2 e13 a4 e5 --> a2 e1 a4 e35
+a2 e13 a4 e5 --> a2 e3 a4 e15
+e2 a15 e34 --> a1 e2 a5 e34
+e2 a15 e34 --> a5 e2 a1 e34
+e1 a5 e4 a3 e2 --> a5 e14 a3 e2
+e1 a5 e4 a3 e2 --> e1 a35 e24
+a3 e1 a24 e5 --> e13 a24 e5
+a3 e1 a24 e5 --> a34 e1 a2 e5
+a3 e1 a24 e5 --> a23 e1 a4 e5
+a1 e35 a2 e4 --> a1 e3 a2 e45
+a1 e35 a2 e4 --> e135 a2 e4
+a1 e35 a2 e4 --> a1 e5 a2 e34
+a3 e1 a25 e4 --> e13 a25 e4
+a3 e1 a25 e4 --> a35 e1 a2 e4
+a3 e1 a25 e4 --> a23 e1 a5 e4
+a1 e3 a45 e2 --> e13 a45 e2
+a1 e3 a45 e2 --> a15 e3 a4 e2
+a1 e3 a45 e2 --> a14 e3 a5 e2
+a25 e4 a1 e3 --> e5 a2 e4 a1 e3
+a25 e4 a1 e3 --> a125 e34
+a25 e4 a1 e3 --> e2 a5 e4 a1 e3
+a25 e4 a3 e1 --> e2 a5 e4 a3 e1
+a25 e4 a3 e1 --> e5 a2 e4 a3 e1
+a25 e4 a3 e1 --> a235 e14
+a4 e25 a1 e3 --> e245 a1 e3
+a4 e25 a1 e3 --> a4 e5 a1 e23
+a4 e25 a1 e3 --> a4 e2 a1 e35
+a3 e25 a1 e4 --> e235 a1 e4
+a3 e25 a1 e4 --> a3 e5 a1 e24
+a3 e25 a1 e4 --> a3 e2 a1 e45
+a125 e34 --> e2 a15 e34
+a125 e34 --> e5 a12 e34
+a125 e34 --> e1 a25 e34
+a3 e2 a45 e1 --> a34 e2 a5 e1
+a3 e2 a45 e1 --> e23 a45 e1
+a3 e2 a45 e1 --> a35 e2 a4 e1
+a13 e4 a5 e2 --> e1 a3 e4 a5 e2
+a13 e4 a5 e2 --> e3 a1 e4 a5 e2
+a13 e4 a5 e2 --> a135 e24
+e12 a4 e35 --> e1 a4 e235
+e12 a4 e35 --> e2 a4 e135
+e145 a2 e3 --> e14 a2 e35
+e145 a2 e3 --> e15 a2 e34
+e145 a2 e3 --> e45 a2 e13
+a2 e1 a45 e3 --> e12 a45 e3
+a2 e1 a45 e3 --> a24 e1 a5 e3
+a2 e1 a45 e3 --> a25 e1 a4 e3
+e25 a34 e1 --> e2 a4 e5 a3 e1
+e25 a34 e1 --> e5 a3 e2 a4 e1
+e25 a34 e1 --> e5 a4 e2 a3 e1
+e25 a34 e1 --> e2 a3 e5 a4 e1
+a2 e1 a35 e4 --> e12 a35 e4
+a2 e1 a35 e4 --> a25 e1 a3 e4
+a2 e1 a35 e4 --> a23 e1 a5 e4
+a2 e3 a15 e4 --> e23 a15 e4
+a2 e3 a15 e4 --> a25 e3 a1 e4
+a2 e3 a15 e4 --> a12 e3 a5 e4
+a5 e13 a2 e4 --> e135 a2 e4
+a5 e13 a2 e4 --> a5 e1 a2 e34
+a5 e13 a2 e4 --> a5 e3 a2 e14
+a3 e45 a1 e2 --> e345 a1 e2
+a3 e45 a1 e2 --> a3 e5 a1 e24
+a3 e45 a1 e2 --> a3 e4 a1 e25
+a4 e1235 --> e12345
+a2 e5 a4 e13 --> e25 a4 e13
+a2 e5 a4 e13 --> a24 e135
+a1 e25 a4 e3 --> a1 e2 a4 e35
+a1 e25 a4 e3 --> e125 a4 e3
+a1 e25 a4 e3 --> a1 e5 a4 e23
+a4 e3 a25 e1 --> a24 e3 a5 e1
+a4 e3 a25 e1 --> e34 a25 e1
+a4 e3 a25 e1 --> a45 e3 a2 e1
+e145 a3 e2 --> e45 a3 e12
+e145 a3 e2 --> e14 a3 e25
+e145 a3 e2 --> e15 a3 e24
+a234 e15 --> e2 a34 e15
+a234 e15 --> e4 a23 e15
+a234 e15 --> e3 a24 e15
+a25 e1 a3 e4 --> e5 a2 e1 a3 e4
+a25 e1 a3 e4 --> e2 a5 e1 a3 e4
+a25 e1 a3 e4 --> a235 e14
+e3 a5 e4 a1 e2 --> a5 e34 a1 e2
+e3 a5 e4 a1 e2 --> e3 a15 e24
+e25 a1 e34 --> e5 a1 e234
+e25 a1 e34 --> e2 a1 e345
+e5 a3 e4 a2 e1 --> e5 a23 e14
+e5 a3 e4 a2 e1 --> a3 e45 a2 e1
+a1345 e2 --> e3 a145 e2
+a1345 e2 --> e4 a135 e2
+a1345 e2 --> e5 a134 e2
+a1345 e2 --> e1 a345 e2
+e2 a5 e4 a1 e3 --> a5 e24 a1 e3
+e2 a5 e4 a1 e3 --> e2 a15 e34
+a23 e1 a5 e4 --> e3 a2 e1 a5 e4
+a23 e1 a5 e4 --> e2 a3 e1 a5 e4
+a23 e1 a5 e4 --> a235 e14
+e5 a3 e4 a1 e2 --> a3 e45 a1 e2
+e5 a3 e4 a1 e2 --> e5 a13 e24
+e5 a4 e3 a1 e2 --> e5 a14 e23
+e5 a4 e3 a1 e2 --> a4 e35 a1 e2
+a2 e5 a34 e1 --> a24 e5 a3 e1
+a2 e5 a34 e1 --> a23 e5 a4 e1
+a2 e5 a34 e1 --> e25 a34 e1
+a13 e4 a2 e5 --> e1 a3 e4 a2 e5
+a13 e4 a2 e5 --> a123 e45
+a13 e4 a2 e5 --> e3 a1 e4 a2 e5
+a2 e1345 --> e12345
+e5 a3 e2 a1 e4 --> a3 e25 a1 e4
+e5 a3 e2 a1 e4 --> e5 a13 e24
+a5 e12 a3 e4 --> e125 a3 e4
+a5 e12 a3 e4 --> a5 e1 a3 e24
+a5 e12 a3 e4 --> a5 e2 a3 e14
+a13 e5 a2 e4 --> e3 a1 e5 a2 e4
+a13 e5 a2 e4 --> a123 e45
+a13 e5 a2 e4 --> e1 a3 e5 a2 e4
+e23 a14 e5 --> e2 a4 e3 a1 e5
+e23 a14 e5 --> e3 a4 e2 a1 e5
+e23 a14 e5 --> e3 a1 e2 a4 e5
+e23 a14 e5 --> e2 a1 e3 a4 e5
+e14 a25 e3 --> e1 a5 e4 a2 e3
+e14 a25 e3 --> e1 a2 e4 a5 e3
+e14 a25 e3 --> e4 a5 e1 a2 e3
+e14 a25 e3 --> e4 a2 e1 a5 e3
+e345 a1 e2 --> e35 a1 e24
+e345 a1 e2 --> e34 a1 e25
+e345 a1 e2 --> e45 a1 e23
+e4 a23 e15 --> a2 e4 a3 e15
+e4 a23 e15 --> a3 e4 a2 e15
+e5 a1 e4 a2 e3 --> a1 e45 a2 e3
+e5 a1 e4 a2 e3 --> e5 a12 e34
+e3 a4 e1 a5 e2 --> a4 e13 a5 e2
+e3 a4 e1 a5 e2 --> e3 a45 e12
+a5 e1234 --> e12345
+a24 e3 a1 e5 --> e2 a4 e3 a1 e5
+a24 e3 a1 e5 --> a124 e35
+a24 e3 a1 e5 --> e4 a2 e3 a1 e5
+a2 e1 a4 e35 --> e12 a4 e35
+a2 e1 a4 e35 --> a24 e135
+a1 e24 a3 e5 --> e124 a3 e5
+a1 e24 a3 e5 --> a1 e4 a3 e25
+a1 e24 a3 e5 --> a1 e2 a3 e45
+a4 e5 a2 e13 --> e45 a2 e13
+a4 e5 a2 e13 --> a24 e135
+a4 e3 a12 e5 --> a14 e3 a2 e5
+a4 e3 a12 e5 --> a24 e3 a1 e5
+a4 e3 a12 e5 --> e34 a12 e5
+e4 a1 e2 a5 e3 --> e4 a15 e23
+e4 a1 e2 a5 e3 --> a1 e24 a5 e3
+e2 a13 e45 --> a1 e2 a3 e45
+e2 a13 e45 --> a3 e2 a1 e45
+a4 e1 a5 e23 --> e14 a5 e23
+a4 e1 a5 e23 --> a45 e123
+a3 e1 a5 e24 --> a35 e124
+a3 e1 a5 e24 --> e13 a5 e24
+a1 e2 a3 e45 --> a13 e245
+a1 e2 a3 e45 --> e12 a3 e45
+e4 a3 e5 a1 e2 --> a3 e45 a1 e2
+e4 a3 e5 a1 e2 --> e4 a13 e25
+a45 e2 a1 e3 --> e4 a5 e2 a1 e3
+a45 e2 a1 e3 --> a145 e23
+a45 e2 a1 e3 --> e5 a4 e2 a1 e3
+e14 a2 e35 --> e1 a2 e345
+e14 a2 e35 --> e4 a2 e135
+e24 a5 e13 --> e4 a5 e123
+e24 a5 e13 --> e2 a5 e134
+e1 a5 e2 a3 e4 --> e1 a35 e24
+e1 a5 e2 a3 e4 --> a5 e12 a3 e4
+e25 a14 e3 --> e2 a4 e5 a1 e3
+e25 a14 e3 --> e5 a1 e2 a4 e3
+e25 a14 e3 --> e2 a1 e5 a4 e3
+e25 a14 e3 --> e5 a4 e2 a1 e3
+a15 e3 a2 e4 --> e5 a1 e3 a2 e4
+a15 e3 a2 e4 --> a125 e34
+a15 e3 a2 e4 --> e1 a5 e3 a2 e4
+e25 a13 e4 --> e5 a1 e2 a3 e4
+e25 a13 e4 --> e2 a1 e5 a3 e4
+e25 a13 e4 --> e5 a3 e2 a1 e4
+e25 a13 e4 --> e2 a3 e5 a1 e4
+a45 e1 a2 e3 --> e4 a5 e1 a2 e3
+a45 e1 a2 e3 --> a245 e13
+a45 e1 a2 e3 --> e5 a4 e1 a2 e3
+e2 a45 e13 --> a4 e2 a5 e13
+e2 a45 e13 --> a5 e2 a4 e13
+a1 e23 a5 e4 --> a1 e2 a5 e34
+a1 e23 a5 e4 --> e123 a5 e4
+a1 e23 a5 e4 --> a1 e3 a5 e24
+e5 a1 e2 a4 e3 --> e5 a14 e23
+e5 a1 e2 a4 e3 --> a1 e25 a4 e3
+a1235 e4 --> e2 a135 e4
+a1235 e4 --> e1 a235 e4
+a1235 e4 --> e5 a123 e4
+a1235 e4 --> e3 a125 e4
+a245 e13 --> e5 a24 e13
+a245 e13 --> e2 a45 e13
+a245 e13 --> e4 a25 e13
+e3 a5 e2 a1 e4 --> a5 e23 a1 e4
+e3 a5 e2 a1 e4 --> e3 a15 e24
+e3 a5 e1 a2 e4 --> a5 e13 a2 e4
+e3 a5 e1 a2 e4 --> e3 a25 e14
+e123 a5 e4 --> e12 a5 e34
+e123 a5 e4 --> e23 a5 e14
+e123 a5 e4 --> e13 a5 e24
+e3 a1 e2 a4 e5 --> a1 e23 a4 e5
+e3 a1 e2 a4 e5 --> e3 a14 e25
+e25 a4 e13 --> e2 a4 e135
+e25 a4 e13 --> e5 a4 e123
+a1 e5 a3 e24 --> a13 e245
+a1 e5 a3 e24 --> e15 a3 e24
+a2 e3 a4 e15 --> e23 a4 e15
+a2 e3 a4 e15 --> a24 e135
+a45 e1 a3 e2 --> e5 a4 e1 a3 e2
+a45 e1 a3 e2 --> a345 e12
+a45 e1 a3 e2 --> e4 a5 e1 a3 e2
+e5 a4 e2 a3 e1 --> a4 e25 a3 e1
+e5 a4 e2 a3 e1 --> e5 a34 e12
+a5 e4 a3 e12 --> a35 e124
+a5 e4 a3 e12 --> e45 a3 e12
+e5 a23 e14 --> a3 e5 a2 e14
+e5 a23 e14 --> a2 e5 a3 e14
+a4 e35 a1 e2 --> e345 a1 e2
+a4 e35 a1 e2 --> a4 e5 a1 e23
+a4 e35 a1 e2 --> a4 e3 a1 e25
+e235 a4 e1 --> e23 a4 e15
+e235 a4 e1 --> e35 a4 e12
+e235 a4 e1 --> e25 a4 e13
+a2 e14 a5 e3 --> a2 e1 a5 e34
+a2 e14 a5 e3 --> a2 e4 a5 e13
+a2 e14 a5 e3 --> e124 a5 e3
+a34 e1 a5 e2 --> a345 e12
+a34 e1 a5 e2 --> e3 a4 e1 a5 e2
+a34 e1 a5 e2 --> e4 a3 e1 a5 e2
+e4 a5 e3 a1 e2 --> a5 e34 a1 e2
+e4 a5 e3 a1 e2 --> e4 a15 e23
+a4 e15 a3 e2 --> a4 e5 a3 e12
+a4 e15 a3 e2 --> a4 e1 a3 e25
+a4 e15 a3 e2 --> e145 a3 e2
+a3 e15 a4 e2 --> a3 e5 a4 e12
+a3 e15 a4 e2 --> e135 a4 e2
+a3 e15 a4 e2 --> a3 e1 a4 e25
+a5 e1 a23 e4 --> a35 e1 a2 e4
+a5 e1 a23 e4 --> e15 a23 e4
+a5 e1 a23 e4 --> a25 e1 a3 e4
+a34 e1 a2 e5 --> e4 a3 e1 a2 e5
+a34 e1 a2 e5 --> a234 e15
+a34 e1 a2 e5 --> e3 a4 e1 a2 e5
+a14 e5 a3 e2 --> a134 e25
+a14 e5 a3 e2 --> e4 a1 e5 a3 e2
+a14 e5 a3 e2 --> e1 a4 e5 a3 e2
+e125 a4 e3 --> e12 a4 e35
+e125 a4 e3 --> e25 a4 e13
+e125 a4 e3 --> e15 a4 e23
+a24 e1 a5 e3 --> e2 a4 e1 a5 e3
+a24 e1 a5 e3 --> e4 a2 e1 a5 e3
+a24 e1 a5 e3 --> a245 e13
+e4 a3 e2 a5 e1 --> a3 e24 a5 e1
+e4 a3 e2 a5 e1 --> e4 a35 e12
+e34 a1 e25 --> e4 a1 e235
+e34 a1 e25 --> e3 a1 e245
+a34 e2 a5 e1 --> a345 e12
+a34 e2 a5 e1 --> e4 a3 e2 a5 e1
+a34 e2 a5 e1 --> e3 a4 e2 a5 e1
+e5 a2 e1 a4 e3 --> e5 a24 e13
+e5 a2 e1 a4 e3 --> a2 e15 a4 e3
+a4 e5 a12 e3 --> e45 a12 e3
+a4 e5 a12 e3 --> a14 e5 a2 e3
+a4 e5 a12 e3 --> a24 e5 a1 e3
+a2 e34 a1 e5 --> a2 e4 a1 e35
+a2 e34 a1 e5 --> a2 e3 a1 e45
+a2 e34 a1 e5 --> e234 a1 e5
+e235 a1 e4 --> e35 a1 e24
+e235 a1 e4 --> e25 a1 e34
+e235 a1 e4 --> e23 a1 e45
+a24 e5 a1 e3 --> e4 a2 e5 a1 e3
+a24 e5 a1 e3 --> e2 a4 e5 a1 e3
+a24 e5 a1 e3 --> a124 e35
+a45 e3 a1 e2 --> e5 a4 e3 a1 e2
+a45 e3 a1 e2 --> e4 a5 e3 a1 e2
+a45 e3 a1 e2 --> a145 e23
+a3 e12 a4 e5 --> e123 a4 e5
+a3 e12 a4 e5 --> a3 e1 a4 e25
+a3 e12 a4 e5 --> a3 e2 a4 e15
+a124 e35 --> e1 a24 e35
+a124 e35 --> e4 a12 e35
+a124 e35 --> e2 a14 e35
+e15 a4 e23 --> e1 a4 e235
+e15 a4 e23 --> e5 a4 e123
+a13 e2 a4 e5 --> a134 e25
+a13 e2 a4 e5 --> e3 a1 e2 a4 e5
+a13 e2 a4 e5 --> e1 a3 e2 a4 e5
+a5 e34 a1 e2 --> a5 e3 a1 e24
+a5 e34 a1 e2 --> a5 e4 a1 e23
+a5 e34 a1 e2 --> e345 a1 e2
+e3 a12 e45 --> a1 e3 a2 e45
+e3 a12 e45 --> a2 e3 a1 e45
+e4 a12 e35 --> a2 e4 a1 e35
+e4 a12 e35 --> a1 e4 a2 e35
+a5 e2 a34 e1 --> a45 e2 a3 e1
+a5 e2 a34 e1 --> e25 a34 e1
+a5 e2 a34 e1 --> a35 e2 a4 e1
+a2 e4 a13 e5 --> e24 a13 e5
+a2 e4 a13 e5 --> a12 e4 a3 e5
+a2 e4 a13 e5 --> a23 e4 a1 e5
+e24 a15 e3 --> e2 a1 e4 a5 e3
+e24 a15 e3 --> e2 a5 e4 a1 e3
+e24 a15 e3 --> e4 a1 e2 a5 e3
+e24 a15 e3 --> e4 a5 e2 a1 e3
+e4 a123 e5 --> a2 e4 a13 e5
+e4 a123 e5 --> a1 e4 a23 e5
+e4 a123 e5 --> a3 e4 a12 e5
+a3 e1 a4 e25 --> a34 e125
+a3 e1 a4 e25 --> e13 a4 e25
+e2 a1 e5 a4 e3 --> a1 e25 a4 e3
+e2 a1 e5 a4 e3 --> e2 a14 e35
+a4 e1 a35 e2 --> e14 a35 e2
+a4 e1 a35 e2 --> a45 e1 a3 e2
+a4 e1 a35 e2 --> a34 e1 a5 e2
+e2 a4 e135 --> a4 e1235
+a24 e3 a5 e1 --> e4 a2 e3 a5 e1
+a24 e3 a5 e1 --> e2 a4 e3 a5 e1
+a24 e3 a5 e1 --> a245 e13
+e34 a25 e1 --> e3 a5 e4 a2 e1
+e34 a25 e1 --> e4 a2 e3 a5 e1
+e34 a25 e1 --> e4 a5 e3 a2 e1
+e34 a25 e1 --> e3 a2 e4 a5 e1
+a3 e2 a4 e15 --> e23 a4 e15
+a3 e2 a4 e15 --> a34 e125
+a5 e3 a2 e14 --> e35 a2 e14
+a5 e3 a2 e14 --> a25 e134
+e4 a2 e135 --> a2 e1345
+e2 a3 e4 a1 e5 --> e2 a13 e45
+e2 a3 e4 a1 e5 --> a3 e24 a1 e5
+e3 a1 e5 a4 e2 --> a1 e35 a4 e2
+e3 a1 e5 a4 e2 --> e3 a14 e25
+a23 e1 a4 e5 --> e3 a2 e1 a4 e5
+a23 e1 a4 e5 --> a234 e15
+a23 e1 a4 e5 --> e2 a3 e1 a4 e5
+e1 a4 e2 a3 e5 --> a4 e12 a3 e5
+e1 a4 e2 a3 e5 --> e1 a34 e25
+e3 a2 e1 a5 e4 --> a2 e13 a5 e4
+e3 a2 e1 a5 e4 --> e3 a25 e14
+e5 a3 e1 a4 e2 --> a3 e15 a4 e2
+e5 a3 e1 a4 e2 --> e5 a34 e12
+e13 a2 e45 --> e1 a2 e345
+e13 a2 e45 --> e3 a2 e145
+e5 a13 e24 --> a1 e5 a3 e24
+e5 a13 e24 --> a3 e5 a1 e24
+e45 a1 e23 --> e4 a1 e235
+e45 a1 e23 --> e5 a1 e234
+e2 a3 e5 a1 e4 --> a3 e25 a1 e4
+e2 a3 e5 a1 e4 --> e2 a13 e45
+a15 e4 a2 e3 --> e1 a5 e4 a2 e3
+a15 e4 a2 e3 --> a125 e34
+a15 e4 a2 e3 --> e5 a1 e4 a2 e3
+a15 e3 a4 e2 --> e1 a5 e3 a4 e2
+a15 e3 a4 e2 --> e5 a1 e3 a4 e2
+a15 e3 a4 e2 --> a145 e23
+e23 a45 e1 --> e2 a5 e3 a4 e1
+e23 a45 e1 --> e2 a4 e3 a5 e1
+e23 a45 e1 --> e3 a5 e2 a4 e1
+e23 a45 e1 --> e3 a4 e2 a5 e1
+e24 a35 e1 --> e2 a5 e4 a3 e1
+e24 a35 e1 --> e4 a3 e2 a5 e1
+e24 a35 e1 --> e2 a3 e4 a5 e1
+e24 a35 e1 --> e4 a5 e2 a3 e1
+a1 e4 a23 e5 --> e14 a23 e5
+a1 e4 a23 e5 --> a13 e4 a2 e5
+a1 e4 a23 e5 --> a12 e4 a3 e5
+a1 e3 a24 e5 --> a14 e3 a2 e5
+a1 e3 a24 e5 --> e13 a24 e5
+a1 e3 a24 e5 --> a12 e3 a4 e5
+a14 e2 a5 e3 --> e4 a1 e2 a5 e3
+a14 e2 a5 e3 --> e1 a4 e2 a5 e3
+a14 e2 a5 e3 --> a145 e23
+a3 e5 a1 e24 --> a13 e245
+a3 e5 a1 e24 --> e35 a1 e24
+a4 e5 a1 e23 --> a14 e235
+a4 e5 a1 e23 --> e45 a1 e23
+e15 a2 e34 --> e1 a2 e345
+e15 a2 e34 --> e5 a2 e134
+e1 a2 e5 a4 e3 --> e1 a24 e35
+e1 a2 e5 a4 e3 --> a2 e15 a4 e3
+e1 a2 e5 a3 e4 --> e1 a23 e45
+e1 a2 e5 a3 e4 --> a2 e15 a3 e4
+a14 e3 a5 e2 --> e1 a4 e3 a5 e2
+a14 e3 a5 e2 --> e4 a1 e3 a5 e2
+a14 e3 a5 e2 --> a145 e23
+a2 e1 a34 e5 --> a23 e1 a4 e5
+a2 e1 a34 e5 --> e12 a34 e5
+a2 e1 a34 e5 --> a24 e1 a3 e5
+e4 a35 e12 --> a3 e4 a5 e12
+e4 a35 e12 --> a5 e4 a3 e12
+a1 e5 a4 e23 --> a14 e235
+a1 e5 a4 e23 --> e15 a4 e23
+a34 e125 --> e3 a4 e125
+a34 e125 --> e4 a3 e125
+e4 a2 e5 a3 e1 --> e4 a23 e15
+e4 a2 e5 a3 e1 --> a2 e45 a3 e1
+e1 a3 e5 a2 e4 --> e1 a23 e45
+e1 a3 e5 a2 e4 --> a3 e15 a2 e4
+e13 a4 e25 --> e3 a4 e125
+e13 a4 e25 --> e1 a4 e235
+a12 e4 a3 e5 --> a123 e45
+a12 e4 a3 e5 --> e1 a2 e4 a3 e5
+a12 e4 a3 e5 --> e2 a1 e4 a3 e5
+a2 e13 a5 e4 --> a2 e1 a5 e34
+a2 e13 a5 e4 --> e123 a5 e4
+a2 e13 a5 e4 --> a2 e3 a5 e14
+e4 a5 e123 --> a5 e1234
+e4 a135 e2 --> a3 e4 a15 e2
+e4 a135 e2 --> a5 e4 a13 e2
+e4 a135 e2 --> a1 e4 a35 e2
+a3 e4 a2 e15 --> a23 e145
+a3 e4 a2 e15 --> e34 a2 e15
+e4 a2 e3 a1 e5 --> a2 e34 a1 e5
+e4 a2 e3 a1 e5 --> e4 a12 e35
+a3 e4 a1 e25 --> a13 e245
+a3 e4 a1 e25 --> e34 a1 e25
+e3 a14 e25 --> a1 e3 a4 e25
+e3 a14 e25 --> a4 e3 a1 e25
+e34 a12 e5 --> e4 a1 e3 a2 e5
+e34 a12 e5 --> e3 a2 e4 a1 e5
+e34 a12 e5 --> e4 a2 e3 a1 e5
+e34 a12 e5 --> e3 a1 e4 a2 e5
+e2 a1 e345 --> a1 e2345
+a5 e13 a4 e2 --> a5 e1 a4 e23
+a5 e13 a4 e2 --> e135 a4 e2
+a5 e13 a4 e2 --> a5 e3 a4 e12
+a25 e1 a4 e3 --> e2 a5 e1 a4 e3
+a25 e1 a4 e3 --> a245 e13
+a25 e1 a4 e3 --> e5 a2 e1 a4 e3
+e4 a3 e5 a2 e1 --> e4 a23 e15
+e4 a3 e5 a2 e1 --> a3 e45 a2 e1
+a2 e15 a3 e4 --> a2 e5 a3 e14
+a2 e15 a3 e4 --> e125 a3 e4
+a2 e15 a3 e4 --> a2 e1 a3 e45
+e5 a4 e3 a2 e1 --> e5 a24 e13
+e5 a4 e3 a2 e1 --> a4 e35 a2 e1
+e134 a5 e2 --> e14 a5 e23
+e134 a5 e2 --> e13 a5 e24
+e134 a5 e2 --> e34 a5 e12
+e45 a2 e13 --> e4 a2 e135
+e45 a2 e13 --> e5 a2 e134
+a25 e134 --> e5 a2 e134
+a25 e134 --> e2 a5 e134
+a13 e5 a4 e2 --> a134 e25
+a13 e5 a4 e2 --> e1 a3 e5 a4 e2
+a13 e5 a4 e2 --> e3 a1 e5 a4 e2
+e1 a234 e5 --> a3 e1 a24 e5
+e1 a234 e5 --> a2 e1 a34 e5
+e1 a234 e5 --> a4 e1 a23 e5
+e2 a3 e1 a5 e4 --> e2 a35 e14
+e2 a3 e1 a5 e4 --> a3 e12 a5 e4
+a23 e5 a1 e4 --> e3 a2 e5 a1 e4
+a23 e5 a1 e4 --> a123 e45
+a23 e5 a1 e4 --> e2 a3 e5 a1 e4
+a12 e345 --> e1 a2 e345
+a12 e345 --> e2 a1 e345
+e15 a24 e3 --> e1 a4 e5 a2 e3
+e15 a24 e3 --> e5 a2 e1 a4 e3
+e15 a24 e3 --> e1 a2 e5 a4 e3
+e15 a24 e3 --> e5 a4 e1 a2 e3
+a2 e35 a1 e4 --> a2 e5 a1 e34
+a2 e35 a1 e4 --> a2 e3 a1 e45
+a2 e35 a1 e4 --> e235 a1 e4
+a1 e5 a24 e3 --> a14 e5 a2 e3
+a1 e5 a24 e3 --> e15 a24 e3
+a1 e5 a24 e3 --> a12 e5 a4 e3
+e35 a14 e2 --> e5 a1 e3 a4 e2
+e35 a14 e2 --> e5 a4 e3 a1 e2
+e35 a14 e2 --> e3 a1 e5 a4 e2
+e35 a14 e2 --> e3 a4 e5 a1 e2
+a2345 e1 --> e3 a245 e1
+a2345 e1 --> e2 a345 e1
+a2345 e1 --> e5 a234 e1
+a2345 e1 --> e4 a235 e1
+a3 e15 a2 e4 --> a3 e5 a2 e14
+a3 e15 a2 e4 --> e135 a2 e4
+a3 e15 a2 e4 --> a3 e1 a2 e45
+e3 a124 e5 --> a4 e3 a12 e5
+e3 a124 e5 --> a1 e3 a24 e5
+e3 a124 e5 --> a2 e3 a14 e5
+e5 a2 e3 a4 e1 --> e5 a24 e13
+e5 a2 e3 a4 e1 --> a2 e35 a4 e1
+a3 e1 a45 e2 --> e13 a45 e2
+a3 e1 a45 e2 --> a34 e1 a5 e2
+a3 e1 a45 e2 --> a35 e1 a4 e2
+e4 a25 e13 --> a2 e4 a5 e13
+e4 a25 e13 --> a5 e4 a2 e13
+e3 a25 e14 --> a5 e3 a2 e14
+e3 a25 e14 --> a2 e3 a5 e14
+a2 e4 a5 e13 --> e24 a5 e13
+a2 e4 a5 e13 --> a25 e134
+e12 a34 e5 --> e1 a4 e2 a3 e5
+e12 a34 e5 --> e1 a3 e2 a4 e5
+e12 a34 e5 --> e2 a4 e1 a3 e5
+e12 a34 e5 --> e2 a3 e1 a4 e5
+a4 e13 a2 e5 --> a4 e3 a2 e15
+a4 e13 a2 e5 --> a4 e1 a2 e35
+a4 e13 a2 e5 --> e134 a2 e5
+e1 a3 e245 --> a3 e1245
+a5 e4 a2 e13 --> e45 a2 e13
+a5 e4 a2 e13 --> a25 e134
+a23 e4 a1 e5 --> a123 e45
+a23 e4 a1 e5 --> e3 a2 e4 a1 e5
+a23 e4 a1 e5 --> e2 a3 e4 a1 e5
+e3 a1 e2 a5 e4 --> a1 e23 a5 e4
+e3 a1 e2 a5 e4 --> e3 a15 e24
+a24 e1 a3 e5 --> a234 e15
+a24 e1 a3 e5 --> e2 a4 e1 a3 e5
+a24 e1 a3 e5 --> e4 a2 e1 a3 e5
+e1 a3 e2 a4 e5 --> e1 a34 e25
+e1 a3 e2 a4 e5 --> a3 e12 a4 e5
+e4 a125 e3 --> a1 e4 a25 e3
+e4 a125 e3 --> a5 e4 a12 e3
+e4 a125 e3 --> a2 e4 a15 e3
+e1 a2 e4 a3 e5 --> e1 a23 e45
+e1 a2 e4 a3 e5 --> a2 e14 a3 e5
+a1 e5 a34 e2 --> e15 a34 e2
+a1 e5 a34 e2 --> a14 e5 a3 e2
+a1 e5 a34 e2 --> a13 e5 a4 e2
+a45 e3 a2 e1 --> e4 a5 e3 a2 e1
+a45 e3 a2 e1 --> a245 e13
+a45 e3 a2 e1 --> e5 a4 e3 a2 e1
+a5 e2 a13 e4 --> a35 e2 a1 e4
+a5 e2 a13 e4 --> e25 a13 e4
+a5 e2 a13 e4 --> a15 e2 a3 e4
+e1 a4 e2 a5 e3 --> a4 e12 a5 e3
+e1 a4 e2 a5 e3 --> e1 a45 e23
+a4 e1 a23 e5 --> e14 a23 e5
+a4 e1 a23 e5 --> a34 e1 a2 e5
+a4 e1 a23 e5 --> a24 e1 a3 e5
+a1 e45 a2 e3 --> a1 e4 a2 e35
+a1 e45 a2 e3 --> e145 a2 e3
+a1 e45 a2 e3 --> a1 e5 a2 e34
+e5 a12 e34 --> a2 e5 a1 e34
+e5 a12 e34 --> a1 e5 a2 e34
+a5 e2 a3 e14 --> a35 e124
+a5 e2 a3 e14 --> e25 a3 e14
+a4 e2 a1 e35 --> a14 e235
+a4 e2 a1 e35 --> e24 a1 e35
+a3 e2 a1 e45 --> a13 e245
+a3 e2 a1 e45 --> e23 a1 e45
+e5 a4 e1 a2 e3 --> a4 e15 a2 e3
+e5 a4 e1 a2 e3 --> e5 a24 e13
+e4 a5 e2 a1 e3 --> a5 e24 a1 e3
+e4 a5 e2 a1 e3 --> e4 a15 e23
+e2 a1 e3 a4 e5 --> a1 e23 a4 e5
+e2 a1 e3 a4 e5 --> e2 a14 e35
+a2 e34 a5 e1 --> e234 a5 e1
+a2 e34 a5 e1 --> a2 e4 a5 e13
+a2 e34 a5 e1 --> a2 e3 a5 e14
+e12 a3 e45 --> e1 a3 e245
+e12 a3 e45 --> e2 a3 e145
+e3 a45 e12 --> a5 e3 a4 e12
+e3 a45 e12 --> a4 e3 a5 e12
+e2 a4 e1 a3 e5 --> a4 e12 a3 e5
+e2 a4 e1 a3 e5 --> e2 a34 e15
+a5 e3 a4 e12 --> e35 a4 e12
+a5 e3 a4 e12 --> a45 e123
+e2 a3 e4 a5 e1 --> e2 a35 e14
+e2 a3 e4 a5 e1 --> a3 e24 a5 e1
+a12 e3 a4 e5 --> a124 e35
+a12 e3 a4 e5 --> e2 a1 e3 a4 e5
+a12 e3 a4 e5 --> e1 a2 e3 a4 e5
+a35 e2 a4 e1 --> a345 e12
+a35 e2 a4 e1 --> e5 a3 e2 a4 e1
+a35 e2 a4 e1 --> e3 a5 e2 a4 e1
+a1 e4 a25 e3 --> a12 e4 a5 e3
+a1 e4 a25 e3 --> e14 a25 e3
+a1 e4 a25 e3 --> a15 e4 a2 e3
+a3 e1245 --> e12345
+e3 a5 e124 --> a5 e1234
+a5 e24 a3 e1 --> e245 a3 e1
+a5 e24 a3 e1 --> a5 e4 a3 e12
+a5 e24 a3 e1 --> a5 e2 a3 e14
+a4 e3 a1 e25 --> a14 e235
+a4 e3 a1 e25 --> e34 a1 e25
+a145 e23 --> e5 a14 e23
+a145 e23 --> e4 a15 e23
+a145 e23 --> e1 a45 e23
+e4 a13 e25 --> a1 e4 a3 e25
+e4 a13 e25 --> a3 e4 a1 e25
+a15 e2 a3 e4 --> e5 a1 e2 a3 e4
+a15 e2 a3 e4 --> e1 a5 e2 a3 e4
+a15 e2 a3 e4 --> a135 e24
+e1 a25 e34 --> a2 e1 a5 e34
+e1 a25 e34 --> a5 e1 a2 e34
+e5 a134 e2 --> a4 e5 a13 e2
+e5 a134 e2 --> a3 e5 a14 e2
+e5 a134 e2 --> a1 e5 a34 e2
+a3 e45 a2 e1 --> a3 e5 a2 e14
+a3 e45 a2 e1 --> e345 a2 e1
+a3 e45 a2 e1 --> a3 e4 a2 e15
+a5 e1 a24 e3 --> a45 e1 a2 e3
+a5 e1 a24 e3 --> a25 e1 a4 e3
+a5 e1 a24 e3 --> e15 a24 e3
+e24 a1 e35 --> e4 a1 e235
+e24 a1 e35 --> e2 a1 e345
+e2 a5 e3 a1 e4 --> a5 e23 a1 e4
+e2 a5 e3 a1 e4 --> e2 a15 e34
+a5 e2 a1 e34 --> a15 e234
+a5 e2 a1 e34 --> e25 a1 e34
+e4 a3 e2 a1 e5 --> e4 a13 e25
+e4 a3 e2 a1 e5 --> a3 e24 a1 e5
+e2 a145 e3 --> a5 e2 a14 e3
+e2 a145 e3 --> a4 e2 a15 e3
+e2 a145 e3 --> a1 e2 a45 e3
+e1 a245 e3 --> a4 e1 a25 e3
+e1 a245 e3 --> a2 e1 a45 e3
+e1 a245 e3 --> a5 e1 a24 e3
+a3 e2 a15 e4 --> e23 a15 e4
+a3 e2 a15 e4 --> a35 e2 a1 e4
+a3 e2 a15 e4 --> a13 e2 a5 e4
+e5 a2 e134 --> a2 e1345
+a2 e4 a35 e1 --> a23 e4 a5 e1
+a2 e4 a35 e1 --> a25 e4 a3 e1
+a2 e4 a35 e1 --> e24 a35 e1
+a2 e3 a45 e1 --> a25 e3 a4 e1
+a2 e3 a45 e1 --> a24 e3 a5 e1
+a2 e3 a45 e1 --> e23 a45 e1
+e5 a4 e123 --> a4 e1235
+a12 e3 a5 e4 --> a125 e34
+a12 e3 a5 e4 --> e1 a2 e3 a5 e4
+a12 e3 a5 e4 --> e2 a1 e3 a5 e4
+a2 e5 a14 e3 --> e25 a14 e3
+a2 e5 a14 e3 --> a24 e5 a1 e3
+a2 e5 a14 e3 --> a12 e5 a4 e3
+a2 e5 a13 e4 --> e25 a13 e4
+a2 e5 a13 e4 --> a23 e5 a1 e4
+a2 e5 a13 e4 --> a12 e5 a3 e4
+a24 e135 --> e2 a4 e135
+a24 e135 --> e4 a2 e135
+e3 a1 e245 --> a1 e2345
+a2 e3 a14 e5 --> e23 a14 e5
+a2 e3 a14 e5 --> a24 e3 a1 e5
+a2 e3 a14 e5 --> a12 e3 a4 e5
+e5 a4 e2 a1 e3 --> e5 a14 e23
+e5 a4 e2 a1 e3 --> a4 e25 a1 e3
+e1 a2 e3 a5 e4 --> a2 e13 a5 e4
+e1 a2 e3 a5 e4 --> e1 a25 e34
+e5 a2 e4 a3 e1 --> e5 a23 e14
+e5 a2 e4 a3 e1 --> a2 e45 a3 e1
+e2 a3 e145 --> a3 e1245
+e3 a24 e15 --> a4 e3 a2 e15
+e3 a24 e15 --> a2 e3 a4 e15
+a2 e3 a5 e14 --> e23 a5 e14
+a2 e3 a5 e14 --> a25 e134
+e4 a3 e1 a5 e2 --> a3 e14 a5 e2
+e4 a3 e1 a5 e2 --> e4 a35 e12
+a1 e34 a2 e5 --> a1 e3 a2 e45
+a1 e34 a2 e5 --> e134 a2 e5
+a1 e34 a2 e5 --> a1 e4 a2 e35
+e5 a123 e4 --> a1 e5 a23 e4
+e5 a123 e4 --> a2 e5 a13 e4
+e5 a123 e4 --> a3 e5 a12 e4
+e3 a1 e4 a2 e5 --> e3 a12 e45
+e3 a1 e4 a2 e5 --> a1 e34 a2 e5
+e4 a15 e23 --> a1 e4 a5 e23
+e4 a15 e23 --> a5 e4 a1 e23
+e3 a15 e24 --> a5 e3 a1 e24
+e3 a15 e24 --> a1 e3 a5 e24
+e3 a5 e1 a4 e2 --> a5 e13 a4 e2
+e3 a5 e1 a4 e2 --> e3 a45 e12
+a1 e45 a3 e2 --> a1 e4 a3 e25
+a1 e45 a3 e2 --> e145 a3 e2
+a1 e45 a3 e2 --> a1 e5 a3 e24
+e34 a5 e12 --> e4 a5 e123
+e34 a5 e12 --> e3 a5 e124
+a5 e4 a12 e3 --> e45 a12 e3
+a5 e4 a12 e3 --> a25 e4 a1 e3
+a5 e4 a12 e3 --> a15 e4 a2 e3
+a5 e3 a12 e4 --> a25 e3 a1 e4
+a5 e3 a12 e4 --> e35 a12 e4
+a5 e3 a12 e4 --> a15 e3 a2 e4
+a3 e4 a12 e5 --> a13 e4 a2 e5
+a3 e4 a12 e5 --> e34 a12 e5
+a3 e4 a12 e5 --> a23 e4 a1 e5
+a5 e3 a14 e2 --> a45 e3 a1 e2
+a5 e3 a14 e2 --> a15 e3 a4 e2
+a5 e3 a14 e2 --> e35 a14 e2
+e2 a14 e35 --> a1 e2 a4 e35
+e2 a14 e35 --> a4 e2 a1 e35
+e3 a4 e5 a1 e2 --> a4 e35 a1 e2
+e3 a4 e5 a1 e2 --> e3 a14 e25
+e4 a2 e1 a3 e5 --> a2 e14 a3 e5
+e4 a2 e1 a3 e5 --> e4 a23 e15
+e3 a125 e4 --> a1 e3 a25 e4
+e3 a125 e4 --> a2 e3 a15 e4
+e3 a125 e4 --> a5 e3 a12 e4
+e1 a2 e3 a4 e5 --> e1 a24 e35
+e1 a2 e3 a4 e5 --> a2 e13 a4 e5
+a4 e23 a5 e1 --> a4 e2 a5 e13
+a4 e23 a5 e1 --> e234 a5 e1
+a4 e23 a5 e1 --> a4 e3 a5 e12
+e2 a5 e1 a3 e4 --> e2 a35 e14
+e2 a5 e1 a3 e4 --> a5 e12 a3 e4
+a1 e24 a5 e3 --> a1 e4 a5 e23
+a1 e24 a5 e3 --> a1 e2 a5 e34
+a1 e24 a5 e3 --> e124 a5 e3
+a1 e4 a35 e2 --> a15 e4 a3 e2
+a1 e4 a35 e2 --> e14 a35 e2
+a1 e4 a35 e2 --> a13 e4 a5 e2
+a5 e2 a4 e13 --> a45 e123
+a5 e2 a4 e13 --> e25 a4 e13
+a4 e25 a3 e1 --> a4 e2 a3 e15
+a4 e25 a3 e1 --> a4 e5 a3 e12
+a4 e25 a3 e1 --> e245 a3 e1
+a3 e25 a4 e1 --> a3 e5 a4 e12
+a3 e25 a4 e1 --> e235 a4 e1
+a3 e25 a4 e1 --> a3 e2 a4 e15
+a235 e14 --> e2 a35 e14
+a235 e14 --> e5 a23 e14
+a235 e14 --> e3 a25 e14
+a3 e24 a1 e5 --> e234 a1 e5
+a3 e24 a1 e5 --> a3 e4 a1 e25
+a3 e24 a1 e5 --> a3 e2 a1 e45
+e1 a5 e3 a2 e4 --> a5 e13 a2 e4
+e1 a5 e3 a2 e4 --> e1 a25 e34
+a1 e2 a45 e3 --> a15 e2 a4 e3
+a1 e2 a45 e3 --> e12 a45 e3
+a1 e2 a45 e3 --> a14 e2 a5 e3
+a1 e5 a2 e34 --> e15 a2 e34
+a1 e5 a2 e34 --> a12 e345
+e124 a5 e3 --> e12 a5 e34
+e124 a5 e3 --> e14 a5 e23
+e124 a5 e3 --> e24 a5 e13
+a1 e2 a35 e4 --> a13 e2 a5 e4
+a1 e2 a35 e4 --> e12 a35 e4
+a1 e2 a35 e4 --> a15 e2 a3 e4
+e3 a4 e1 a2 e5 --> a4 e13 a2 e5
+e3 a4 e1 a2 e5 --> e3 a24 e15
+e1 a4 e5 a3 e2 --> e1 a34 e25
+e1 a4 e5 a3 e2 --> a4 e15 a3 e2
+a12 e5 a4 e3 --> a124 e35
+a12 e5 a4 e3 --> e2 a1 e5 a4 e3
+a12 e5 a4 e3 --> e1 a2 e5 a4 e3
+a12 e5 a3 e4 --> a123 e45
+a12 e5 a3 e4 --> e2 a1 e5 a3 e4
+a12 e5 a3 e4 --> e1 a2 e5 a3 e4
+a4 e3 a15 e2 --> e34 a15 e2
+a4 e3 a15 e2 --> a45 e3 a1 e2
+a4 e3 a15 e2 --> a14 e3 a5 e2
+e3 a1 e4 a5 e2 --> a1 e34 a5 e2
+e3 a1 e4 a5 e2 --> e3 a15 e24
+e2 a1 e4 a3 e5 --> a1 e24 a3 e5
+e2 a1 e4 a3 e5 --> e2 a13 e45
+a1 e2345 --> e12345
+a35 e1 a4 e2 --> a345 e12
+a35 e1 a4 e2 --> e5 a3 e1 a4 e2
+a35 e1 a4 e2 --> e3 a5 e1 a4 e2
+e2 a3 e1 a4 e5 --> e2 a34 e15
+e2 a3 e1 a4 e5 --> a3 e12 a4 e5
+a2 e4 a15 e3 --> a12 e4 a5 e3
+a2 e4 a15 e3 --> a25 e4 a1 e3
+a2 e4 a15 e3 --> e24 a15 e3
+e2 a1 e3 a5 e4 --> e2 a15 e34
+e2 a1 e3 a5 e4 --> a1 e23 a5 e4
+a5 e34 a2 e1 --> e345 a2 e1
+a5 e34 a2 e1 --> a5 e3 a2 e14
+a5 e34 a2 e1 --> a5 e4 a2 e13
+e5 a34 e12 --> a3 e5 a4 e12
+e5 a34 e12 --> a4 e5 a3 e12
+a5 e23 a4 e1 --> e235 a4 e1
+a5 e23 a4 e1 --> a5 e3 a4 e12
+a5 e23 a4 e1 --> a5 e2 a4 e13
+e2 a134 e5 --> a1 e2 a34 e5
+e2 a134 e5 --> a3 e2 a14 e5
+e2 a134 e5 --> a4 e2 a13 e5
+a4 e3 a5 e12 --> a45 e123
+a4 e3 a5 e12 --> e34 a5 e12
+a135 e24 --> e1 a35 e24
+a135 e24 --> e5 a13 e24
+a135 e24 --> e3 a15 e24
+a34 e5 a1 e2 --> a134 e25
+a34 e5 a1 e2 --> e4 a3 e5 a1 e2
+a34 e5 a1 e2 --> e3 a4 e5 a1 e2
+e1 a345 e2 --> a5 e1 a34 e2
+e1 a345 e2 --> a4 e1 a35 e2
+e1 a345 e2 --> a3 e1 a45 e2
+e2 a3 e5 a4 e1 --> e2 a34 e15
+e2 a3 e5 a4 e1 --> a3 e25 a4 e1
+a4 e35 a2 e1 --> a4 e3 a2 e15
+a4 e35 a2 e1 --> e345 a2 e1
+a4 e35 a2 e1 --> a4 e5 a2 e13
+e3 a5 e2 a4 e1 --> e3 a45 e12
+e3 a5 e2 a4 e1 --> a5 e23 a4 e1
+e4 a5 e2 a3 e1 --> e4 a35 e12
+e4 a5 e2 a3 e1 --> a5 e24 a3 e1
+a2 e45 a3 e1 --> a2 e4 a3 e15
+a2 e45 a3 e1 --> a2 e5 a3 e14
+a2 e45 a3 e1 --> e245 a3 e1
+a1 e3 a5 e24 --> a15 e234
+a1 e3 a5 e24 --> e13 a5 e24
+e23 a1 e45 --> e2 a1 e345
+e23 a1 e45 --> e3 a1 e245
+a34 e2 a1 e5 --> a134 e25
+a34 e2 a1 e5 --> e3 a4 e2 a1 e5
+a34 e2 a1 e5 --> e4 a3 e2 a1 e5
+e3 a4 e2 a5 e1 --> e3 a45 e12
+e3 a4 e2 a5 e1 --> a4 e23 a5 e1
+a3 e5 a12 e4 --> e35 a12 e4
+a3 e5 a12 e4 --> a13 e5 a2 e4
+a3 e5 a12 e4 --> a23 e5 a1 e4
+e3 a2 e4 a5 e1 --> e3 a25 e14
+e3 a2 e4 a5 e1 --> a2 e34 a5 e1
+e1 a45 e23 --> a5 e1 a4 e23
+e1 a45 e23 --> a4 e1 a5 e23
+e2 a5 e134 --> a5 e1234

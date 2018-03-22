@@ -1,0 +1,9 @@
+# These are the 6 edges of a concertina 2-cube.
+
+
+a12 --> e1 a2
+a12 --> e2 a1
+e1 a2 --> a2 e1
+e2 a1 --> a1 e2
+a1 e2 --> e12
+a2 e1 --> e12
