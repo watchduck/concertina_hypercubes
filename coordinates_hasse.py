@@ -57,7 +57,7 @@ for n in range(2, 7):
             abbr = abbr_strings[i]
             fill = (longest_abbr - len(abbr)) * ' '
             octal = octal_strings[i]
-            f.write("{{ 'abbr'='{a}',{f} 'octal'='{o}', 'point'={p}, 'rank'={r} }},\n".format(
+            f.write("{{ 'abbr': '{a}',{f} 'octal': '{o}', 'point': {p}, 'rank': {r} }},\n".format(
                 a=abbr, f=fill, o=octal, p=point, r=rank
             ))
         f.write('\n')

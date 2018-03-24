@@ -31,7 +31,7 @@ with m < n. Their convex hulls are formed by formulas that have the same partiti
 system('mkdir -p computed_results/cocoon/ranks computed_results/cocoon/hasse')
 
 # coordinates, vertical (quantifiers), horizontal (positions)
-old_points_and_formulas = [
+old_vertices = [
     ((0,), (False,), (0,)),
     ((2,), (True,), (0,)),
 ]
@@ -49,9 +49,9 @@ for n in range(2, 7):
     ranks = []
 
     # formulas without coinciding variables, i.e. vertices of the convex concertina n-cube
-    points_and_formulas = old_to_new_points_and_formulas(n, old_points_and_formulas)
+    vertices = old_to_new_points_and_formulas(n, old_vertices)
 
-    for point, vert, horz in points_and_formulas:
+    for point, vert, horz in vertices:
 
         rows_requiring_partitions = []
         partitions_of_sets = []
@@ -163,4 +163,4 @@ for n in range(2, 7):
 
 
     # Formulas become the basis of the calculation of new formulas in the next iteration.
-    old_points_and_formulas = points_and_formulas
+    old_vertices = vertices

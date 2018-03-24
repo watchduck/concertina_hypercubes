@@ -3,13 +3,13 @@
 # They are ordered by rank, and within that by coordinates.
 
 
-{ 'abbr'='a12',   'octal'='0', 'point'=(0, 0), 'rank'=0 },
+{ 'abbr': 'a12',   'octal': '0', 'point': (0, 0), 'rank': 0 },
 
-{ 'abbr'='e2 a1', 'octal'='4', 'point'=(0, 2), 'rank'=1 },
-{ 'abbr'='e1 a2', 'octal'='1', 'point'=(2, 0), 'rank'=1 },
+{ 'abbr': 'e2 a1', 'octal': '4', 'point': (0, 2), 'rank': 1 },
+{ 'abbr': 'e1 a2', 'octal': '1', 'point': (2, 0), 'rank': 1 },
 
-{ 'abbr'='a1 e2', 'octal'='6', 'point'=(1, 3), 'rank'=2 },
-{ 'abbr'='a2 e1', 'octal'='3', 'point'=(3, 1), 'rank'=2 },
+{ 'abbr': 'a1 e2', 'octal': '6', 'point': (1, 3), 'rank': 2 },
+{ 'abbr': 'a2 e1', 'octal': '3', 'point': (3, 1), 'rank': 2 },
 
-{ 'abbr'='e12',   'octal'='7', 'point'=(3, 3), 'rank'=3 },
+{ 'abbr': 'e12',   'octal': '7', 'point': (3, 3), 'rank': 3 },
 

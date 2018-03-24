@@ -11,11 +11,11 @@ old_points = [(0,), (2,)]
 
 for dimension in range(2, 7):
 
-    new_points = old_to_new_points(dimension, old_points)
+    points = old_to_new_points(dimension, old_points)
 
     number_of_ranks = int(1 + (dimension * (dimension + 1)) / 2)
     numbers_of_points_by_rank = number_of_ranks * [0]
-    for point in new_points:
+    for point in points:
         rank_of_this_point = int(sum(point) / 2)
         numbers_of_points_by_rank[rank_of_this_point] += 1
 
@@ -40,4 +40,4 @@ for dimension in range(2, 7):
     f.close()
 
     # Points become the basis of the calculation of new points in the next dimension.
-    old_points = new_points
+    old_points = points

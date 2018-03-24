@@ -8,9 +8,9 @@ old_points = [(0,), (2,)]
 
 for dimension in range(2, 7):
 
-    new_points = old_to_new_points(dimension, old_points)
+    points = old_to_new_points(dimension, old_points)
 
-    hull = ConvexHull(new_points)
+    hull = ConvexHull(points)
     volume = hull.volume
 
     # The computed results differ very slightly from integers (e.g. 52.00000000000001).
@@ -20,4 +20,4 @@ for dimension in range(2, 7):
     f.close()
 
     # Points become the basis of the calculation of new points in the next dimension.
-    old_points = new_points
+    old_points = points

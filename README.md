@@ -86,7 +86,7 @@ But it seems to be possible to force each inner vertex on a rank level of the co
 [2&nbsp;/&nbsp;4](https://commons.wikimedia.org/wiki/File:Cocoon_concertina_cube;_ranks_2_and_4.png) and
 [3](https://commons.wikimedia.org/wiki/File:Cocoon_concertina_cube;_rank_3.png) for <i>n</i>&nbsp;=&nbsp;3).
 The reason is that there are many substructures with (real or assigned) ranks.
-Among them are smaller cocoons
+Apart from the convex solid these are smaller cocoons
 (like [this 2- in a 3-cocoon](https://commons.wikimedia.org/wiki/File:Cocoon_concertina_cube;_diag_yz.png))
 and Hasse diagrams of set partitions
 (like [this one for a 4-set](https://commons.wikimedia.org/wiki/File:Set_partitions_4;_Hasse;_circles.svg)).
@@ -265,8 +265,8 @@ The formula and its abbreviation read the visualisation vertically.
 Formulas with parentheses in the abbreviations (and white dots in the visualisations) have coinciding variables,<br>
 so they are not found in the convex but only in the cocoon concertina hypercubes.
 
-The formula <i>a2 e1 a3</i> implies <i>a23 e1</i>. The octal strings make this easy to see: <i>31-0</i> is bitwise&nbsp;&le; <i>33-0</i>.<br>
-As there are no formulas between them
+The formula <i>a2 e1 a3</i> implies <i>a23 e1</i>. The pseudo-octal strings make this easy to see: <i>31-0</i> is bitwise&nbsp;&le; <i>33-0</i>.<br>
+As there are no formulas between them,
 [`a2 e1 a3 --> a23 e1`](https://github.com/watchduck/concertina_hypercubes/blob/master/computed_results/hasse/3.txt)
 is an edge of the concertina cube.
 
