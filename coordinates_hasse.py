@@ -43,6 +43,8 @@ for n in range(2, 7):
         points_by_rank[rank].append(point)
         indices_by_rank[rank].append(i)
 
+    # vertices
+
     f = open('./computed_results/coordinates/{n}.txt'.format(n=n), 'a')
     f.write('# These are the {l} vertices of a concertina {n}-cube represented as\n'
             '# abbreviations of the formulas, pseudo-octal strings and coordinates.\n'
@@ -61,10 +63,8 @@ for n in range(2, 7):
         f.write('\n')
     f.close()
 
-
-
-
-
+    # edges
+    
     hasse = create_hasse_matrix(octal_strings)
     number_of_edges = hasse.sum()
 

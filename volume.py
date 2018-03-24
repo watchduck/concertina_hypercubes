@@ -4,9 +4,9 @@ from os import system
 
 system('mkdir computed_results')
 
-old_points = [(0, 0), (0, 2), (1, 3), (2, 0), (3, 1), (3, 3)]
+old_points = [(0,), (2,)]
 
-for dimension in range(3, 7):
+for dimension in range(2, 7):
 
     new_points = old_to_new_points(dimension, old_points)
 
