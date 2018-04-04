@@ -4,7 +4,7 @@ The graph of a concertina <i>n</i>-cube is the [Hasse diagram](https://en.wikipe
 of implications between <i>n</i>-place [formulas in predicate logic](https://en.wikiversity.org/wiki/Formulas_in_predicate_logic).
 
 The concertina <i>n</i>-cube is the geometric interpretation of this graph as a truncation of the [<i>n</i>-cube](https://en.wikipedia.org/wiki/Hypercube).<br>
-Each of its pairs of opposite vertices corresponds to a hyperface of the [permutohedron](https://en.wikipedia.org/wiki/Permutohedron) of order <i>n</i>.
+Each of its pairs of opposite vertices corresponds to a [face](https://en.wikipedia.org/wiki/Face_(geometry)#k-face) of the [permutohedron](https://en.wikipedia.org/wiki/Permutohedron) of order <i>n</i>.
 
 The cocoon concertina hypercube is a version with additional internal vertices and edges.
 
@@ -281,14 +281,14 @@ An explanation how it works can be found [here](https://en.wikiversity.org/wiki/
 
 This project was created to calculate some integer sequences describing concertina hypercubes.<br>
 They are found in the [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences).
-Currently there are no formulas, and the calculations take too long for <i>n</i>&nbsp;>&nbsp;6.
+Currently there are no formulas, and the calculations take too long for <i>n</i>&nbsp;&ge;&nbsp;6.
 
 ### Convex
 
 ID | description | <i>n</i> = 3 | calculation
 --- | --- | --- | ---
-[A300700](https://oeis.org/A300700) | k-faces | 26, 42, 18, 1 | <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/faces.sage">faces.sage</a>
-[A300701](https://oeis.org/A300701) | sum of k-faces<br>(row sums of A300700) | 87 | faces.sage
+[A300700](https://oeis.org/A300700) | (<i>n</i>−<i>k</i>)-faces | 1, 18, 42, 26 | <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/faces.sage">faces.sage</a>
+[A300701](https://oeis.org/A300701) | sum of <i>k</i>-faces<br>(row sums of A300700) | 87 | faces.sage
 [A000629](https://oeis.org/A000629) | vertices<br>(column 0 of A300700,<br>row sums of A300699) | 26 |
 [A300693](https://oeis.org/A300693) | edges<br>(column 1 of A300700) | 42 | <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/coordinates_hasse.py">coordinates_hasse.py</a>
 [A300699](https://oeis.org/A300699) | vertices by rank | 1, 3, 6, 6, 6, 3, 1 | <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/ranks_convex.py">ranks_convex.py</a>
@@ -308,3 +308,8 @@ ID | description | <i>n</i> = 3 | calculation
 [A300696](https://oeis.org/A300696) | vertices<br>(row sums of A300695) | 46 | <a href=""></a>
 [A300694](https://oeis.org/A300694) | edges | 139 | cocoon.py
 
+## Requirements
+
+Libraries that were installed in Virtualenv are in
+[`requirements.txt`](https://github.com/watchduck/concertina_hypercubes/blob/master/requirements.txt).
+[Sage](https://en.wikipedia.org/wiki/SageMath) 8.1 was installed globally.
