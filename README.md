@@ -308,8 +308,21 @@ ID | description | <i>n</i> = 3 | calculation
 [A300696](https://oeis.org/A300696) | vertices<br>(row sums of A300695) | 46 | <a href=""></a>
 [A300694](https://oeis.org/A300694) | edges | 139 | cocoon.py
 
+
+## Concertina tesseract details
+
+<a href="https://commons.wikimedia.org/wiki/File:Concertina_tesseract_with_gray_cells.png">
+  <img align="right" width="300" alt="projection of the concertina tesseract"
+  src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Concertina_tesseract_with_gray_cells.png"/>
+</a>
+
+A closer look at the geometric properties of the 4-concertina can be found in
+[this subfolder](https://github.com/watchduck/concertina_hypercubes/tree/master/concertina_tesseract_details),
+especially in
+[`variables.py`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/variables.py).
+
 ## Requirements
 
 Libraries that were installed in Virtualenv are in
-[`requirements.txt`](https://github.com/watchduck/concertina_hypercubes/blob/master/requirements.txt).
+[`requirements.txt`](https://github.com/watchduck/concertina_hypercubes/blob/master/requirements.txt).<br>
 [Sage](https://en.wikipedia.org/wiki/SageMath) 8.1 was installed globally.

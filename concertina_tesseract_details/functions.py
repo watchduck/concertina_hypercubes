@@ -62,6 +62,63 @@ def pairs_to_sequences(pairs_arg):
     return sequences
 
 
+# POLYGON ANGLES
+# https://stackoverflow.com/questions/2827393/angles-between-two-n-dimensional-vectors-in-python/13849249#13849249
+
+def unit_vector(vector):
+    """ Returns the unit vector of the vector.  """
+    return vector / np.linalg.norm(vector)
+
+
+def angle_between(v1, v2):
+    """ Returns the angle in radians between vectors 'v1' and 'v2'"""
+    v1_u = unit_vector(v1)
+    v2_u = unit_vector(v2)
+    return np.arccos(np.clip(np.dot(v1_u, v2_u), -1.0, 1.0))
+
+
+def representative_circular_list(a):
+    length = len(a)
+    aa = a[:] + a[:]
+    versions = []
+    for i in range(length):
+        version = aa[i:i+length]
+        versions.append(version)
+    return sorted(versions)[0]
+
+
+angles_rad_to_deg = {
+    0.7853981633974484: 45,
+    1.0471975511965979: 60,
+    1.5707963267948966: 90,
+    2.0943951023931953: 120
+}
+lengths_val_to_key = {
+    1.4142135623730951: 0,
+    2.0: 1
+}
+
+def polygon_shape(points_input):
+    n = len(points_input)
+    points = points_input[:] + points_input[0:2]
+    angles = []
+    lengths = []
+    for i in range(n):
+        a, b, c = [np.array(points[j]) for j in range(i, i+3)]
+        v = a - b
+        w = b - c
+        angle = angle_between(v, w)
+        angle = angles_rad_to_deg[angle]
+        angles.append(angle)
+        length = np.linalg.norm(v)
+        length = lengths_val_to_key[length]
+        lengths.append(length)
+
+    angles = tuple(representative_circular_list(angles))
+    lengths = tuple(sorted(lengths))
+    return angles, lengths
+
+
 # PROJECTION FROM 4D TO 3D
 # inspired by http://blog.hypercubed.com/wp-content/misc/hypercube.pov
 
