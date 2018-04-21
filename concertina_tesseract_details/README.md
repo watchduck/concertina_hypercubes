@@ -71,8 +71,7 @@ in the projection of the concertina. It should be noted that the original 4D poi
 (except for the top vertex projected to the center).
 Tesseract and concertina have only two opposite points in common.
 The other 14 points of the tesseract correspond not to vertices, but to cells of the concertina ―
-namely those highlighted in gray in the rank picture above.<br>
-
+namely those highlighted in gray in the rank picture above.<br><br>
 `[1/5, -1, -1, -1]` is a vertex with rank 1 in the concertina.<br>
 `[1, -1, -1, -1]` is a vertex with rank 1 in the tesseract.<br>
 For both points `project_from_4d_to_3d` returns `[0.70710678 -0.40824829 -0.28867513]`,

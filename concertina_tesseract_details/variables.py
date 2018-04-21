@@ -35,7 +35,7 @@ faces_containing_origin = [0, 6, 8, 102, 104, 114]
 
 # 58 CELLS
 # - 8 concertina cubes
-# - 8 trigonal trapezohedra (like a cube, but with 8 rhombs)
+# - 8 trigonal trapezohedra (like a cube, but with 6 rhombs)
 # - 24 right rhombic prisms (like a cube, but with 2 rhombs and 4 rectangles)
 # - 6 squared rhombic dodecahedra (8 rhombs and 4 squares)
 # - 12 concertina square prisms
