@@ -110,7 +110,7 @@ The four different cell types apart from the concertina cube:
     <td>Trigonal trapezohedron</td>
     <td>Right rhombic prism</td>
     <td>Squared rhombic dodecahedron</td>
-    <td>Concertina cube prism</td>
+    <td>Concertina square prism</td>
   </tr>
 </table>
 
