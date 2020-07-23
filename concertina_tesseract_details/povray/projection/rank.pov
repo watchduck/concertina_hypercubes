@@ -1,7 +1,7 @@
-#include "concertina_tesseract.inc"
+#include "projection.inc"
 
 
-#local HighlightRank = 1;
+#local HighlightRank = 5;
 
 #local LightRed = <1, 0, 0, 0>;
 #local DarkRed = <.6, 0, 0, 0>;
@@ -27,7 +27,7 @@ union{
 
     // VERTICES
     union{
-        #for( i, 1, dimension_size(VertexPoints, 1)-1 )
+        #for( i, FirstVertex, dimension_size(VertexPoints, 1)-1 )
             #local Rank = VertexRanks[i];
             #local Rad = RankToVertexRad(Rank);
             #if(Rank=HighlightRank)
@@ -42,8 +42,8 @@ union{
 
     // EDGES
     union{
-        #for( i, 0, dimension_size(EdgesWithoutOrigin, 1)-1 )
-            #local EdgeIndex = EdgesWithoutOrigin[i];
+        #for( i, 0, dimension_size(EdgeIndices, 1)-1 )
+            #local EdgeIndex = EdgeIndices[i];
             #local Edge = EdgeArrays[EdgeIndex];
             #local VertexIndex1 = Edge[0];
             #local VertexIndex2 = Edge[1];
@@ -74,8 +74,6 @@ union{
         pigment{color rgbt <.7, .7, .7, .5>}
     }
     
-    rotate -90*x
-    rotate 4*y
-    rotate 4*z
+    Rotate()
 }
 

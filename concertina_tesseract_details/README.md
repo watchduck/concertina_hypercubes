@@ -8,13 +8,13 @@ They were calculated in
 [`cells.sage`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/cells.sage), and are now all in
 [`variables.py`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/variables.py).<br>
 Their POV-Ray counterparts are in
-[`concertina_tesseract.inc`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/concertina_tesseract.inc),
+[`projection.inc`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/projection.inc),
 included by the `.pov` files.
 
 ## Tetrahedral shadow
 
 The 3D coordinates were calculated in
-[`projection_from_vertex.py`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/projection_from_vertex.py)
+[`projection_tetrahedral.py`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/projection_tetrahedral.py)
 using
 [`project_from_4d_to_3d`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/functions.py).<br>
 (This Python code was inspired by [this](http://blog.hypercubed.com/wp-content/misc/hypercube.pov)
@@ -45,17 +45,17 @@ POV-Ray code by [J. Harshbarger](https://github.com/Hypercubed)).
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/tetrahedral_shadow/blue.pov">
+      <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/projection/blue.pov">
         <code>blue.pov</code>
       </a>
     </td>
     <td>
-      <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/tetrahedral_shadow/rank.pov">
+      <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/projection/rank.pov">
         <code>rank.pov</code>
       </a>
     </td>
     <td>
-      <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/tetrahedral_shadow/6_upper_concertina_cube.pov">
+      <a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/projection/6_upper_concertina_cube.pov">
         <code>6_upper_concertina_cube.pov</code>
       </a>
     </td>
@@ -117,3 +117,17 @@ The four different cell types apart from the concertina cube:
 The POV-Ray sources are
 <code>plain_cells/<a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/plain_cells/3a_rhombic_dodecahedron.pov">3a_rhombic_dodecahedron.pov</a></code>,
 etc.
+
+## Bilinski shadow
+
+<a href="https://commons.wikimedia.org/wiki/File:Concertina_tesseract_with_blue_faces,_Bilinski.png">
+  <img align="left" width="300" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Concertina_tesseract_with_blue_faces%2C_Bilinski.png"/>
+</a>
+
+There is also a projection that corresponds to the
+<a href="https://commons.wikimedia.org/wiki/Category:Bilinski_dodecahedral_tesseract_shadow">Bilinski dodecahedral projection of the tesseract</a>.
+The coordinates are created in
+<a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/povray/projection/projection_bilinski.py"><code>projection_bilinski.py</code></a>
+and shown in
+<a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/projection_bilinski.inc"><code>projection_bilinski.inc</code></a>.
+This projection lacks the clarity of the tetrahedral one, but shows all 150 vertices.
