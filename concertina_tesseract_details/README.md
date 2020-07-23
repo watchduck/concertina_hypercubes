@@ -16,7 +16,7 @@ The 3D coordinates were calculated in
 [`projection_tetrahedral.py`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/projection_tetrahedral.py)
 (using [`project_from_4d_to_3d`](https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/functions.py))
 and are stored in
-<a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/projection/projection_tetrahedral.inc"><code>projection_tetrahedral.inc</code></a>.<br>
+<a href="https://github.com/watchduck/concertina_hypercubes/blob/master/concertina_tesseract_details/projection/projection_tetrahedral.inc"><code>projection_tetrahedral.inc</code></a>.
 (This Python code was inspired by [this](http://blog.hypercubed.com/wp-content/misc/hypercube.pov)
 POV-Ray code by [J. Harshbarger](https://github.com/Hypercubed)).
 
